@@ -1,0 +1,31 @@
+---
+title: The Effects of Emotional Valence and Perceived Life Stress on Recalling Personal
+  Experiences and Envisioning Future Events
+authors:
+- Azara Lalla
+- Signy Sheldon
+date: '2021-10-01'
+publishDate: '2025-05-28T02:32:40.520195Z'
+publication_types:
+- article-journal
+publication: '*Emotion*'
+doi: 10.1037/emo0001050
+abstract: Although it is understood that engaging in mental time travel to remember
+  the past and imagine the future relies on similar cognitive processes, there are
+  important differences. Notably, there is evidence that emotional valence differently
+  affects how past and future events are accessed. Here, we explored the differential
+  effect of emotional valence on past and future event generation in the context of
+  personal stress. This is based on findings that an individual's current life stress
+  -a metric of mental health-alters emotional mental time travel. In an online experiment
+  conducted during the novel coronavirus 2019 (COVID-19) pandemic, 421 participants
+  generated specific past and future events to a series of positive and negative cues
+  and then rated the likelihood that the event would occur in the future, the emotion
+  conveyed in the event, and the difficulty of generating the event. Participants
+  also completed a questionnaire estimating current life stress. We found a general
+  bias toward generating specific positive future events that was not present when
+  generating past events. Additionally, we found a small but significant effect of
+  stress levels on ratings of difficulty and likelihood for events generated in response
+  to positive cues. These results provide new insight into how an individual's current
+  stress selectively targets the way positive life events are perceived. (PsycInfo
+  Database Record (c) 2021 APA, all rights reserved).
+---

@@ -1,0 +1,25 @@
+---
+title: 'Personal Memories for Remote Historical Events: Accuracy and Clarity of Flashbulb
+  Memories Related to World War II'
+authors:
+- Dorthe Berntsen
+- Dorthe K. Thomsen
+date: '2005-05-01'
+publishDate: '2025-05-28T02:32:37.894943Z'
+publication_types:
+- article-journal
+publication: '*Journal of Experimental Psychology: General*'
+doi: 10.1037/0096-3445.134.2.242
+abstract: One hundred forty-five Danes between 72 and 89 years of age were asked for
+  their memories of their reception of the news of the Danish occupation (April 1940)
+  and liberation (May 1945) and for their most negative and most positive personal
+  memories from World War II. Almost all reported memories for the invasion and liberation.
+  Their answers to factual questions (e.g., the weather) were corroborated against
+  objective records and compared with answers from a younger control group. The older
+  participants were far more accurate than what could be predicted on the basis of
+  results from test-retest studies using short delays. The \"permastore\" metaphor
+  (Bahrick, 1984) provides a possible interpretation of this discrepancy. Participants
+  with reported ties to the resistance movement had more vivid, detailed, and accurate
+  memories than did participants without such ties. Ratings of surprise and consequentiality
+  were unrelated to the accuracy and clarity of the memories.
+---

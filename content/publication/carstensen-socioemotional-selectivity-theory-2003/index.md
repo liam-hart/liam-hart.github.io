@@ -1,0 +1,26 @@
+---
+title: Socioemotional Selectivity Theory and the Regulation of Emotion in the Second
+  Half of Life1
+authors:
+- Laura L. Carstensen
+- Helene H. Fung
+- Susan T. Charles
+date: '2003-01-01'
+publishDate: '2025-05-28T02:32:38.346705Z'
+publication_types:
+- article-journal
+publication: '*Motivation and Emotion*'
+doi: 10.1023/A:1024569803230
+abstract: Far more attention has been paid to emotion regulation in childhood than
+  in adulthood and old age. However, a growing body of empirical research suggests
+  that the emotion domain is largely spared from deleterious processes associated
+  with aging and points instead to developmental gains in later life. By applying
+  tenets from socioemotional selectivity theory, we attempt to explain the observed
+  gains in terms of motivation. We argue that age is associated with increasing motivation
+  to derive emotional meaning from life and decreasing motivation to expand one's
+  horizons. These changes lead to age differences in social and environmental choices
+  (consistent with antecedent emotion regulation), coping (consistent with response-focused
+  regulation), and cognitive processing of positive and negative information (consistent
+  with goal-directed attention and memory). Broader implications for life-span development
+  are discussed.
+---

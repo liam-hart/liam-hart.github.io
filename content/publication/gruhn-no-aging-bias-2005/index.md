@@ -1,0 +1,26 @@
+---
+title: 'No Aging Bias Favoring Memory for Positive Material: Evidence from a Heterogeneity-Homogeneity
+  List Paradigm Using Emotionally Toned Words'
+authors:
+- Daniel Grühn
+- Jacqui Smith
+- Paul B. Baltes
+date: '2005-12-01'
+publishDate: '2025-05-28T02:32:39.594423Z'
+publication_types:
+- article-journal
+publication: '*Psychology and Aging*'
+doi: 10.1037/0882-7974.20.4.579
+abstract: Some authors argue for a memory advantage of older adults for positively
+  toned material. To investigate the contribution of selective processing to a positivity
+  effect, the authors investigated young (n = 72, aged 18 to 31) and older (n = 72,
+  aged 64 to 75) adults' memory for emotionally toned words using a multitrial paradigm
+  that compares performance for heterogeneous (mixed valence) and homogeneous (single
+  valence) lists. Regarding the age comparison, there was no evidence for an aging
+  bias favoring positive material. Moreover, older adults' memory was less affected
+  by emotion-based processing prioritization. Although there was no support for age-specific
+  processing biases in memory for emotionally toned words, the findings are consistent
+  with proposals that negative information receives processing priority in some contexts.
+  Possible limits to the generalizability of the present findings (e.g., to nonverbal
+  material) are discussed.
+---

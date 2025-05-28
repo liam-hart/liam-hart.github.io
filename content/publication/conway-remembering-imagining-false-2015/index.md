@@ -1,0 +1,23 @@
+---
+title: Remembering, Imagining, False Memories & Personal Meanings
+authors:
+- Martin A. Conway
+- Catherine Loveday
+date: '2015-05-01'
+publishDate: '2025-05-28T02:32:38.620744Z'
+publication_types:
+- article-journal
+publication: '*Consciousness and Cognition*'
+doi: 10.1016/j.concog.2014.12.002
+abstract: The Self-Memory System encompasses the working self, autobiographical memory
+  and episodic memory. Specific autobiographical memories are patterns of activation
+  over knowledge structures in autobiographical and episodic memory brought about
+  by the activating effect of cues. The working self can elaborate cues based on the
+  knowledge they initially activate and so control the construction of memories of
+  the past and the future. It is proposed that such construction takes place in the
+  remembering-imagining system - a window of highly accessible recent memories and
+  simulations of near future events. How this malfunctions in various disorders is
+  considered as are the implication of what we term the modern view of human memory
+  for notions of memory accuracy. We show how all memories are to some degree false
+  and that the main role of memories lies in generating personal meanings.
+---

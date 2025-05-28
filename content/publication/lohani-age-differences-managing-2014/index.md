@@ -1,0 +1,31 @@
+---
+title: Age Differences in Managing Response to Sadness Elicitors Using Attentional
+  Deployment, Positive Reappraisal and Suppression
+authors:
+- Monika Lohani
+- Derek M. Isaacowitz
+date: '2014-05-01'
+publishDate: '2025-05-28T02:32:40.711456Z'
+publication_types:
+- article-journal
+publication: '*Cognition and Emotion*'
+doi: 10.1080/02699931.2013.853648
+abstract: The current study investigated age differences in the use of attentional
+  deployment, positive reappraisal and suppression while regulating responses to sadness-eliciting
+  content. We also tested to what extent these emotion regulation strategies were
+  useful for each age group in managing response to age-relevant sad information.
+  Forty-two young participants (M(age) = 18.5, SE = .15) and 48 older participants
+  (M(age) = 71.42, SE = 1.15) watched four sadness-eliciting videos (about death/illness,
+  four to five minutes long) under four conditions--no-regulation (no regulation instructions),
+  attentional deployment (divert attention away), positive reappraisal (focus on positive
+  outcomes) and suppression (conceal emotional expressions). We assessed negative
+  emotional experience, expression, skin conductance level (SCL) and visual fixation
+  duration while participants watched the emotional clips and followed the instructions
+  for each condition. Results suggest that older adults were more successful than
+  younger adults at implementing both attentional deployment and positive reappraisal.
+  Ability to suppress emotions appears to remain stable with age. Within age-group
+  comparisons suggested that for the older adults, positive reappraisal was a more
+  useful emotion regulation strategy than the others, while the pattern among younger
+  adults was less conclusive. Age-relevant differences in motivation and successful
+  emotion regulatory efforts based on theoretical and empirical literatures are discussed.
+---

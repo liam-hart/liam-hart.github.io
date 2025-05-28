@@ -1,0 +1,48 @@
+---
+title: 'My Sadness -- Our Happiness: Writing about Positive, Negative, and Neutral
+  Autobiographical Life Events Reveals Linguistic Markers of Self-Positivity and Individual
+  Well-Being'
+authors:
+- Cornelia Herbert
+- Eileen Bendig
+- Roberto Rojas
+date: '2019-01-01'
+publishDate: '2025-05-28T02:32:39.815515Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Psychology*'
+doi: 10.3389/fpsyg.2018.02522
+abstract: "Objective: Narratives of autobiographical events contain rich information
+  about an individual's private experience, his/her deepest thoughts, feelings, and
+  emotions. The present study investigates linguistic markers of emotion expression
+  and subjective well-being in adults during one session of positive, negative, and
+  neutral expressive writing. Participants (N = 28 healthy participants, N = 7 adults
+  with depressive symptoms), all native speakers of German were instructed to write
+  expressively about personally relevant autobiographical life events of negative,
+  positive, and neutral content. Methods: Quantitative text analysis was performed
+  to determine the amount of emotional words, first person pronouns (singular vs.
+  plural), and cognitive function words used in positive, negative, and neutral narratives
+  and to examine the potency of these classes of words as linguistic markers of positivity/negativity,
+  self-reference, and cognitive reappraisal. Additionally, the relationship between
+  expressive writing and subjective well-being was explored by assessing changes in
+  self-reported psychosomatic symptoms and in bodily and emotional awareness immediately
+  after positive, negative, and neutral writing. Results: Regarding healthy participants,
+  negative narratives contained significantly more negative emotional words than positive
+  or neutral narratives. However, negative narratives also contained more positive
+  emotional words compared to negative emotional words in positive narratives. Moreover,
+  negative narratives contained more cognitive function words than positive narratives,
+  suggesting that healthy participants tried to reappraise negative experiences while
+  writing about negative personal life events. Positive narratives were characterized
+  by an increased use of positive words and of pronouns of the first person plural
+  (\\\"we\\\"), supporting a positivity bias and an extension of self-reference from
+  first person singular to plural (we-reference) during positive expressive writing.
+  Similarly, writing about neutral events was characterized by a positivity bias.
+  Although based on descriptive analysis only, preferential use of positive words
+  and cognitive function words in negative narratives was absent in participants reporting
+  depressive symptoms. Positive, negative, and neutral expressive writing was accompanied
+  by differential changes in bodily sensations, emotional awareness, and self-reported
+  psychosomatic symptoms in all participants. Discussion: The findings are discussed
+  with respect to previous research, a self-positivity bias, and a universal positivity
+  bias in language use highlighting the relevance of these biases as markers of subjective
+  well-being."
+---

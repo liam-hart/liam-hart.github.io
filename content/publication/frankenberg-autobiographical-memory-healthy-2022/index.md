@@ -1,0 +1,36 @@
+---
+title: 'Autobiographical Memory in Healthy Aging: A Decade-Long Longitudinal Study'
+authors:
+- Claudia Frankenberg
+- Maren Knebel
+- Christina Degen
+- Jelena Sophie Siebert
+- Hans-Werner Wahl
+- Johannes Schröder
+date: '2022-01-01'
+publishDate: '2025-05-28T02:32:39.279906Z'
+publication_types:
+- article-journal
+publication: '*Aging, Neuropsychology, and Cognition*'
+doi: 10.1080/13825585.2020.1859082
+abstract: Autobiographic memory (AM) - which is generally considered to be the most
+  advanced human memory system - is subject to a myriad of psychological and neurobiological
+  factors. We, therefore, examined AM longitudinally during the transition from midlife
+  to young-old age and from young-old to old age in two birth cohorts (born 1930-1932
+  and 1950-1952) hence starting at age 55.14 +/- 0.94 vs. 73.85 +/- 0.96, respectively.
+  Participants (n = 239) of the Interdisciplinary Longitudinal Study on Adult Development
+  and Aging were recruited of whom 166 could be reexamined after 9 +/- 0.9 years.
+  AM was investigated for three periods of life using an established semi-structured
+  interview; potential cognitive decline was assessed on a broad test battery. All
+  subjects stayed cognitively healthy. Analysis of variance with repeated measures
+  revealed age-related semantization effects with a significantly lower number of
+  specific and thereby a higher number of general AMs exclusively from young-old to
+  old age. This effect did not coincide with cognitive decline. In the follow-up period,
+  a significant decrease of event-related details was significantly more pronounced
+  in the young-old than in the old cohort and details were better recalled by the
+  young than the old cohort. At baseline, this difference was significant for the
+  recent past only but involved all periods at follow-up. According to our findings,
+  AM changes in healthy aging accelerate during the transition from young-old to old
+  age and may herald other cognitive deficits. Additionally, these AM changes in cognitively
+  healthy subjects point at an economic process of adaptation.
+---

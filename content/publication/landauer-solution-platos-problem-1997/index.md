@@ -1,0 +1,25 @@
+---
+title: "A Solution to Plato's Problem: The Latent Semantic Analysis Theory of Acquisition,
+  Induction, and Representation of Knowledge"
+authors:
+- Thomas K. Landauer
+- Susan T. Dumais
+date: '1997-04-01'
+publishDate: '2025-05-28T02:32:40.534346Z'
+publication_types:
+- article-journal
+publication: '*Psychological Review*'
+doi: 10.1037/0033-295X.104.2.211
+abstract: How do people know as much as they do with as little information as they
+  get? The problem takes many forms; learning vocabulary from text is an especially
+  dramatic and convenient case for research. A new general theory of acquired similarity
+  and knowledge representation, latent semantic analysis (LSA), is presented and used
+  to successfully simulate such learning and several other psycholinguistic phenomena.
+  By inducing global knowledge indirectly from local co-occurrence data in a large
+  body of representative text, LSA acquired knowledge about the full vocabulary of
+  English at a comparable rate to schoolchildren. LSA uses no prior linguistic or
+  perceptual similarity knowledge; it is based solely on a general mathematical learning
+  method that achieves powerful inductive effects by extracting the right number of
+  dimensions (e.g., 300) to represent objects and contexts. Relations to other theories,
+  phenomena, and problems are sketched.
+---

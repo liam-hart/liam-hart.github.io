@@ -1,0 +1,25 @@
+---
+title: 'Relationship between Attitudes and Evaluative Space: A Critical Review, with
+  Emphasis on the Separability of Positive and Negative Substrates'
+authors:
+- John T. Cacioppo
+- Gary G. Berntson
+date: '1994-05-01'
+publishDate: '2025-05-28T02:32:38.215986Z'
+publication_types:
+- article-journal
+publication: '*Psychological Bulletin*'
+doi: 10.1037/0033-2909.115.3.401
+abstract: Evaluative processes refer to the operations by which organisms discriminate
+  threatening from nurturant environments. Low activation of positive and negative
+  evaluative processes by a stimulus reflects neutrality, whereas high activation
+  of such processes reflects maximal conflict. Attitudes, an important class of manifestations
+  of evaluative processes, have traditionally been conceptualized as falling along
+  a bipolar dimension, and the positive and negative evaluative processes underlying
+  attitudes have been conceptualized as being reciprocally activated, making the bipolar
+  rating scale the measure of choice. Research is reviewed suggesting that this bipolar
+  dimension is insufficient to portray comprehensively positive and negative evaluative
+  processes and that the question is not whether such processes are reciprocally activated
+  but under what conditions they are reciprocally, nonreciprocally, or independently
+  activated. (PsycINFO Database Record (c) 2012 APA, all rights reserved)
+---

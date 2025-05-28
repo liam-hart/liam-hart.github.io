@@ -1,0 +1,44 @@
+---
+title: Testing the Impact of Emotional Mood and Cue Characteristics on Detailed Autobiographical
+  Memory Retrieval
+authors:
+- Stephanie Simpson
+- Signy Sheldon
+date: '2020-09-01'
+publishDate: '2025-05-28T02:32:42.520041Z'
+publication_types:
+- article-journal
+publication: '*Emotion*'
+doi: 10.1037/emo0000603
+abstract: Autobiographical memory retrieval is impacted by emotion, whether from an
+  individual's mood state or a retrieval cue. Here, we addressed two questions concerning
+  how emotion from these two sources affects the remembering of autobiographical experiences.
+  The first question concerns whether emotional mood and retrieval cues both reliably
+  impact the details and content of a recalled autobiographical memory. The second
+  question concerns to what extent distinct emotional dimensions of retrieval cues-valence
+  and arousal-individually impact the way these memories are recalled. Across three
+  experiments, young adult participants described the details of autobiographical
+  experiences in response to cue words that varied in emotional valence (Experiment
+  1) or both emotional valence and arousal (Experiments 2 and 3) under two mood states
+  (happy or sad). Memory descriptions were scored for the number of specific episodic
+  (internal) and nonepisodic (external) details as well as for overall emotional tone.
+  Experiment 1 demonstrated that cue valence more reliably predicted the number of
+  episodic details and tone of the memories than mood. Experiment 2 and 3 further
+  explored this reported cue effect by comparing memory recollection to cues that
+  systematically varied in both valence and arousal. Generally, we found that highly
+  arousing cues led to memories described with more episodic details while cue valence
+  predicted the emotional tone of the memory. We discuss how these dimensions of emotionality
+  (i.e., valence and arousal) bias cued autobiographical memory recall and the implications
+  these results have on models of memory. (PsycInfo Database Record (c) 2020 APA,
+  all rights reserved).
+tags:
+- Affective Valence
+- Autobiographical Memory
+- Cued Recall
+- Emotional States
+- Emotions
+- Human Information Storage
+- Physiological Arousal
+- Retention
+- Values
+---

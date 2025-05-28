@@ -1,0 +1,38 @@
+---
+title: 'Immediate and Long-Term Efficacy of Executive Functions Cognitive Training
+  in Older Adults: A Systematic Review and Meta-Analysis'
+authors:
+- Lan Nguyen
+- Karen Murphy
+- Glenda Andrews
+date: '2019-07-01'
+publishDate: '2025-05-28T02:32:41.284218Z'
+publication_types:
+- article-journal
+publication: '*Psychological Bulletin*'
+doi: 10.1037/bul0000196
+abstract: There has been growing interest in enhancing cognition in older adulthood
+  via computerized cognitive training (CCT), though, there is controversy surrounding
+  the efficacy of CCT in promoting improvements to functional everyday activities.
+  As core executive-functions (EFs)-cognitive-flexibility, inhibition, working memory-are
+  applicable to most aspects of daily living, CCT targeting these processes would
+  likely promote gains on trained tasks, and potentially on similar untrained tasks
+  (near-transfer), and general cognitive performance (far-transfer). We report two
+  meta-analyses investigating the immediate (pretest to posttest) and long-term efficacy
+  (pretest to follow-up) of core-EF CCT in improving cognition among older adults.
+  Sixty-four studies (encompassing 3,594 participants) included an eligible CCT intervention
+  targeting at least 1 core-EF (e.g., working memory training). Both immediate and
+  long-term efficacy analyses revealed significant, large training effects for trained
+  outcomes, and significant, small training effects for near-transfer and far-transfer
+  outcomes. When comparing the same studies, effect sizes from immediate and long-term
+  efficacy analyses were comparable, suggesting that CCT gains were maintained over
+  time. Further analyses of immediate efficacy revealed significant, small training
+  effects for performance on executive functioning, fluid intelligence, memory, and
+  visuospatial domains, but not for attention or processing speed. After adjusting
+  for publication bias, the training effect for fluid intelligence was nonsignificant,
+  whereas processing speed was significant. It is recommended that future studies
+  employ adaptive multidomain training as these studies were shown to produce significant
+  training effects at each transfer level. Overall, core-EF CCT interventions show
+  promise in promoting immediate and long-term improvements in cognitive performance
+  among older adults. (PsycINFO Database Record (c) 2019 APA, all rights reserved).
+---

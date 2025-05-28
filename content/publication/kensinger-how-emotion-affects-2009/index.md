@@ -1,0 +1,21 @@
+---
+title: How Emotion Affects Older Adults' Memories for Event Details
+authors:
+- Elizabeth A. Kensinger
+date: '2009-02-01'
+publishDate: '2025-05-28T02:32:40.267763Z'
+publication_types:
+- article-journal
+publication: '*Memory*'
+doi: 10.1080/09658210802221425
+abstract: As adults age, they tend to have problems remembering the details of events
+  and the contexts in which events occurred. This review presents evidence that emotion
+  can enhance older adults' abilities to remember episodic detail. Older adults are
+  more likely to remember affective details of an event (e.g., whether something was
+  good or bad, or how an event made them feel) than they are to remember non-affective
+  details, and they remember more details of emotional events than of non-emotional
+  ones. Moreover, in some instances, emotion appears to narrow the age gap in memory
+  performance. It may be that memory for affective context, or for emotional events,
+  relies on cognitive and neural processes that are relatively preserved in older
+  adults.
+---

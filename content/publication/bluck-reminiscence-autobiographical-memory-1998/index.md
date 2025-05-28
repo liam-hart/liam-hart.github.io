@@ -1,0 +1,26 @@
+---
+title: 'Reminiscence as Autobiographical Memory: A Catalyst for Reminiscence Theory
+  Development'
+authors:
+- Susan Bluck
+- Linda J. Levine
+date: '1998-03-01'
+publishDate: '2025-05-28T02:32:37.992349Z'
+publication_types:
+- article-journal
+publication: '*Ageing and Society*'
+doi: 10.1017/S0144686X98006862
+abstract: Research on the psychological outcomes of reminiscence techniques  has led
+  to  equivocal findings. The goal of this paper is to advance current theory  guiding  research
+  on reminiscence by examining the implications of viewing reminiscence   as a type
+  of autobiographical memory. Butler's classic paper on  reminiscence as `life review'
+  (1963) is examined, and revisions  to this approach  are proposed based on research
+  and theory concerning autobiographical  memory. Specifically, the process of reminiscence
+  is delineated through  a  discussion of the partially reconstructive nature of autobiographical
+  memory   and the relation of memory to the self. These developments are then used  to  predict
+  the types of psychological outcomes that can be expected to result  from  reminiscence,
+  and the types of reminiscence techniques that can be expected   to lead to the distinct
+  outcomes of self-acceptance and self-change. Linking  the  literatures on reminiscence
+  techniques and autobiographical memory also   provides a catalyst for future theoretical
+  and empirical work.
+---

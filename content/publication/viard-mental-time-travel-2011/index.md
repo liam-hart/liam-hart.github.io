@@ -1,0 +1,38 @@
+---
+title: 'Mental Time Travel into the Past and the Future in Healthy Aged Adults: An
+  fMRI Study'
+authors:
+- Armelle Viard
+- Gaël Chételat
+- Karine Lebreton
+- Béatrice Desgranges
+- Brigitte Landeau
+- Vincent De La Sayette
+- Francis Eustache
+- Pascale Piolino
+date: '2011-02-01'
+publishDate: '2025-05-28T02:32:43.123265Z'
+publication_types:
+- article-journal
+publication: '*Brain and Cognition*'
+doi: 10.1016/j.bandc.2010.10.009
+abstract: 'Remembering the past and envisioning the future rely on episodic memory
+  which enables mental time travel. Studies in young adults indicate that past and
+  future thinking share common cognitive and neural underpinnings. No imaging data
+  is yet available in healthy aged subjects. Using fMRI, we scanned older subjects
+  while they remembered personal events (PP: last 12 months) or envisioned future
+  plans (FP: next 12 months). Behaviorally, both time-periods were comparable in terms
+  of visual search strategy, emotion, frequency of rehearsal and recency of the last
+  evocation. However, PP were more episodic, engaged a higher state of autonoetic
+  consciousness and mental visual images were clearer and more numerous than FP. Neuroimaging
+  results revealed a common network of activation (posterior cingulate cortex, precuneus,
+  prefrontal cortex, hippocampus) reflecting the use of similar cognitive processes.
+  Furthermore, the episodic nature of PP depended on hippocampal and visuo-spatial
+  activations (occipital and angular gyri), while, for FP, it depended on the inferior
+  frontal and lateral temporal gyri, involved in semantic memory retrieval. The common
+  neural network and behavior suggests that healthy aged subjects thought about their
+  future prospects in the past. The contribution of retrospective thinking into the
+  future that engages the same network as the one recruited when remembering the past
+  is discussed. Within this network, differential recruitment of specific areas highlights
+  the episodic distinction between past and future mental time travel.'
+---

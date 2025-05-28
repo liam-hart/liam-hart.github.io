@@ -1,0 +1,45 @@
+---
+title: 'Event Memory: A Theory of Memory for Laboratory, Autobiographical, and Fictional
+  Events'
+authors:
+- David C. Rubin
+- Sharda Umanath
+date: '2015-01-01'
+publishDate: '2025-05-28T02:32:42.018448Z'
+publication_types:
+- article-journal
+publication: '*Psychological Review*'
+doi: 10.1037/a0037907
+abstract: An event memory is a mental construction of a scene recalled as a single
+  occurrence. It therefore requires the hippocampus and ventral visual stream needed
+  for all scene construction. The construction need not come with a sense of reliving
+  or be made by a participant in the event, and it can be a summary of occurrences
+  from more than one encoding. The mental construction, or physical rendering, of
+  any scene must be done from a specific location and time; this introduces a \"self\"
+  located in space and time, which is a necessary, but need not be a sufficient, condition
+  for a sense of reliving. We base our theory on scene construction rather than reliving
+  because this allows the integration of many literatures and because there is more
+  accumulated knowledge about scene construction's phenomenology, behavior, and neural
+  basis. Event memory differs from episodic memory in that it does not conflate the
+  independent dimensions of whether or not a memory is relived, is about the self,
+  is recalled voluntarily, or is based on a single encoding with whether it is recalled
+  as a single occurrence of a scene. Thus, we argue that event memory provides a clearer
+  contrast to semantic memory, which also can be about the self, be recalled voluntarily,
+  and be from a unique encoding; allows for a more comprehensive dimensional account
+  of the structure of explicit memory; and better accounts for laboratory and real-world
+  behavioral and neural results, including those from neuropsychology and neuroimaging,
+  than does episodic memory.
+tags:
+- /unread
+- Animals
+- Autobiographical Memory
+- Episodic Memory
+- Experiences (Events)
+- Hippocampus
+- Humans
+- Imagery
+- Memory
+- Memory Disorders
+- Neuroimaging
+- Theories
+---

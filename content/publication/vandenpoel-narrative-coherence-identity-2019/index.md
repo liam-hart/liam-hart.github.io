@@ -1,0 +1,41 @@
+---
+title: 'Narrative Coherence and Identity: Associations with Psychological Well-Being
+  and Internalizing Symptoms'
+authors:
+- Louise Vanden Poel
+- Dirk Hermans
+date: '2019-05-01'
+publishDate: '2025-05-28T02:32:43.056976Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Psychology*'
+doi: 10.3389/fpsyg.2019.01171
+abstract: There are considerable differences in the ways in which individuals remember
+  and try to make meaning out of past personal experiences. One autobiographical memory
+  characteristic that has been receiving growing attention is narrative coherence,
+  or the extent to which an individual is able to construct coherent accounts of their
+  autobiographical memories. Previously, differences in narrative coherence have been
+  found to be related to well-being, with more coherent individuals displaying higher
+  levels of well-being. This study aimed to extend previous findings by examining
+  the associations between narrative coherence, identity functioning, psychological
+  well-being, and internalizing symptoms in a sample of 395 American young adults
+  (ages 18-30). We examined whether these associations differed within individuals
+  as a function of the identity-relevance of the memory. In line with our prediction,
+  narrative coherence was positively related to healthy identity functioning. However,
+  the hypothesis that narrative coherence would be positively related to psychological
+  well-being and negatively related to internalizing symptoms was only partially confirmed
+  (i.e. only for personal growth and anxiety symptoms). These findings indicate that
+  the relation between coherence and well-being might be more complex than originally
+  assumed. Contrary to our predictions, it was not significantly more beneficial for
+  an individual to narrate about a memory with high identity-relevance compared to
+  a memory with low identity-relevance. Thus, it might be the individual's general
+  ability to include identity content within their narratives of personal experiences
+  that moderates the association between coherence and well-being, rather than the
+  identity-relevance of the specific memory. In the current study, we also found a
+  significant gender effect, with women being more coherent than men. Furthermore,
+  exploratory analyses indicated that being more coherence was associated with fewer
+  internalizing symptoms and fewer identity-related struggles in men, but not in women.
+  Possible explanations for the observed gender differences are discussed. Future
+  longitudinal and experimental studies are needed to further clarify the link between
+  narrative coherence, identity, and well-being.
+---

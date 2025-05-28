@@ -1,0 +1,36 @@
+---
+title: The Limited Roles of Cognitive Capabilities and Future Time Perspective in
+  Contributing to Positivity Effects
+authors:
+- Sarah J. Barber
+- Noelle Lopez
+- Kriti Cadambi
+- Santos Alferez
+date: '2020-07-01'
+publishDate: '2025-05-28T02:32:37.718070Z'
+publication_types:
+- article-journal
+publication: '*Cognition*'
+doi: 10.1016/j.cognition.2020.104267
+abstract: When compared to younger adults, older adults tend to favor positive over
+  negative information in attention and memory. This is known as the positivity effect.
+  Although this is a robust phenomenon, there is still debate about how it relates
+  to individual differences in cognitive capabilities and future time perspective
+  (FTP). To address this, we investigated how measures of fluid cognitive capabilities
+  and FTP related to positivity effects within the domains of episodic memory, visual
+  attention, and autobiographical memory. Cognitive capabilities were assessed using
+  the National Institute of Health Toolbox Cognition battery, and included assessments
+  of executive function, working memory, episodic memory, and processing speed. FTP
+  was assessed via the Carstensen and Lang (1996) scale. Within our final sample (N
+  = 196), we replicated positivity effects in all three task domains, which were all
+  driven by age differences in how people responded to negative (but not positive)
+  information. However, there was limited evidence that the magnitude of these age-related
+  reductions in negativity varied as a function of individual differences in older
+  adults' cognitive capabilities or FTP. Furthermore, when FTP did emerge as a predictor,
+  the pattern was not in line with expectations based upon socioemotional selectivity
+  theory. Thus, the positivity effect may be less reliant on cognitive capabilities
+  and self-reported FTP than is often assumed. Given that there was also very little
+  consistency in the extent to which participants displayed positivity effects across
+  the task domains, these results also raise the possibility that there may be multiple
+  mechanisms underlying positivity effects.
+---

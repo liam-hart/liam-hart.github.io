@@ -1,0 +1,25 @@
+---
+title: An Introduction to Latent Semantic Analysis
+authors:
+- Thomas K Landauer
+- Peter W. Foltz
+- Darrell Laham
+date: '1998-01-01'
+publishDate: '2025-05-28T02:32:40.527423Z'
+publication_types:
+- article-journal
+publication: '*Discourse Processes*'
+doi: 10.1080/01638539809545028
+abstract: Latent Semantic Analysis (LSA) is a theory and me:hod for extracting and
+  representing the contextual-usage meaning of words by statistical computations applied
+  to a large corpus of text (Landauer & Dumais, 1997). The underlying idea is that
+  the aggregate of all the word contexts in which a given word does and does not appear
+  provides a set of mutual constraints that largely determines the similarity of meaning
+  of words and sets of words to each other. The adequacy of LSA's reflection of human
+  knowledge has been established in a variety of ways. For example, its scores overlap
+  those of humans on standard vocabulary and subject matter tests; it mimics human
+  word sorting and category judgments; it simulates word-word and passage-word lexical
+  priming data; and, as reported in 3 following articles in this issue, it accurately
+  estimates passage coherence, learnability of passages by individual students, and
+  the quality and quantity of knowledge contained in an essay.
+---

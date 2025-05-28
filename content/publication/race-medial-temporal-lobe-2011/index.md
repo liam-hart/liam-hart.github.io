@@ -1,0 +1,35 @@
+---
+title: Medial Temporal Lobe Damage Causes Deficits in Episodic Memory and Episodic
+  Future Thinking Not Attributable to Deficits in Narrative Construction
+authors:
+- E. Race
+- M. M. Keane
+- M. Verfaellie
+date: '2011-07-01'
+publishDate: '2025-05-28T02:32:41.704169Z'
+publication_types:
+- article-journal
+publication: '*Journal of Neuroscience*'
+doi: 10.1523/JNEUROSCI.1145-11.2011
+abstract: The medial temporal lobe (MTL) makes critical contributions to episodic
+  memory, but its contributions to episodic future thinking remain a matter of debate.
+  By one view, imagining future events relies on MTL mechanisms that also support
+  memory for past events. Alternatively, it has recently been suggested that future
+  thinking is independent of MTL-mediated processes and can be supported by regions
+  outside the MTL. The current study investigated the nature and necessity of MTL
+  involvement in imagining the future and tested the novel hypothesis that the MTL
+  contributes to future thinking by supporting online binding processes related to
+  narrative construction. Human amnesic patients with well characterized MTL damage
+  and healthy controls constructed narratives about (1) future events, (2) past events,
+  and (3) visually presented pictures. While all three tasks place similar demands
+  on narrative construction, only the past and future conditions require memory/future
+  thinking to mentally generate relevant narrative information. Patients produced
+  impoverished descriptions of both past and future events but were unimpaired at
+  producing detailed picture narratives. In addition, future-thinking performance
+  positively correlated with episodic memory performance but did not correlate with
+  picture narrative performance. Finally, future-thinking impairments were present
+  when MTL lesions were restricted to the hippocampus and did not depend on the presence
+  of neural damage outside the MTL. These results indicate that the ability to generate
+  and maintain a detailed narrative is preserved in amnesia and suggest that a common
+  MTL mechanism supports both episodic memory and episodic future thinking.
+---

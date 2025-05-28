@@ -1,0 +1,31 @@
+---
+title: Automated Scoring of the Autobiographical Interview with Natural Language Processing
+authors:
+- Ruben D.I. Van Genugten
+- Daniel L. Schacter
+date: '2024-01-01'
+publishDate: '2025-05-28T02:32:43.079783Z'
+publication_types:
+- article-journal
+publication: '*Behavior Research Methods*'
+doi: 10.3758/s13428-023-02145-x
+abstract: Abstract             The autobiographical interview has been used in more
+  than 200 studies to assess the content of autobiographical memories. In a typical
+  experiment, participants recall memories, which are then scored manually for internal
+  details (episodic details from the central event) and external details (largely
+  non-episodic details). Scoring these narratives requires a significant amount of
+  time. As a result, large studies with this procedure are often impractical, and
+  even conducting small studies is time-consuming. To reduce scoring burden and enable
+  larger studies, we developed an approach to automatically score responses with natural
+  language processing. We fine-tuned an existing language model (distilBERT) to identify
+  the amount of internal and external content in each sentence. These predictions
+  were aggregated to obtain internal and external content estimates for each narrative.
+  We evaluated our model by comparing manual scores with automated scores in five
+  datasets. We found that our model performed well across datasets. In four datasets,
+  we found a strong correlation between internal detail counts and the amount of predicted
+  internal content. In these datasets, manual and automated external scores were also
+  strongly correlated, and we found minimal misclassification of content. In a fifth
+  dataset, our model performed well after additional preprocessing. To make automated
+  scoring available to other researchers, we provide a Colab notebook that is intended
+  to be used without additional coding.
+---

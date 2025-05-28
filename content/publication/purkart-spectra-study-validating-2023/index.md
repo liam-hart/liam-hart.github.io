@@ -1,0 +1,44 @@
+---
+title: 'The SPECTRA Study: Validating a New Memory Training Program Based on the Episodic
+  Specificity Induction to Promote Transfer in Older Adults'
+authors:
+- Rudy Purkart
+- Preslava Aleksieva
+- Samira Mellah
+- Gloria Leblond-Baccichet
+- Sylvie Belleville
+date: '2023-01-01'
+publishDate: '2025-05-28T02:32:41.696388Z'
+publication_types:
+- article-journal
+publication: '*Journal of Cognition*'
+doi: 10.5334/joc.323
+abstract: Some complex cognitive activities impacted by aging (future thinking, problem-solving,
+  creative thinking) have been shown to rely on episodic retrieval, suggesting that
+  cognitive interventions aiming to improve retrieval have the potential to induce
+  transfer effects to these activities. Prior studies have shown that a brief one-session
+  technique called Episodic Specificity Induction (ESI) can transiently improve episodic
+  retrieval and induce transfer effects to complex tasks that rely on episodic retrieval
+  in older adults. In the present proof-of-concept study, we assessed whether a training
+  program consisting of repeated practice of the ESI technique can improve episodic
+  retrieval and transfer to complex tasks. Fifteen healthy older adults completed
+  a six-session intervention where they received repeated ESI practice. Before and
+  after the intervention, nearest transfer effects were assessed using free recall,
+  near transfer effects using recognition and associative recognition, and far-transfer
+  effects using mean-ends problem-solving and divergent creative thinking. Before
+  the intervention, typical ESI effects were observed (better performance after an
+  ESI than after a control task), indicating that the ESI operated as expected in
+  our sample. When examining the intervention effects, performance was increased after
+  the intervention on free recall and recognition (nearest- and near-transfer) as
+  well as problem-solving and divergent creative thinking (far transfer). These results
+  indicate that an intervention relying on the ESI technique can produce both near
+  and far transfer. These findings support the use of the ESI in the design of interventions
+  that could improve retrieval and have a broad impact on a range of complex tasks.
+tags:
+- /unread
+- aging
+- cognitive training
+- episodic memory
+- episodic specificity induction
+- transfer
+---

@@ -1,0 +1,31 @@
+---
+title: 'The Role of the Hippocampus in Memory and Mental Construction: Memory and
+  Mental Construction'
+authors:
+- Signy Sheldon
+- Brian Levine
+date: '2016-04-01'
+publishDate: '2025-05-28T02:32:42.469583Z'
+publication_types:
+- article-journal
+publication: '*Annals of the New York Academy of Sciences*'
+doi: 10.1111/nyas.13006
+abstract: 'Much has been learned about the processes that support the remembrance
+  of past autobiographical episodes and their importance for a number of cognitive
+  tasks. This work has focused on hippocampal contributions to constructing coherent
+  mental representations of scenarios for these tasks, which has opened up new questions
+  about the underlying hippocampal mechanisms. We propose a new framework to answer
+  these questions, which incorporates task demands that prompt hippocampal contributions
+  to mental construction, the online formation of such mental representations, and
+  how these demands relate to the functional organization of the hippocampus. Synthesizing
+  findings from autobiographical memory research, our framework suggests that the
+  interaction of two task characteristics influences the recruitment of the hippocampus:
+  (1) the degree of task open-endedness (quantified by the presence/absence of a retrieval
+  framework) and (2) the degree to which the integration of perceptual details is
+  required. These characteristics inform the relative weighting of anterior and posterior
+  hippocampal involvement, following an organizational model in which the anterior
+  and posterior hippocampus support constructions on the basis of conceptual and perceptual
+  representations, respectively. The anticipated outcome of our framework is a refined
+  understanding of hippocampal contributions to memory and to the host of related
+  cognitive functions.'
+---

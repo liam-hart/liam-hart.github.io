@@ -1,0 +1,37 @@
+---
+title: Evidence for Reduced Autobiographical Memory Episodic Specificity in Cognitively
+  Normal Middle-Aged and Older Individuals at Increased Risk for Alzheimer's Disease
+  Dementia
+authors:
+- Matthew D. Grilli
+- Aubrey A. Wank
+- John J. Bercel
+- Lee Ryan
+date: '2018-11-01'
+publishDate: '2025-05-28T02:32:39.551527Z'
+publication_types:
+- article-journal
+publication: '*Journal of the International Neuropsychological Society*'
+doi: 10.1017/S1355617718000577
+abstract: "Abstract                            Objectives:               Alzheimer's
+  disease (AD) typically eludes clinical detection for years, if not decades. The
+  identification of subtle cognitive decline associated with preclinical AD would
+  not only advance understanding of the disease, but also provide clinical targets
+  to assess preventative and early intervention treatments. Disrupted retrieval of
+  detailed episodic autobiographical memories may be a sensitive indicator of subtle
+  cognitive decline, because this type of memory taxes a core neural network affected
+  by preclinical AD neuropathology.               Methods:               To begin
+  to address this idea, we assessed the episodic specificity of autobiographical memories
+  retrieved by cognitively normal middle-aged and older individuals who are carriers
+  of the apolipoprotein E $ɛ$4 allele -- a population at increased risk for subtle
+  cognitive decline related to neuropathological risk factors for AD. We compared
+  the $ɛ$4 carriers to non-carriers of $ɛ$4 similar in age, education, and gender.\
+  \               Results:               The $ɛ$4 carriers did not perform worse than
+  the non-carriers on a comprehensive battery of neuropsychological tests. In contrast,
+  as a group, the $ɛ$4 carriers generated autobiographical memories that were reduced
+  in ``internal'' or episodic details relative to non-carriers.               Conclusions:\
+  \               These findings support the notion that reduced autobiographical
+  episodic detail generation may be a marker of subtle cognitive decline associated
+  with AD. (               JINS               , 2018,               24           \
+  \    , 1073--1183)"
+---

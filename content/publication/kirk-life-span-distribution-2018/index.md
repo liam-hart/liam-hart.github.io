@@ -1,0 +1,35 @@
+---
+title: The Life Span Distribution of Autobiographical Memory in Alzheimer's Disease
+authors:
+- Marie Kirk
+- Dorthe Berntsen
+date: '2018-11-01'
+publishDate: '2025-05-28T02:32:40.363353Z'
+publication_types:
+- article-journal
+publication: '*Neuropsychology*'
+doi: 10.1037/neu0000486
+abstract: "Objective: The literature on the temporal distribution of autobiographical
+  memory in Alzheimer's disease (AD) is characterized by mixed findings concerning
+  the presence of a temporal gradient in the loss of autobiographical memory. Some
+  studies show a gradient, implying better access to more remote autobiographical
+  memories, whereas others do not. These conflicting results likely reflect differences
+  in the test methodologies, accentuating the need for replications and extensions.
+  Method: Forty-five older adults diagnosed with AD (via Mini-Mental State Examination,
+  M = 19.89, SD = 4.05) and a matched sample of 44 healthy older adults were assessed
+  on two different autobiographical memory measures: the Autobiographical Memory Interview
+  (Kopelman, Wilson, & Baddeley, 1990) and the Galton--Crovitz task (word and object
+  cueing) to examine the temporal distribution of personal autobiographical memories
+  across the life span. Results: The impairment of episodic and personal semantic
+  remembering, as indexed by the Autobiographical Memory Interview, was associated
+  with a negative temporal gradient with better preservation of memories from the
+  remote past, relative to the recent one. The results from the word- and object-cueing
+  task replicated the finding that AD is associated with markedly impaired recall
+  of recent events. In addition, both groups showed a peak in the recollection of
+  events from middle childhood and adolescence, consistent with research on the reminiscence
+  bump. Conclusions: Older adults diagnosed with AD demonstrate increased recollection
+  of personal semantic and episodic events from the remote past relative to the recent
+  one. The findings are discussed in relation to prominent models of memory consolidation."
+tags:
+- /unread
+---

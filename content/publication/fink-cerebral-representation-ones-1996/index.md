@@ -1,0 +1,39 @@
+---
+title: "Cerebral Representation of One's Own Past: Neural Networks Involved in Autobiographical
+  Memory"
+authors:
+- Gereon R. Fink
+- Hans J. Markowitsch
+- Mechthild Reinkemeier
+- Thomas Bruckbauer
+- Josef Kessler
+- Wolf-Dieter Heiss
+date: '1996-07-01'
+publishDate: '2025-05-28T02:32:39.149017Z'
+publication_types:
+- article-journal
+publication: '*Journal of Neuroscience*'
+doi: 10.1523/JNEUROSCI.16-13-04275.1996
+abstract: 'We studied the functional anatomy of affect-laden autobiographical memory
+  in normal volunteers. Using H               2               15               O positron
+  emission tomography (PET), we measured changes in relative regional cerebral blood
+  flow (rCBF). Four rCBF measurements were obtained during three conditions: REST,
+  i.e., subjects lay at rest (for control); IMPERSONAL, i.e., subjects listened to
+  sentences containing episodic information taken from an autobiography of a person
+  they did not know, but which had been presented to them before PET scanning (nonautobiographical
+  episodic memory ecphory); and PERSONAL, i.e., subjects listened to sentences containing
+  information taken from their own past (autobiographical episodic memory ecphory).                          Comparing
+  IMPERSONAL with REST (nonautobiographical episodic memory ecphory) resulted in relative
+  rCBF increases symmetrically in both temporal lobes including the temporal poles
+  and medial and superior temporal gyri. The same loci, however, with a stronger lateralization
+  to the right hemisphere were activated in the comparison PERSONAL to REST (autobiographical
+  episodic memory ecphory). In addition, the right temporomesial, right dorsal prefrontal,
+  right posterior cingulate areas, and the left cerebellum were activated. A comparison
+  of PERSONAL and IMPERSONAL (autobiographical vs nonautobiographical episodic memory
+  ecphory) demonstrated a preponderantly right hemispheric activation including primarily
+  right temporomesial and temporolateral cortex, right posterior cingulate areas,
+  right insula, and right prefrontal areas. The right temporomesial activation included
+  hippocampus, parahippocampus, and amygdala.             These results suggest that
+  a right hemispheric network of temporal, together with posterior, cingulate, and
+  prefrontal, areas is engaged in the ecphory of affect-laden autobiographical information.'
+---

@@ -1,0 +1,34 @@
+---
+title: Recalling Self-Disruptive Events and Maintaining Self-Continuity in Adulthood
+authors:
+- Hsiao-Wen Liao
+- Susan Bluck
+date: '2023-02-01'
+publishDate: '2025-05-28T02:32:40.638286Z'
+publication_types:
+- article-journal
+publication: '*Psychology and Aging*'
+doi: 10.1037/pag0000719
+abstract: Older adults exhibit a stronger sense of self-continuity than the young.
+  How do they accomplish that? The present study examines that issue using a life
+  story lens. We investigated (a) whether older adults differ from the young when
+  narrating self-disruptive (i.e., compared to nondisruptive) personal life events
+  in the extent to which they focus on stability, change, and event-event connections
+  and (b) if these ways of narrating self-disruptive events mediate relations between
+  a person's age and sense of self-continuity. Participants (N = 185; 53% women) completed
+  a sense of self-continuity measure and orally shared two nondisruptive and two self-disruptive
+  life events. Event narratives were transcribed, and best practices were used for
+  reliable content analysis. Mixed analysis of variances showed that, regardless of
+  age, individuals narrated greater stability when recalling self-disruptive than
+  nondisruptive life events. Older adults described less change and made more event-event
+  connections than younger adults when recalling self-disruptive events. In mediation
+  analyses, older adults' stronger sense of self-continuity (i.e., compared to younger
+  adults) was partially explained by their narrating more event-event connections
+  in recalling self-disruptive life events. Narrating more stability was not a mediator
+  but was directly related to having a greater sense of self-continuity, regardless
+  of age. Post hoc analyses indicated that greater narration of change was related
+  to a lower sense of self-continuity for older, not younger, adults. We draw on lifespan
+  and life story theories to suggest that older adults' narratives may situate self-disruptive
+  events in larger biographical context, fostering a greater experience of self-continuity.
+  (PsycInfo Database Record (c) 2023 APA, all rights reserved).
+---

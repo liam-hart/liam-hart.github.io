@@ -1,0 +1,31 @@
+---
+title: Age Influences the Relation between Subjective Valence Ratings and Emotional
+  Word Use during Autobiographical Memory Retrieval
+authors:
+- Jaclyn H. Ford
+- Marissa A. DiGirolamo
+- Elizabeth A. Kensinger
+date: '2016-09-01'
+publishDate: '2025-05-28T02:32:39.222839Z'
+publication_types:
+- article-journal
+publication: '*Memory*'
+doi: 10.1080/09658211.2015.1061016
+abstract: Recent research reveals an age-related increase in positive autobiographical
+  memory retrieval using a number of positivity measures, including valence ratings
+  and positive word use. It is currently unclear whether the positivity shift in each
+  of these measures co-occurs, or if age uniquely influences multiple components of
+  autobiographical memory retrieval. The current study examined the correspondence
+  between valence ratings and emotional word use in young and older adults' autobiographical
+  memories. Positive word use in narratives was associated with valence ratings only
+  in young adults' narratives. Older adults' narratives contained a consistent level
+  of positive word use regardless of valence rating, suggesting that positive words
+  and concepts may be chronically accessible to older adults during memory retrieval,
+  regardless of subjective valence. Although a relation between negative word use
+  in narratives and negative valence ratings was apparent in both young and older
+  adults, it was stronger in older adults' narratives. These findings confirm that
+  older adults do vary their word use in accordance with subjective valence, but they
+  do so in a way that is different from young adults. The results also point to a
+  potential dissociation between age-related changes in subjective valence and in
+  positive word use.
+---

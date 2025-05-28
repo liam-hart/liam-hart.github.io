@@ -1,0 +1,32 @@
+---
+title: Are Memory Self-Efficacy and Memory Performance Related? A Meta-Analysis
+authors:
+- Marine Beaudoin
+- Olivier Desrichard
+date: '2011-03-01'
+publishDate: '2025-05-28T02:32:37.805186Z'
+publication_types:
+- article-journal
+publication: '*Psychological Bulletin*'
+doi: 10.1037/a0022106
+abstract: The association between memory self-efficacy (MSE) and memory performance
+  is highly documented in the literature. However, previous studies have produced
+  inconsistent results, and there is no consensus on the existence of a significant
+  link between these two variables. In order to evaluate whether or not the effect
+  size of the MSE-memory performance relationship in healthy adults is significant
+  and to test several theory-driven moderators, we conducted a meta-analysis of published
+  and unpublished studies. A random-effects model analysis of data from 107 relevant
+  studies (673 effect sizes) indicated a low but significant weighted mean correlation
+  between MSE and memory performance, r = .15, 95% CI [.13, .17]. In addition, the
+  mean effect size was significantly moderated by the way MSE was assessed. Memory
+  performance was more strongly related to concurrent MSE (perceived current ability
+  to perform a given task) than it was to global MSE (perceived usual memory ability
+  in general). Furthermore, we found marginally larger MSE-memory performance correlations
+  when the memory situations used to assess MSE involved familiar stimuli. No effect
+  of the method used to assess global MSE or domain MSE (memory rating vs. performance
+  predictions) was found. The results also show that the resource demands of the memory
+  tasks have a moderator effect, as the MSE-performance correlation is larger with
+  free-recall and cued-recall tasks than it is with recognition tasks. Limitations
+  (generalization issues, moderators not considered) and implications for future research
+  are discussed.
+---

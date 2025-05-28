@@ -1,0 +1,35 @@
+---
+title: Amygdala Activity at Encoding Correlated with Long-Term, Free Recall of Emotional
+  Information
+authors:
+- L Cahill
+- R J Haier
+- J Fallon
+- M T Alkire
+- C Tang
+- D Keator
+- J Wu
+- J L McGaugh
+date: '1996-07-01'
+publishDate: '2025-05-28T02:32:38.237157Z'
+publication_types:
+- article-journal
+publication: '*Proceedings of the National Academy of Sciences*'
+doi: 10.1073/pnas.93.15.8016
+abstract: Positron emission tomography of cerebral glucose metabolism in adult human
+  subjects was used to investigate amygdaloid complex (AC) activity associated with
+  the storage of long-term memory for emotionally arousing events. Subjects viewed
+  two videos (one in each of two separate positron emission tomography sessions, separated
+  by 3-7 days) consisting either of 12 emotionally arousing film clips (\"E\" film
+  session) or of 12 relatively emotionally neutral film clips (\"N\" film session),
+  and rated their emotional reaction to each film clip immediately after viewing it.
+  Three weeks after the second session, memory for the videos was assessed in a free
+  recall test. As expected, the subjects' average emotional reaction to the E films
+  was higher than that for the N films. In addition, the subjects recalled significantly
+  more E films than N films. Glucose metabolic rate of the right AC while viewing
+  the E films was highly correlated with the number of E films recalled. AC activity
+  was not significantly correlated with the number of N films recalled. The findings
+  support the view derived from both animal and human investigations that the AC is
+  selectively involved with the formation of enhanced long-term memory associated
+  with emotionally arousing events.
+---

@@ -1,0 +1,28 @@
+---
+title: Negativity Bias, Negativity Dominance, and Contagion
+authors:
+- Paul Rozin
+- Edward B. Royzman
+date: '2001-11-01'
+publishDate: '2025-05-28T02:32:41.990596Z'
+publication_types:
+- article-journal
+publication: '*Personality and Social Psychology Review*'
+doi: 10.1207/S15327957PSPR0504_2
+abstract: 'We hypothesize that there is a general bias, based on both innatepredispositions
+  and experience, in animals and humans, to give greater weight to negative entities
+  (e.g., events, objects, personal traits). This is manifested in 4 ways: (a) negative
+  potency (negative entities are stronger than the equivalent positive entities),
+  (b) steeper negative gradients (the negativity of negative events grows more rapidly
+  with approach to them in space or time than does the positivity of positive events,
+  (c) negativity dominance (combinations of negative and positive entities yield evaluations
+  that are more negative than the algebraic sum of individual subjective valences
+  would predict), and (d) negative differentiation (negative entities are more varied,
+  yield more complex conceptual representations, and engage a wider response repertoire).
+  We review evidence for this taxonomy, with emphasis on negativity dominance, including
+  literary, historical, religious, and cultural sources, as well as the psychological
+  literatures on learning, attention, impression formation, contagion, moral judgment,
+  development, and memory. We then consider a variety of theoretical accounts for
+  negativity bias. We suggest that 1 feature of negative events that make them dominant
+  is that negative entities are more contagious than positive entities.'
+---

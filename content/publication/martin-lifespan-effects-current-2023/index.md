@@ -1,0 +1,34 @@
+---
+title: 'Lifespan Effects of Current Age and of Age at the Time of Remembered Events
+  on the Affective Tone of Life Narrative Memories: Early Adolescence and Older Age
+  Are More Negative'
+authors:
+- Theresa Martin
+- Nina F. Kemper
+- Florian Schmiedek
+- Tilmann Habermas
+date: '2023-08-01'
+publishDate: '2025-05-28T02:32:40.935982Z'
+publication_types:
+- article-journal
+publication: '*Memory & Cognition*'
+doi: 10.3758/s13421-023-01401-x
+abstract: Abstract             The affective tone of autobiographical memories may
+  be influenced by age in two ways---by the current age of the remembering individual
+  and by the age of the remembered self at the time of the remembered event. While
+  aging has been associated with more positive autobiographical memories, young adulthood
+  is remembered more positively than other parts of life. We tested whether these
+  effects also show in life story memories and how they act jointly on affective tone;
+  also, we wanted to explore their effects on remembered lifetimes other than early
+  adulthood. We tested effects of current age and age at event on affective tone with
+  brief entire life narratives provided up to five times across 16 years by 172 Germans
+  of both genders, ages 8 to 81 years. Multilevel analyses found an unexpected negativity
+  effect of aging for current age and confirmed a ``golden 20s'' effect of remembered
+  age. In addition, women told more negative life stories, and affective tone dipped
+  in early adolescence for current age and was remembered as such up to mid-adulthood.
+  Thus, the affective tone of life story memories is jointly influenced by current
+  and remembered age. The absence of a positivity effect in aging is explained by
+  the specific requirements of telling an entire life. We suggest the turmoil of puberty
+  as a reason for the early adolescence dip. Gender differences are potentially explained
+  by differences in narrative style, in depression rates, and in real-life challenges.
+---
