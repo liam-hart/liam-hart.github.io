@@ -1,3 +1,4 @@
+/* Colors */
 :root {
   --color-primary: #2A5D4D;
   --color-primary-light: #7C9A7B;
@@ -6,4 +7,9 @@
   --color-muted: #666666;
   --color-border: #DADBC7;
   --color-secondary: #A97C50;
+}
+
+/* Font */
+body {
+  font-family: Georgia, serif;
 }

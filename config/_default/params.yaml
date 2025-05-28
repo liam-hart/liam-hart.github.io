@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Liam W. Hart"
 
 # Site footer
 footer:
@@ -46,6 +46,18 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+
+# Hero section for homepage
+hero:
+  enable: true
+  image: img/banner.jpg  # Place your image in /static/img/banner.jpg
+  overlay_color: "#2A5D4D"  # Optional: matches your sagepeak green
+  overlay_opacity: 0.4
+  height: "50vh"
+  content: 
+    title: "Liam W. Hart"
+    subtitle: "Psychology PhD Student | Adult Development & Aging"
+    align: center
 
 # Localization
 locale:
