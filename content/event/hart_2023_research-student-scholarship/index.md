@@ -1,39 +1,50 @@
 ---
-title: "Study proposal: effect of mindfulness meditation on life satisfaction and self-esteem in retirement home residents"
+title: Example Talk
 
-event: Art and Science of Aging Conference 
-event_url: https://www.gvsu.edu/agingconference/
+event: Hugo Blox Builder Conference
+event_url: https://example.org
 
-location: GVSU Richard M. DeVos Center
+location: Hugo Blox Builder HQ
 address:
-  street: 401 Fulton St W
-  city: Grand Rapids
-  region: MI
-  postcode: ''
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
   country: United States
 
-abstract: |
-  Mindfulness can be used to describe a variety of practices and processes that generally involves focusing on the present moment and being conscious and aware. Mindfulness meditation has been shown to decrease stress, anxiety, and depression, so it is likely that it will increase life satisfaction and self-esteem. In this poster, I will propose a study that seeks to determine the effect of mindfulness meditation on life satisfaction and self-esteem in older adults living in retirement homes. Participants will undergo an 8-week mindfulness meditation intervention, following a 10-minute guided meditation 4 times per week and will be encouraged to practice daily. Life satisfaction and self-esteem will be measured before and after the 8-week mindfulness meditation
-  
-  Unfortunately, this study was canceled due to COVID-19
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
 
-tags: ["Aging"]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com'
 url_pdf: ''
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=UQbXFcVv8iw&ab_channel=LiamHart'
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -47,12 +58,13 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - example
 ---
 
-{{< youtube UQbXFcVv8iw&ab >}}
-
-
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
 
 Slides can be added in a few ways:
 
