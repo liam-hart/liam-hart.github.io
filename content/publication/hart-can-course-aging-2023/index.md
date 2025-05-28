@@ -37,9 +37,4 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=a1Pu7sliKxA&ab_channel=LiamHart'
-
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
 ---
