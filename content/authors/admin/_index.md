@@ -143,28 +143,47 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+
   - title: Neuromatch Academy Deep Learning Course
     url: https://neuromatch.io/deep-learning-course/
+    certificate_url: https://example.com
     date: '2025-07-25'
     awarder: Neuromatch Academy
     icon: custom/neuromatch
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
-  - title: N/A
-    url: N/A
-    date: '2023-07-01'
-    awarder: N/A
-    icon: N/A
+
+  - title: President's Fellowship
+    url: https://grad.gatech.edu/presidents-fellowship
+    awarder: Georgia Institute of Technology
+    date: '2024-08-01'
+    icon: custom/scholarship
     summary: |
-      N/A
-  - title: 'N/A'
-    url: N/A
-    certificate_url: N/A
-    date: '2023-01-21'
-    awarder: N/A
-    icon: N/A
+      Awarded to top 10 percent of incoming doctoral students at Georgia Tech. Total award: $24,000.
+
+  - title: Student Summer Scholars Grant
+    url: https://www.gvsu.edu/ours/student-summer-scholars-898.htm
+    awarder: GVSU Office of Undergraduate Research
+    date: '2021-05-01'
+    icon: custom/scholarship
     summary: |
-      N/A
+      Funded independent undergraduate research project on argumentative writing and beliefs. Total award: $7,750.
+
+  - title: Excellence-in-a-Discipline Award
+    url: https://www.gvsu.edu/provost/student-awards-158.htm
+    awarder: Grand Valley State University
+    date: '2022-04-01'
+    icon: custom/award
+    summary: |
+      Recognized as the top undergraduate in Psychology for outstanding academic performance.
+
+  - title: Robert Hendersen Leadership Award
+    url: https://www.gvsu.edu/psychology/the-robert-hendersen-leadership-award-ii-520.htm
+    awarder: Department of Psychology, Grand Valley State University
+    date: '2022-04-01'
+    icon: custom/tree
+    summary: |
+      Recognized for outstanding leadership and service to the psychology department.
 ---
 
 ## About Me
