@@ -1,19 +1,59 @@
 ---
 title: ""
 layout: landing
+
 sections:
-  - block: markdown
+  - block: resume-biography-3
     content:
-      title: "Liam W. Hart"
-      subtitle: "Psychology PhD Student | Adult Development & Aging"
-      text: |
-        Welcome to my personal academic website. I study emotional autobiographical memory and aging using natural language processing.
+      username: admin
+      text: ""
+      button:
+        text: Download CV
+        url: uploads/LWH_CV_20250520.pdf
+        css_class: center-button
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: banner.png
+          filters:
+            brightness: .5
+          size: cover
+          position: center
+          parallax: false
 
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: 'My Research'
+      subtitle: ''
       text: |-
-        I'm a PhD student in the Adult Development and Aging program at Georgia Tech. My research focuses on high and low point life narratives and age-related changes in memory specificity.
+        My research focuses on how our memory for meaningful life experiences is affected by aging. 
+        
+        I apply natural language processing to reveal how people narrate memories differently across different stages of the lifespan. This hybrid approach deals with the shortcomings and leverages the strengths of qualitative and quantitative methods.
 
-        I use NLP methods (e.g., BERT, topic modeling) to analyze narrative content across the lifespan.
+        Please don't hesitate to reach out! I am always looking for more friends and collaborators 🤝
+
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Working Papers
+  #     filters:
+  #       folders:
+  #         - papers
+  #       featured_only: true
+  #     design:
+  #       view: citation
+
+  # - block: collection
+  #   id: papers
+  #   conent:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - papers
+  #       exclude_featured: true
+  #     design:
+  #       view: citation
 ---

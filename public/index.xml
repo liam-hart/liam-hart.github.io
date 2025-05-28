@@ -134,17 +134,17 @@
     
     <item>
       <title>Verification of Past Beliefs Influences Current Beliefs</title>
-      <link>http://localhost:1313/publication/wolfe-verification-beliefs-influences-2024/</link>
+      <link>http://localhost:1313/papers/wolfe-verification-beliefs-influences-2024/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wolfe-verification-beliefs-influences-2024/</guid>
+      <guid>http://localhost:1313/papers/wolfe-verification-beliefs-influences-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beliefs Influence Argumentative Essay Writing</title>
-      <link>http://localhost:1313/publication/hart-beliefs-influence-argumentative-2024/</link>
+      <link>http://localhost:1313/papers/hart-beliefs-influence-argumentative-2024/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hart-beliefs-influence-argumentative-2024/</guid>
+      <guid>http://localhost:1313/papers/hart-beliefs-influence-argumentative-2024/</guid>
       <description></description>
     </item>
     
@@ -411,7 +411,7 @@
 
 
 
-&lt;div id=&#34;chart-392854716&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-942318576&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -429,7 +429,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-392854716&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-942318576&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -804,9 +804,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Can a Course on Aging with a Service-Learning Component Change Students&#39; Attitudes toward Aging?</title>
-      <link>http://localhost:1313/publication/hart-can-course-aging-2023/</link>
+      <link>http://localhost:1313/papers/hart-can-course-aging-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hart-can-course-aging-2023/</guid>
+      <guid>http://localhost:1313/papers/hart-can-course-aging-2023/</guid>
       <description></description>
     </item>
     
