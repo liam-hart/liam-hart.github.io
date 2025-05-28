@@ -87,17 +87,14 @@ work:
       - Coordinated the BRIGHT Trial under Dr. Samantha Tam, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
       - Contributed to research projects, including a scoping review of care fragmentation in cancer patients, by reading and summarizing research articles.
       - Data management, cleaning, and analysis for studies on the uses and benefits of Patient Reported Outcome Measures (PROMs) in cancer patient care.
-  - position: Backend Software Engineer
-    company_name: X
+  - position: N/A
+    company_name: N/A
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      N/A
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,11 +131,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: N/A
     percent: 100
-  - name: Chinese
+  - name: N/A
     percent: 75
-  - name: Portuguese
+  - name: N/A
     percent: 25
 
 # Awards.
@@ -153,24 +150,21 @@ awards:
     icon: coursera
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - title: N/A
+    url: N/A
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: N/A
+    icon: N/A
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+      N/A
+  - title: 'N/A'
+    url: N/A
+    certificate_url: N/A
     date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    awarder: N/A
+    icon: N/A
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      N/A
 ---
 
 ## About Me
