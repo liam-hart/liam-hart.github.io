@@ -10,19 +10,21 @@ sections:
       button:
         text: Download CV
         url: uploads/LWH_CV_20250520.pdf
-        css_class: center-button
     design:
-      css_class: dark
+      css_style: sagepeak
       background:
-        color: black
+        text_color_light: false
         image:
           # Add your image background to `assets/media/`.
           filename: banner.png
           filters:
-            brightness: .5
+            brightness: 1.2       # Slightly dims the image for text contrast
+            contrast: 1.1          # Enhances separation between layers and mist
+            saturate: 1.1          # Slightly boosts greens for vibrancy
+            blur: 1px              # Adds softness for a subtle depth effect
           size: cover
           position: center
-          parallax: false
+          parallax: true
 
   - block: markdown
     content:
@@ -34,6 +36,18 @@ sections:
         I apply natural language processing to reveal how people narrate memories differently across different stages of the lifespan. This hybrid approach deals with the shortcomings and leverages the strengths of qualitative and quantitative methods.
 
         Please don't hesitate to reach out! I am always looking for more friends and collaborators 🤝
+    design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']
+
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']
+      date_format: 'January 2006'
+      is_education_first: false
 
   # - block: collection
   #   id: papers
@@ -43,17 +57,37 @@ sections:
   #       folders:
   #         - papers
   #       featured_only: true
-  #     design:
-  #       view: citation
+  #   design:
+  #     spacing:
+  #       padding: ['100px', '0', '0px', '0']
+  #     view: citation
 
   # - block: collection
   #   id: papers
-  #   conent:
+  #   content:
   #     title: Publications
   #     filters:
   #       folders:
   #         - papers
   #       exclude_featured: true
-  #     design:
-  #       view: citation
+  #   design:
+  #     spacing:
+  #       padding: ['100px', '0', '0px', '0']
+  #     view: citation
+
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']    
+
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+    design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']  
 ---

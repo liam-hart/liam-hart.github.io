@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  color: sagepeak
+  color: custom
   custom_css: ["css/custom.scss"]
 
 # Site metadata
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Liam W. Hart is a Psychology PhD student at Georgia Tech specializing in autobiographical memory, cognitive aging, and natural language processing. His research uses NLP and AI methods to analyze life narratives and emotional memory across the lifespan.'
+    twitter: 'Liam_Hartt'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
