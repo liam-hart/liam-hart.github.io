@@ -102,33 +102,33 @@ skills:
   - name: Technical Skills
     items:
       - name: Deep Learning in Python
-        description: ''
+        description: 'seaborn, pandas, sklearn, pytorch, transformers'
         percent: 80
-        icon: code-bracket
+        icon: brands/python
       - name: Statistics in R
-        description: ''
+        description: 'tidyverse packages, lme4, stm'
         percent: 100
-        icon: chart-bar
+        icon: brands/r-project
       - name: Natural Language Processing
-        description: ''
+        description: 'Fine-tuning language models for classification'
         percent: 40
-        icon: circle-stack
+        icon: solid/square-binary
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Climbing & Mountaineering
-        description: ''
+        description: 'Mainly sport and trad, some ice'
         percent: 60
-        icon: person-simple-walk
+        icon: solid/mountain
       - name: Music
-        description: ''
+        description: 'Rap, Rock, and Indie'
         percent: 100
-        icon: cat
+        icon: solid/music
       - name: TV & Movies
-        description: ''
+        description: 'Send me recs!'
         percent: 80
-        icon: camera
+        icon: solid/film
 
 languages:
   - name: N/A
