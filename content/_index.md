@@ -20,6 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
+      css_style: "text-align: center;"
       background:
         color: black
         image:
