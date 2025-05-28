@@ -28,8 +28,7 @@ organizations:
     url: https://sites.gatech.edu/liaolab/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+\profiles:
   - icon: envelope
     url: 'mailto:lhart39@gatech.edu'
     label: Email Me
@@ -46,17 +45,24 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0009-0000-2422-914X
 
+# Interests
 interests:
  - Autobiographical Memory
  - Cognitive Aging
  - Natural Language Processing
 
+# Education
 education:
   - area: PhD Psychology
     institution: Georgia Institute of Technology
     date_start: 2024-08-19
     date_end: 2029-05-01
     summary: |
+      Selected courses:
+      - Multivariate Statistics
+      - Multilevel Modeling
+      - Lifespan Development
+
       Thesis focused on age-related changes in autobiographical memory. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao).
     button:
       text: 'My Thesis on high and low points'
@@ -66,20 +72,32 @@ education:
     date_start: 2018-08-27
     date_end: 2021-12-18
     summary: |
-      GPA: 3.719/4.0
-
-      Courses included:
+      Selected courses:
       - Computing and Graphics with R
       - Multivariate Data Analysis
       - Philosophy of Mind
+
+      Undergraduate research focused on the malleability of beliefs and how beliefs shape argumentative writing
     button:
       text: 'Paper on argumentative writing and beliefs'
       url: 'https://link.springer.com/article/10.1007/s11251-024-09663-x'
+
+# Work
 work:
+
+  - position: Internship
+    company_name: Forthcoming
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-05-01
+    date_end: 2020-08-16
+    summary: |
+      Forthcoming
+
   - position: Research Coordinator, BRIGHT Study
     company_name: Henry Ford Health
     company_url: ''
-    company_logo: ''
+    company_logo: "custom/henryford"
     date_start: 2023-04-01
     date_end: '2024-07-01'
     summary: |2-
@@ -87,18 +105,11 @@ work:
       - Coordinated the BRIGHT Trial under Dr. Samantha Tam, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
       - Contributed to research projects, including a scoping review of care fragmentation in cancer patients, by reading and summarizing research articles.
       - Data management, cleaning, and analysis for studies on the uses and benefits of Patient Reported Outcome Measures (PROMs) in cancer patient care.
-  - position: N/A
-    company_name: N/A
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      N/A
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+
   - name: Technical Skills
     items:
       - name: Deep Learning in Python
@@ -113,6 +124,7 @@ skills:
         description: 'Fine-tuning language models for classification'
         percent: 40
         icon: devicon/vscode
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -129,14 +141,6 @@ skills:
         description: 'Send me recs!'
         percent: 80
         icon: film
-
-languages:
-  - name: N/A
-    percent: 100
-  - name: N/A
-    percent: 75
-  - name: N/A
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
