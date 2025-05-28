@@ -52,49 +52,41 @@ interests:
  - Natural Language Processing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Psychology
+    institution: Georgia Institute of Technology
+    date_start: 2024-08-19
+    date_end: 2029-05-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis focused on age-related changes in autobiographical memory. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao).
     button:
-      text: 'Read Thesis'
+      text: 'My Thesis on high and low points'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Psychology
+    institution: Grand Valley State University
+    date_start: 2018-08-27
+    date_end: 2021-12-18
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.719/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computing and Graphics with R
+      - Multivariate Data Analysis
+      - Philosophy of Mind
+    button:
+      text: 'Paper on argumentative writing and beliefs'
+      url: 'https://link.springer.com/article/10.1007/s11251-024-09663-x'
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Coordinator, BRIGHT Study
+    company_name: Henry Ford Health
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-04-01
+    date_end: '2024-07-01'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Coordinated the BRIGHT Trial under Dr. Samantha Tam, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
+      - Contributed to research projects, including a scoping review of care fragmentation in cancer patients, by reading and summarizing research articles.
+      - Data management, cleaning, and analysis for studies on the uses and benefits of Patient Reported Outcome Measures (PROMs) in cancer patient care.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
