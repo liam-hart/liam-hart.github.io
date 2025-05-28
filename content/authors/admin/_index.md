@@ -195,3 +195,9 @@ I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated with minds,
 The core focus of my research is autobiographical memory and its continuous development and change across the lifespan. Using natural language processing, I am able to combine the strengths of qualitative and quantitative methods to capture how we represent important life experiences in memory. 
 
 My favorite thing in the world is climbing and being outdoors. I strive to appreciate the world and people at all times. The most interesting things to me are that which I do not currently understand, and my favorite thing to do is work on understanding them.
+
+
+<center> 
+
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/LWH_CV_20250520.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+</center> 
