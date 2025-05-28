@@ -104,15 +104,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Deep Learning in Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Statistics in R
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Natural Language Processing
         description: ''
         percent: 40
         icon: circle-stack
@@ -120,15 +120,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Climbing & Mountaineering
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: TV & Movies
         description: ''
         percent: 80
         icon: camera
@@ -146,13 +146,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Neuromatch Academy Deep Learning Course
+    url: https://neuromatch.io/deep-learning-course/
+    date: '2025-07-25'
+    awarder: Neuromatch Academy
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -175,4 +175,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated with minds, how they might work, and applying what we know about them to solve real-world problems. 
+
+The core focus of my research is autobiographical memory and its continuous development and change across the lifespan. Using natural language processing, I am able to combine the strengths of qualitative and quantitative methods to capture how we represent important life experiences in memory. 
+
+My favorite thing in the world is climbing and being outdoors. I strive to appreciate the world and people at all times. The most interesting things to me are that which I do not currently understand, and my favorite thing to do is work on understanding them.
