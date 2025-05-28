@@ -28,7 +28,7 @@ organizations:
     url: https://sites.gatech.edu/liaolab/
 
 # Social network links
-\profiles:
+profiles:
   - icon: envelope
     url: 'mailto:lhart39@gatech.edu'
     label: Email Me
