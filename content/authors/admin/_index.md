@@ -56,7 +56,7 @@ education:
   - area: PhD Psychology
     institution: Georgia Institute of Technology
     date_start: 2024-08-19
-    date_end: 2029-05-01
+    date_end: Expected 2029
     summary: |
       Selected courses:
       - Multivariate Statistics
@@ -126,8 +126,6 @@ skills:
         icon: devicon/vscode
 
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Climbing & Mountaineering
         description: 'Mainly sport and trad, some ice'
