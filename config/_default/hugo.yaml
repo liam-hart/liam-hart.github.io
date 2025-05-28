@@ -18,6 +18,28 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
+## PUBLICATION CONFIGURATION
+############################
+
+cascade:
+  - _target:
+      path: /publication/**
+    highlight_name: true
+    backlinks: true
+    show_date: false
+    reading_time: false
+    share: true
+    profile: true
+    commentable: false
+    editable: false
+    pager: true
+    show_related: true
+    show_breadcrumb: true
+    header:
+      navbar:
+        enable: false
+
+############################
 ## ADVANCED
 ############################
 
