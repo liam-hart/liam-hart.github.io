@@ -1,19 +1,15 @@
 ---
-title: Teaching
-summary: My courses
-type: landing
+title: "Teaching"
+layout: landing
+type: section
+blocks:
+  - block: heading
+    title: "Teaching"
+    subtitle: "Courses I've taught or assisted with"
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
   - block: collection
-    id: teaching
     content:
-      title: Teaching
+      title: "Courses"
       filters:
         folders:
           - teaching

@@ -6,12 +6,9 @@ title: Liam W. Hart
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon:
+first_name: Liam
+last_name: Hart
+summary: "PhD student at Georgia Tech studying autobiographical memory and aging."
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,7 +40,7 @@ profiles:
   - icon: academicons/osf
     url: https://osf.io/4kx9t/
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0000-2422-914X
+    url: https://orcid.org/0009-0000-2422-914X
 
 # Interests
 interests:
@@ -90,7 +87,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2026-05-01
-    date_end: 2020-08-16
+    date_end: 2026-08-16
     summary: |
       Forthcoming
 

@@ -1,23 +1,22 @@
 ---
-title: 'Projects'
-date: 2024-05-19
-type: landing
+title: "Projects"
+layout: landing
+blocks:
+  - block: heading
+    title: "Research Projects"
+    subtitle: "A selection of ongoing and completed work"
 
-design:
-  # Section spacing
-  spacing: '5rem'
-
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - project
+  - block: cards
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
+      columns: "2"
+    content:
+      items:
+        - title: "Narrative Coherence & Memory Specificity"
+          subtitle: "Georgia Tech | 2024–Present"
+          content: "Exploring autobiographical memory using topic modeling and sentiment analysis."
+          icon: brain
+        - title: "Transformative Experiences & NLP"
+          subtitle: "Independent Project"
+          content: "Investigating high- and low-point life events through computational text analysis."
+          icon: bolt
 ---
