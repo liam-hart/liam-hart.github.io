@@ -50,7 +50,7 @@ slides: ""
 projects: []
 ---
 
-{{< youtube UQbXFcVv8iw&ab >}}
+{{< youtube UQbXFcVv8iw >}}
 
 
 
