@@ -120,11 +120,11 @@ skills:
       - name: Climbing & Mountaineering
         description: 'Mainly sport and trad, some ice'
         percent: 60
-        icon: custom/mountains
+        icon: "custom/mountains"
       - name: Music
         description: 'Rap, Rock, and Indie'
         percent: 100
-        icon: custom/music
+        icon: "custom/music"
       - name: TV & Movies
         description: 'Send me recs!'
         percent: 80
@@ -149,7 +149,7 @@ awards:
     certificate_url: https://example.com
     date: '2025-07-25'
     awarder: Neuromatch Academy
-    icon: custom/neuromatch
+    icon: "custom/neuromatch"
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
 
@@ -157,7 +157,7 @@ awards:
     url: https://grad.gatech.edu/presidents-fellowship
     awarder: Georgia Institute of Technology
     date: '2024-08-01'
-    icon: custom/scholarship
+    icon: "custom/scholarship"
     summary: |
       Awarded to top 10 percent of incoming doctoral students at Georgia Tech. Total award: $24,000.
 
@@ -165,7 +165,7 @@ awards:
     url: https://www.gvsu.edu/ours/student-summer-scholars-898.htm
     awarder: GVSU Office of Undergraduate Research
     date: '2021-05-01'
-    icon: custom/scholarship
+    icon: "custom/scholarship"
     summary: |
       Funded independent undergraduate research project on argumentative writing and beliefs. Total award: $7,750.
 
@@ -173,7 +173,7 @@ awards:
     url: https://www.gvsu.edu/provost/student-awards-158.htm
     awarder: Grand Valley State University
     date: '2022-04-01'
-    icon: custom/award
+    icon: "custom/award"
     summary: |
       Recognized as the top undergraduate in Psychology for outstanding academic performance.
 
@@ -181,7 +181,7 @@ awards:
     url: https://www.gvsu.edu/psychology/the-robert-hendersen-leadership-award-ii-520.htm
     awarder: Department of Psychology, Grand Valley State University
     date: '2022-04-01'
-    icon: custom/tree
+    icon: "custom/tree"
     summary: |
       Recognized for outstanding leadership and service to the psychology department.
 ---
