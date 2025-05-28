@@ -1,11 +1,12 @@
 ---
 title: Beliefs Influence Argumentative Essay Writing
 authors:
-- Liam W. Hart
+- admin
 - Michael B. Wolfe
 - Todd J. Williams
 - Gregory M. Russell
 date: '2024-04-01'
+doi: '10.1007/s11251-024-09663-x'
 publishDate: '2025-05-28T02:37:25.669672Z'
 publication_types:
 - article-journal
@@ -30,9 +31,14 @@ abstract: The content of argumentative essays is determined by multiple factors,
   text content. Results suggest that beliefs influence the basic components of argumentation
   that are included in argumentative essays. Theoretical and practical implications
   of these findings are discussed.
-tags:
-- Argumentative discourse
-- Belief change
-- Beliefs
-- Essay writing
+featured: true
+
+url_pdf: ''
+url_code: 'https://osf.io/rh2mg/'
+url_dataset: 'https://osf.io/rh2mg/'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: 'https://www.youtube.com/watch?v=a1Pu7sliKxA&ab_channel=LiamHart'
 ---

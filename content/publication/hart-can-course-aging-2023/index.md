@@ -2,9 +2,10 @@
 title: Can a Course on Aging with a Service-Learning Component Change Students' Attitudes
   toward Aging?
 authors:
-- Liam Hart
-- Jing and Chen
+- admin
+- Jing Chen
 date: '2023-10-01'
+doi: '10.1080/03601277.2023.2178171'
 publishDate: '2025-05-28T02:37:25.680497Z'
 publication_types:
 - article-journal
@@ -26,4 +27,14 @@ abstract: Ageism can negatively affect everyday interactions with older adults, 
   demonstrates that this holistic approach of teaching aging along with intergenerational
   interaction can be an effective approach used to change undergraduate students'
   attitudes toward aging.
+featured: true
+
+url_pdf: ''
+url_code: 'https://osf.io/tzyxk/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: 'https://www.youtube.com/watch?v=a1Pu7sliKxA&ab_channel=LiamHart'
 ---
