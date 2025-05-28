@@ -104,15 +104,15 @@ skills:
       - name: Deep Learning in Python
         description: 'seaborn, pandas, sklearn, pytorch, transformers'
         percent: 80
-        icon: brands/python
+        icon: devicon/python
       - name: Statistics in R
         description: 'tidyverse packages, lme4, stm'
         percent: 100
-        icon: brands/r-project
+        icon: devicon/rstudio
       - name: Natural Language Processing
         description: 'Fine-tuning language models for classification'
         percent: 40
-        icon: solid/square-binary
+        icon: devicon/vscode
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -120,15 +120,15 @@ skills:
       - name: Climbing & Mountaineering
         description: 'Mainly sport and trad, some ice'
         percent: 60
-        icon: solid/mountain
+        icon: custom/mountains
       - name: Music
         description: 'Rap, Rock, and Indie'
         percent: 100
-        icon: solid/music
+        icon: custom/music
       - name: TV & Movies
         description: 'Send me recs!'
         percent: 80
-        icon: solid/film
+        icon: film
 
 languages:
   - name: N/A
@@ -147,7 +147,7 @@ awards:
     url: https://neuromatch.io/deep-learning-course/
     date: '2025-07-25'
     awarder: Neuromatch Academy
-    icon: coursera
+    icon: custom/neuromatch
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
   - title: N/A
