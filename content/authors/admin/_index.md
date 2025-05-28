@@ -56,7 +56,7 @@ education:
   - area: PhD Psychology
     institution: Georgia Institute of Technology
     date_start: 2024-08-19
-    date_end: Expected 2029
+    date_end: 2029-05-01
     summary: |
       Selected courses:
       - Multivariate Statistics
