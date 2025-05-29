@@ -11,17 +11,13 @@ sections:
         text: Download CV
         url: uploads/LWH_CV_20250520.pdf
     design:
-      css_style: sagepeak
+      css_style: custom
       background:
-        text_color_light: false
         image:
           # Add your image background to `assets/media/`.
-          filename: banner.png
+          filename: new-river.png
           filters:
-            brightness: 1.2       # Slightly dims the image for text contrast
-            contrast: 1.1          # Enhances separation between layers and mist
-            saturate: 1.1          # Slightly boosts greens for vibrancy
-            blur: 1px              # Adds softness for a subtle depth effect
+            brightness: .4
           size: cover
           position: center
           parallax: true

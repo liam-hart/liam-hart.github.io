@@ -1,22 +1,21 @@
 /* Colors */
 :root {
-  --color-primary-50: 243 245 240;   /* very light background tint, off-white */
-  --color-primary-100: 221 229 219;  /* light grayish green */
-  --color-primary-200: 188 208 187;  /* soft muted green */
-  --color-primary-300: 152 181 155;  /* light desaturated green */
-  --color-primary-400: 110 155 123;  /* medium green with a natural tone */
-  --color-primary-500:  42  93  77;   /* main color: dark teal green (#2A5D4D) */
-  --color-primary-600:  34  75  63;   /* darker teal green */
-  --color-primary-700:  26  59  50;   /* very dark greenish teal */
-  --color-primary-800:  20  46  38;   /* deep forest green */
-  --color-primary-900:  14  34  28;   /* almost black green */
-  --color-primary-950:   7  22  18;   /* very dark, near-black green */
+  --color-primary-50: 250 249 246;   /* soft cream background */
+  --color-primary-100: 223 240 229;  /* pale mint green */
+  --color-primary-200: 191 219 201;  /* light sage green */
+  --color-primary-300: 156 199 170;  /* muted forest green */
+  --color-primary-500: 63 112 89;    /* main color: deep emerald green (#3F7059) */
+  --color-primary-600: 156 199 170;  /* muted forest green */
+  --color-primary-700: 38 68 54;     /* dark moss green */
+  --color-primary-800: 28 50 40;     /* deep woodland green */
+  --color-primary-900: 18 34 27;     /* almost black green */
+  --color-primary-950: 12 24 19;     /* very dark, near-black green */
 
-  --color-background: 243 245 240;   /* off-white background */
-  --color-text: 51 51 51;            /* dark gray for text */
-  --color-muted: 102 102 102;        /* medium gray for muted text */
-  --color-border: 218 219 199;       /* light grayish green for borders */
-  --color-secondary: 169 124 80;     /* warm brownish tone for accents */
+  --color-background: 250 249 246;   /* soft cream background */
+  --color-text: 45 45 45;            /* dark charcoal gray for text */
+  --color-muted: 100 100 100;        /* medium gray for muted text */
+  --color-border: 210 210 200;       /* light grayish beige for borders */
+  --color-secondary: 141 102 67;     /* warm earthy brown for accents */
 }
 
 /* Font */

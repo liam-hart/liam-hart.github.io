@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   color: custom
-  custom_css: ["css/custom.scss"]
+  custom_css: custom
 
 # Site metadata
 title: "Liam W. Hart"
