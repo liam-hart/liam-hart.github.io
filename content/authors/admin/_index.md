@@ -48,10 +48,13 @@ interests:
  - Cognitive Aging
  - Natural Language Processing
 
-# Education
-education:
-  - area: PhD Psychology
-    institution: Georgia Institute of Technology
+# Work
+work:
+
+  - position: PhD Psychology
+    company_name: Georgia Institute of Technology
+    company_url: ''
+    company_logo: ''
     date_start: 2024-08-19
     date_end: 2029-05-01
     summary: |
@@ -64,8 +67,32 @@ education:
     button:
       text: 'My Thesis on high and low points'
       url: 'https://example.com'
-  - area: BS Psychology
-    institution: Grand Valley State University
+
+  - position: Research Coordinator, BRIGHT Study
+    company_name: Henry Ford Health
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-04-01
+    date_end: 2024-07-01
+    summary: |2-
+      Responsibilities include:
+      - Coordinated the BRIGHT Trial under Dr. Samantha Tam, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
+      - Contributed to research projects, including a scoping review of care fragmentation in cancer patients, by reading and summarizing research articles.
+      - Data management, cleaning, and analysis for studies on the uses and benefits of Patient Reported Outcome Measures (PROMs) in cancer patient care.
+
+  - position: Climbing Instructor
+    company_name: Planet Rock
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-01-01
+    date_end: 2023-04-01
+    summary: |
+      Working at Planet Rock was more than just a job––it was a formative chapter in my life. I gained confidence, leadership, and hands-on teaching experience by helping others grow in their climbing journeys. Just as importantly, I found a lifelong sport and community that continue to energize me. Climbing challenges me physically, sparks creativity, and connects me socially, all of which fuel my well-being and give me the focus and energy I bring to my academic work.
+
+  - position: BS Psychology
+    company_name: Grand Valley State University
+    company_url: ''
+    company_logo: ''
     date_start: 2018-08-27
     date_end: 2021-12-18
     summary: |
@@ -74,34 +101,10 @@ education:
       - Multivariate Data Analysis
       - Philosophy of Mind
 
-      Undergraduate research focused on the malleability of beliefs and how beliefs shape argumentative writing
+      Undergraduate research focused on the malleability of beliefs and how beliefs shape argumentative writing.
     button:
       text: 'Paper on argumentative writing and beliefs'
       url: 'https://link.springer.com/article/10.1007/s11251-024-09663-x'
-
-# Work
-work:
-
-  - position: Internship
-    company_name: Forthcoming
-    company_url: ''
-    company_logo: ''
-    date_start: 2026-05-01
-    date_end: 2026-08-16
-    summary: |
-      Forthcoming
-
-  - position: Research Coordinator, BRIGHT Study
-    company_name: Henry Ford Health
-    company_url: ''
-    company_logo: "custom/henryford"
-    date_start: 2023-04-01
-    date_end: '2024-07-01'
-    summary: |2-
-      Responsibilities include:
-      - Coordinated the BRIGHT Trial under Dr. Samantha Tam, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
-      - Contributed to research projects, including a scoping review of care fragmentation in cancer patients, by reading and summarizing research articles.
-      - Data management, cleaning, and analysis for studies on the uses and benefits of Patient Reported Outcome Measures (PROMs) in cancer patient care.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -117,7 +120,7 @@ skills:
         description: 'tidyverse packages, lme4, stm'
         percent: 100
         icon: devicon/rstudio
-      - name: Natural Language Processing
+      - name: Text Analysis
         description: 'Fine-tuning language models for classification'
         percent: 40
         icon: devicon/vscode
@@ -127,11 +130,11 @@ skills:
       - name: Climbing & Mountaineering
         description: 'Mainly sport and trad, some ice'
         percent: 60
-        icon: "custom/mountains"
+        icon: devicon/nuxtjs
       - name: Music
         description: 'Rap, Rock, and Indie'
         percent: 100
-        icon: "custom/music"
+        icon: musical-note
       - name: TV & Movies
         description: 'Send me recs!'
         percent: 80
