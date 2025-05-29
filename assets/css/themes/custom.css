@@ -1,27 +1,111 @@
 /* Colors */
 :root {
-  --color-primary-50: 243 245 240;   /* very light background tint */
-  --color-primary-100: 221 229 219;
-  --color-primary-200: 188 208 187;
-  --color-primary-300: 152 181 155;
-  --color-primary-400: 110 155 123;
-  --color-primary-500:  42  93  77;   /* your main color: #2A5D4D */
-  --color-primary-600:  34  75  63;
-  --color-primary-700:  26  59  50;
-  --color-primary-800:  20  46  38;
-  --color-primary-900:  14  34  28;
-  --color-primary-950:   7  22  18;
+  --color-primary-50: 243 245 240;   /* very light background tint, off-white */
+  --color-primary-100: 221 229 219;  /* light grayish green */
+  --color-primary-200: 188 208 187;  /* soft muted green */
+  --color-primary-300: 152 181 155;  /* light desaturated green */
+  --color-primary-400: 110 155 123;  /* medium green with a natural tone */
+  --color-primary-500:  42  93  77;   /* main color: dark teal green (#2A5D4D) */
+  --color-primary-600:  34  75  63;   /* darker teal green */
+  --color-primary-700:  26  59  50;   /* very dark greenish teal */
+  --color-primary-800:  20  46  38;   /* deep forest green */
+  --color-primary-900:  14  34  28;   /* almost black green */
+  --color-primary-950:   7  22  18;   /* very dark, near-black green */
 
-  --color-background: 243 245 240;
-  --color-text: 51 51 51;
-  --color-muted: 102 102 102;
-  --color-border: 218 219 199;
-  --color-secondary: 169 124 80;
+  --color-background: 243 245 240;   /* off-white background */
+  --color-text: 51 51 51;            /* dark gray for text */
+  --color-muted: 102 102 102;        /* medium gray for muted text */
+  --color-border: 218 219 199;       /* light grayish green for borders */
+  --color-secondary: 169 124 80;     /* warm brownish tone for accents */
 }
 
 /* Font */
 body {
   font-family: Georgia, serif;
-  background-color: var(--color-background);
-  color: var(--color-text);
+  background-color: rgb(var(--color-background));
+  color: rgb(var(--color-text));
+}
+/* Links */
+a {
+  color: rgb(var(--color-primary-500));
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: rgb(var(--color-primary-400));
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', serif;
+  color: rgb(var(--color-primary-600));
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+/* Buttons */
+button {
+  background-color: rgb(var(--color-primary-500));
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(var(--color-primary-400));
+}
+
+/* Blockquote */
+blockquote {
+  border-left: 4px solid rgb(var(--color-primary-300));
+  padding-left: 1em;
+  color: rgb(var(--color-muted));
+  font-style: italic;
+}
+
+/* Code */
+code {
+  font-family: 'Courier New', monospace;
+  background-color: rgb(var(--color-primary-100));
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+th, td {
+  border: 1px solid rgb(var(--color-border));
+  padding: 0.5em;
+  text-align: left;
+}
+
+th {
+  background-color: rgb(var(--color-primary-200));
+  color: rgb(var(--color-primary-700));
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Lists */
+ul, ol {
+  margin: 1em 0;
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
 }
