@@ -19,8 +19,8 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-02-28T11:30:00-05:00'
-date_end: '2020-02-28T11:35:00-05:00'
+date: '2021-04-14T12:00:00-05:00'
+# date_end: '2020-02-28T11:35:00-05:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -40,7 +40,7 @@ featured: false # include in featured talks?
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: uploads/hart-meditation-2020.pdf
+url_slides: slides/hart-meditation-2020.pdf
 url_video: 'https://www.youtube.com/watch?v=UQbXFcVv8iw&ab_channel=LiamHart'
 
 # Markdown Slides (optional).
