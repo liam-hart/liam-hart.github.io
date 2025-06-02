@@ -1,47 +1,43 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: ""   # leave empty to use site title
+date: 2025-06-01
 type: landing
 
 design:
-  # Default section spacing
-  spacing: "6rem"
+  spacing: "6rem"   # default section spacing
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
+      username: admin   # display information from authors/admin/_index.md
+      text: ""          # leave empty to use author bio
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/LWH_CV_20250520.pdf
     design:
       css_class: dark
       background:
         color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+        image:          # background image
+          filename: banner.png
           filters:
-            brightness: 1.0
+            brightness: .4
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on how our memory for meaningful life experiences is affected by aging. 
         
-        Please reach out to collaborate 😃
+        I apply natural language processing to reveal how people narrate memories differently across different stages of the lifespan. This hybrid approach deals with the shortcomings and leverages the strengths of qualitative and quantitative methods.
+
+        Please don't hesitate to reach out! I am always looking for more friends and collaborators.
     design:
-      columns: '1'
+      spacing:
+        padding: ['100px', '0', '0px', '0']
   - block: collection
     id: papers
     content:
