@@ -1,7 +1,7 @@
 ---
 title: Beliefs influence argumentative essay writing
 authors:
-- Liam W. Hart
+- admin
 - Michael B. Wolfe
 - Todd J. Williams
 - Gregory M. Russell

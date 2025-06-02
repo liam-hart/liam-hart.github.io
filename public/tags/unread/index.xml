@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>/Unread | Liam W. Hart</title>
+    <link>//localhost:1313/tags/unread/</link>
+      <atom:link href="//localhost:1313/tags/unread/index.xml" rel="self" type="application/rss+xml" />
+    <description>/Unread</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>/Unread</title>
+      <link>//localhost:1313/tags/unread/</link>
+    </image>
+    
+    <item>
+      <title>Verification of past beliefs influences current beliefs</title>
+      <link>//localhost:1313/publication/wolfe-verification-beliefs-influences-2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/wolfe-verification-beliefs-influences-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

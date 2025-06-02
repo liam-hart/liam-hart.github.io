@@ -2,7 +2,7 @@
 title: Can a course on aging with a service-learning component change students’ attitudes
   toward aging?
 authors:
-- Liam Hart
+- admin
 - Jing Chen
 date: '2023-10-01'
 publishDate: '2025-06-02T19:37:57.961647Z'

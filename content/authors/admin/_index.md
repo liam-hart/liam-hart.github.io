@@ -1,30 +1,14 @@
 ---
-# Display name
 title: Liam W. Hart
-
-# Name pronunciation (optional)
-name_pronunciation:
-
-# Full name (for SEO)
 first_name: Liam
 last_name: Hart
 summary: "PhD student at Georgia Tech studying autobiographical memory and aging."
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
+superuser: true # primary user of site?
+highlight_name: true # highlight name in author list
 role: PhD Student in Psychology
-
-# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Georgia Institute of Technology
     url: https://sites.gatech.edu/liaolab/
-
-# Social network links
 profiles:
   - icon: envelope
     url: 'mailto:lhart39@gatech.edu'
@@ -41,13 +25,10 @@ profiles:
     url: https://osf.io/4kx9t/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-2422-914X
-
-# Interests
 interests:
  - Autobiographical Memory
  - Cognitive Aging
  - Natural Language Processing
-
 education:
   - area: PhD Psychology
     institution: Georgia Institute of Technology
@@ -106,10 +87,7 @@ work:
     summary: |
       Working at Planet Rock was more than just a job–it was a formative chapter in my life. I gained confidence, leadership, and hands-on teaching experience, all while finding a lifelong sport and community that continue to energize me. Climbing challenges me physically, sparks creativity, and connects me socially, all of which fuel my well-being and give me the focus and energy I bring to my academic work.
 
-# Skills
-#   All custom .svg files are in media/icons/hero
 skills:
-
   - name: Technical Skills
     items:
       - name: Deep Learning in Python
@@ -124,7 +102,6 @@ skills:
         description: 'Fine-tuning language models for classification'
         percent: 30
         icon: devicon/vscode
-
   - name: Hobbies
     items:
       - name: Climbing & Mountaineering
@@ -139,11 +116,6 @@ skills:
         description: 'Send me recommendations!'
         percent: 40
         icon: film
-        
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neuromatch Academy Deep Learning Course
     url: https://neuromatch.io/deep-learning-course/
