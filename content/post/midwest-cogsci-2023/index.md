@@ -1,8 +1,8 @@
 ---
-title: "Presenting at AHNS 2024: Enhancing PROM Engagement in Head and Neck Cancer"
-date: 2024-04-18T10:00:00-04:00
-summary: "Co-presented a poster at the American Head and Neck Society Annual Meeting on improving patient-reported outcome measure (PROM) engagement in cancer care."
-tags: ["conference", "clinical research", "poster presentation", "AHNS"]
+title: "Presenting at the Midwest Cognitive Science Conference: Argumentative Writing and Belief Change (2023)"
+date: 2023-04-15T11:00:00-04:00
+summary: "Presented a research poster on the relationship between belief revision and argumentative writing at the Midwest Cognitive Science Conference."
+tags: ["conference", "poster presentation", "cognitive science", "undergraduate research"]
 categories: ["Presentations"]
 authors: ["admin"]
 featured: true
@@ -11,13 +11,10 @@ image:
   preview_only: true
 ---
 
-In Spring 2024, I co-presented a research poster at the **American Head and Neck Society (AHNS) Annual Meeting**, based on work conducted during my time as a Clinical Research Coordinator at **Henry Ford Health**.
+In Spring 2023, I presented a research poster at the **Midwest Cognitive Science Conference**, expanding on work I had previously shared at the Society for Text and Discourse.
 
-The poster was titled:  
-**"Enhancing PROM Engagement: A Mixed Methods Approach to Reminder Interventions and Patient Preferences in Head and Neck Cancer."**
+The poster, titled **"Beliefs Influence Argumentative Writing,"** continued our investigation into how belief change following persuasive reading impacts the way people write argumentative essays. This project was part of my ongoing work in the **Social Cognition Lab** at Grand Valley State University, led by Dr. Michael Wolfe.
 
-This project was part of the **BRIGHT Trial**, led by Dr. Samantha Tam, and aimed to identify strategies for improving completion rates and patient satisfaction with electronic patient-reported outcome measures (PROMs). My role involved coordinating study visits, managing REDCap data, and contributing to qualitative data synthesis.
+This conference offered an exciting opportunity to engage with researchers from across the region, share findings in a more interactive format, and refine how I communicated the practical implications of our study. It also marked one of my final undergraduate research milestones before graduating and heading to graduate school.
 
-This presentation marked my first experience disseminating clinical research at a national conference. It offered an important perspective on translational science, bridging patient-centered care and behavioral health research.
-
-Participating in this work expanded my methodological skills and deepened my appreciation for research that directly impacts patient outcomes.
+Events like this helped me solidify my identity as a researcher and gave me valuable experience presenting in academic spaces.

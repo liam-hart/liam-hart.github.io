@@ -1,9 +1,9 @@
 ---
-title: "Presenting at the Society for Text and Discourse: Beliefs and Argumentative Writing (2022)"
-date: 2022-07-20T14:00:00-04:00
-summary: "My first oral presentation at an academic conference, where I shared findings on how belief change influences argumentative writing."
-tags: ["conference", "oral presentation", "belief change", "undergraduate research"]
-categories: ["Presentations"]
+title: "My First First-Author Publication: Educational Gerontology (2023)"
+date: 2023-04-01T10:00:00-04:00
+summary: "Reflections on publishing my first first-author paper, exploring how service-learning in an aging course affects student attitudes toward older adults."
+tags: ["publication", "first-author", "undergraduate research", "aging"]
+categories: ["Research"]
 authors: ["admin"]
 featured: true
 image:
@@ -11,13 +11,12 @@ image:
   preview_only: true
 ---
 
-In Summer 2022, I delivered my first oral presentation at an academic conference — the **Annual Meeting of the Society for Text and Discourse**. This event, held virtually that year, brought together scholars interested in reading, discourse, and communication processes.
+In Spring 2023, I had the honor of publishing my first first-author paper in *Educational Gerontology*, based on research I conducted as an undergraduate student at Grand Valley State University.
 
-My talk was titled:  
-**"Belief Change After Reading Predicts Argumentative Essay Content."**
+The study explored whether a lecture-based aging course with a service-learning component could positively influence college students' attitudes toward older adults. I worked closely with Dr. Jing Chen to design and analyze the project, which was inspired by our shared interest in reducing ageism through educational interventions.
 
-This research emerged from my work as an undergraduate researcher in the Social Cognition Lab at Grand Valley State University, under the mentorship of Dr. Michael Wolfe. We examined how changes in students' beliefs after reading persuasive texts influenced the structure and content of their argumentative essays.
+Publishing this paper marked a major personal and professional milestone. It taught me how to take a project from early design through peer review and helped build the foundation for my continued research focus on aging, emotion, and memory.
 
-Presenting at this conference was an incredibly formative experience. It helped me build confidence in communicating my research, fielding questions from experts, and engaging with a broader academic community. It also affirmed my interest in pursuing graduate research in cognition, memory, and language.
-
-This presentation was an early but pivotal step on my academic path.
+You can read the paper here:  
+📄 *Can a course on aging with a service-learning component change students’ attitudes toward aging?*  
+Published in *Educational Gerontology*, 2023.

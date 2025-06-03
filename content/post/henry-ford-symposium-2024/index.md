@@ -1,9 +1,9 @@
 ---
-title: "Second First-Author Publication: Argumentative Writing and Belief Change in Instructional Science (2024)"
-date: 2024-02-01T10:00:00-05:00
-summary: "Published a first-author paper in *Instructional Science* on how belief change after reading affects argumentative writing in students."
-tags: ["publication", "first-author", "argumentative writing", "belief change"]
-categories: ["Research"]
+title: "Presenting at Henry Ford Health Annual Research Symposium: Body Image Distress Intervention (2024)"
+date: 2024-10-11T10:00:00-04:00
+summary: "Presented a clinical research poster on a cognitive behavioral intervention for body image-related distress in head and neck cancer survivors."
+tags: ["conference", "clinical research", "poster presentation", "Henry Ford Health"]
+categories: ["Presentations"]
 authors: ["admin"]
 featured: true
 image:
@@ -11,12 +11,13 @@ image:
   preview_only: true
 ---
 
-In early 2024, I published my second first-author paper — this time in *Instructional Science*, a peer-reviewed journal that focuses on educational psychology and learning processes.
+In Fall 2024, I presented a research poster at the **Henry Ford Health Annual Research Symposium**, based on my work as a Clinical Research Coordinator in the Department of Otolaryngology.
 
-The paper, titled:  
-**"Beliefs Influence Argumentative Essay Writing,"**  
-was the culmination of a multi-year undergraduate research project I conducted in the **Social Cognition Lab** at Grand Valley State University with Dr. Michael Wolfe.
+The poster was titled:  
+**"Effects of a Brief Cognitive Behavioral Treatment vs Attention Control for Body Image-Related Distress Among Head and Neck Cancer Survivors: A Multi-Site RCT."**
 
-In this study, we explored how reading persuasive texts influences students’ beliefs and how those belief changes shape the structure, content, and quality of their argumentative writing. The findings provided empirical evidence that shifts in belief can meaningfully influence written expression — an important insight for both cognitive and educational psychologists.
+This study was a randomized controlled trial comparing a brief CBT intervention to an attention control condition, aimed at reducing distress related to appearance changes following cancer treatment. I collaborated with a multidisciplinary team across several institutions, contributing to data collection, protocol fidelity, and patient coordination.
 
-This publication marked a major step forward in translating undergraduate research into peer-reviewed work and solidified my commitment to research on cognition, communication, and belief formation.
+Presenting at this internal symposium gave me the chance to share results with clinicians, researchers, and trainees, and to see how local innovations in patient-centered research were making an impact across disciplines.
+
+This experience deepened my interest in clinical trials and behavioral intervention research, especially where psychological science meets real-world application.

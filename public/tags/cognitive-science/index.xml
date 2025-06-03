@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Science | Liam W. Hart</title>
+    <link>//localhost:1313/tags/cognitive-science/</link>
+      <atom:link href="//localhost:1313/tags/cognitive-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 11:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Cognitive Science</title>
+      <link>//localhost:1313/tags/cognitive-science/</link>
+    </image>
+    
+    <item>
+      <title>Presenting at the Midwest Cognitive Science Conference: Argumentative Writing and Belief Change (2023)</title>
+      <link>//localhost:1313/post/midwest-cogsci-2023/</link>
+      <pubDate>Sat, 15 Apr 2023 11:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/midwest-cogsci-2023/</guid>
+      <description>&lt;p&gt;In Spring 2023, I presented a research poster at the &lt;strong&gt;Midwest Cognitive Science Conference&lt;/strong&gt;, expanding on work I had previously shared at the Society for Text and Discourse.&lt;/p&gt;
+&lt;p&gt;The poster, titled &lt;strong&gt;&amp;ldquo;Beliefs Influence Argumentative Writing,&amp;rdquo;&lt;/strong&gt; continued our investigation into how belief change following persuasive reading impacts the way people write argumentative essays. This project was part of my ongoing work in the &lt;strong&gt;Social Cognition Lab&lt;/strong&gt; at Grand Valley State University, led by Dr. Michael Wolfe.&lt;/p&gt;
+&lt;p&gt;This conference offered an exciting opportunity to engage with researchers from across the region, share findings in a more interactive format, and refine how I communicated the practical implications of our study. It also marked one of my final undergraduate research milestones before graduating and heading to graduate school.&lt;/p&gt;
+&lt;p&gt;Events like this helped me solidify my identity as a researcher and gave me valuable experience presenting in academic spaces.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
