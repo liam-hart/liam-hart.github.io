@@ -11,21 +11,31 @@ organizations:
   - name: Georgia Institute of Technology
     url: https://sites.gatech.edu/liaolab/
 profiles:
-  - icon: envelope
-    url: 'mailto:lhart39@gatech.edu'
-    label: Email Me
-  - icon: brands/x
-    url: https://x.com/Liam_hartt
-  - icon: brands/github
-    url: https://github.com/liam-hart
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/liam-hart-322124175/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=heRC7EQAAAAJ&hl=en
-  - icon: academicons/osf
-    url: https://osf.io/4kx9t/
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0000-2422-914X
+- icon: envelope
+  url: 'mailto:lhart39@gatech.edu'
+  label: Email Me
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/liam-hart-322124175/
+  label: LinkedIn
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=heRC7EQAAAAJ&hl=en
+  label: Google Scholar
+- icon: academicons/osf
+  url: https://osf.io/4kx9t/
+  label: OSF
+- icon: academicons/orcid
+  url: https://orcid.org/0009-0000-2422-914X
+  label: ORCID
+- icon: brands/github
+  url: https://github.com/liam-hart
+  label: GitHub
+- icon: brands/x
+  url: https://x.com/Liam_hartt
+  label: X (Twitter)
+- icon: mountain-project
+  url: https://www.mountainproject.com/user/201318969/liam-hart
+  label: Mountain Project
+
 interests:
  - Autobiographical Memory
  - Cognitive Aging
@@ -169,4 +179,4 @@ I am a PhD student in the [Janus Lab](https://sites.gatech.edu/liaolab/) at Geor
 
 My research focuses on autobiographical memory and how it develops across the lifespan. Using natural language processing, I integrate qualitative and quantitative methods to examine how people represent meaningful life experiences in memory at different ages. 
 
-Outside of work, I find my greatest joy in [climbing](https://www.mountainproject.com/user/201318969/liam-hart) and exploring the natural world. 
+Outside of work, I find my greatest joy in climbing and exploring the natural world. 
