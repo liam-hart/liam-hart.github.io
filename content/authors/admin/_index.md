@@ -56,10 +56,10 @@ ducation:
     date_start: 2024-08-19
     date_end: 2029-05-01
     summary: |
-      Selected courses:
-      - Multivariate Statistics
-      - Multilevel Modeling
-      - Lifespan Development
+      **Selected courses:**
+      *- Multivariate Statistics*
+      *- Multilevel Modeling*
+      *- Lifespan Development*
 
       Thesis focused on age-related changes in autobiographical memory. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao).
     button:
@@ -71,9 +71,9 @@ ducation:
     date_end: 2021-12-18
     summary: |
       **Selected courses:**
-      - Computing and Graphics with R
-      - Multivariate Data Analysis
-      - Philosophy of Mind
+      *- Computing and Graphics with R*
+      *- Multivariate Data Analysis*
+      *- Philosophy of Mind*
 
       Undergraduate research focused on the malleability of beliefs and how beliefs shape argumentative writing
     button:
@@ -120,7 +120,7 @@ skills:
       - name: Climbing & Mountaineering
         description: 'Sport, trad, and some ice'
         percent: 70
-        icon: cat
+        icon: mountain-project
       - name: Music
         description: 'Rap, Rock, and Indie'
         percent: 50
@@ -136,14 +136,14 @@ awards:
     certificate_url: https://example.com
     date: '2025-07-25'
     awarder: Neuromatch Academy
-    icon: cat
+    icon: neuromatch-academy
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
   - title: President's Fellowship
     url: https://grad.gatech.edu/presidents-fellowship
     awarder: Georgia Institute of Technology
     date: '2024-08-01'
-    icon: cat
+    icon: georgia-tech
     summary: |
       Awarded to top 10 percent of incoming doctoral students at Georgia Tech. 
       
@@ -152,7 +152,7 @@ awards:
     url: https://www.gvsu.edu/ours/student-summer-scholars-898.htm
     awarder: Office of Undergraduate Research, Grand Valley State University
     date: '2021-05-01'
-    icon: cat
+    icon: grand-valley
     summary: |
       Funded independent undergraduate research project on argumentative writing and beliefs. 
       
@@ -161,14 +161,14 @@ awards:
     url: https://www.gvsu.edu/provost/student-awards-158.htm
     awarder: Grand Valley State University
     date: '2022-04-01'
-    icon: cat
+    icon: grand-valley
     summary: |
       Recognized as the top undergraduate in Psychology for outstanding academic performance.
   - title: Robert Hendersen Leadership Award
     url: https://www.gvsu.edu/psychology/the-robert-hendersen-leadership-award-ii-520.htm
     awarder: Department of Psychology, Grand Valley State University
     date: '2022-04-01'
-    icon: cat
+    icon: grand-valley
     summary: |
       Recognized for outstanding leadership and service to the psychology department.
 ---

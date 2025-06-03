@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "aside",
@@ -469,6 +470,9 @@
       "space-y-1",
       "space-y-16",
       "space-y-3",
+      "st0",
+      "st1",
+      "st2",
       "sticky",
       "stroke-current",
       "text-2xl",
@@ -541,6 +545,7 @@
       "z-30"
     ],
     "ids": [
+      "Layer_1",
       "about-me",
       "deviconPython0",
       "deviconPython1",
@@ -573,6 +578,12 @@
       "show-button",
       "site-header",
       "sun",
+      "surface1",
+      "svg_3",
+      "svg_4",
+      "svg_5",
+      "svg_6",
+      "svg_7",
       "talks",
       "teaching",
       "top"
