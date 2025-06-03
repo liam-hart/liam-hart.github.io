@@ -1,4 +1,5 @@
 ---
-title: Blog
-view: article-grid
+title: Updates
+summary: "What I've been up to"
+view: date-title-summary
 ---

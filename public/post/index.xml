@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Liam W. Hart</title>
+    <title>Updates | Liam W. Hart</title>
     <link>//localhost:1313/post/</link>
       <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
+    <description>Updates</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Aug 2025 09:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Blog</title>
+      <title>Updates</title>
       <link>//localhost:1313/post/</link>
     </image>
     

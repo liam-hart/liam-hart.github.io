@@ -37,6 +37,28 @@ sections:
       spacing:
         padding: ['100px', '0', '0px', '0']
   - block: collection
+    id: news
+    content:
+      title: What I've been up to
+      subtitle: '' # this did not seem to do anything
+      text: ""
+      page_type: post # page type to display. E.g. post, talk, publication...
+      count: 5 # how many pages to display? 0 = all pages
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      offset: 0 # offset by how many pages?
+      order: desc # page order
+    design:
+      view: date-title-summary
+      spacing:
+        padding: ['100px', '0', '0px', '0']
+  - block: collection
     id: papers
     content:
       title: Papers
@@ -60,32 +82,17 @@ sections:
       view: card # card is only view available now, more may be added
       spacing:
         padding: ['100px', '0', '0px', '0']
-  - block: collection
-    id: news
+  - block: markdown
     content:
-      title: What I've been up to
-      subtitle: '' # this did not seem to do anything
-      text: ""
-      page_type: post # page type to display. E.g. post, talk, publication...
-      count: 10 # how many pages to display? 0 = all pages
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      offset: 0 # offset by how many pages?
-      order: desc # page order
-    design:
-      spacing:
-        padding: ['100px', '0', '0px', '0']
-    design:
-      view: date-title-summary
-      spacing:
-        padding: ['100px', '0', '0px', '0']
+      title: 'Teaching Philosophy'
+      subtitle: ''
+      text: |-
+        I love learning about psychology. Presumably, outside of a Psych 101, most of the students chose these classes because they are interested in them. The obstacle is not making the students interested. It is making the learning accessible, and the assignments clear pathways for learning.
 
+        See the courses I have had the pleasure of teaching, and the associated materials, below.
+    design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']
 
 # For showcasing featured publications, enabled with publications that have 'featured: true'
   # - block: collection
