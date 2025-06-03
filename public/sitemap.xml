@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2025-08-19T09:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,10 +15,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/autobiographical-memory/</loc>
-    <lastmod>2025-05-20T10:00:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/post/</loc>
     <lastmod>2025-05-20T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -254,19 +254,11 @@
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/project/pandas/</loc>
+    <loc>//localhost:1313/project/example-1/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/project/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/project/pytorch/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -528,12 +520,6 @@
   </url><url>
     <loc>//localhost:1313/post/starting-undergrad-research-2018/</loc>
     <lastmod>2018-10-01T09:00:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/academic/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/tags/hugo-blox/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

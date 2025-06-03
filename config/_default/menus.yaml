@@ -6,22 +6,25 @@
 main:
   - name: Bio
     url: /
-    weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
+    weight: 1
   - name: Experience
     url: experience/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
+    weight: 2
+  - name: News
+    url: /#news
+    weight: 3
+  - name: Papers
+    url: /#papers
+    weight: 4
+  - name: Talks
+    url: /#talks
+    weight: 5
   - name: Teaching
     url: teaching/
-    weight: 40
+    weight: 6
+  # - name: Contact
+  #   url: /#contact
+  #   weight: 7
+  # - name: Projects
+  #   url: projects/
+  #   weight: 8
