@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ageism | Liam W. Hart</title>
+    <link>//localhost:1313/tags/ageism/</link>
+      <atom:link href="//localhost:1313/tags/ageism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ageism</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 13:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Ageism</title>
+      <link>//localhost:1313/tags/ageism/</link>
+    </image>
+    
+    <item>
+      <title>Reducing Ageism Through Service Learning: Virtual Talk at GVSU Student Scholars Day (2021)</title>
+      <link>//localhost:1313/post/gvsu-ageism-virtual-talk-2021/</link>
+      <pubDate>Wed, 14 Apr 2021 13:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/gvsu-ageism-virtual-talk-2021/</guid>
+      <description>&lt;p&gt;In Spring 2021, I delivered a &lt;strong&gt;virtual talk&lt;/strong&gt; at &lt;strong&gt;Grand Valley State University’s Student Scholars Day&lt;/strong&gt;, presenting findings from an independent study on educational interventions for reducing ageism in college students.&lt;/p&gt;
+&lt;p&gt;The presentation was titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Can Ageism Be Reduced by Service Learning Built Into a Lecture-Based Aging Course?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The project, conducted under the guidance of Dr. Jing Chen, investigated how a lecture course on aging—when paired with service-learning opportunities—impacted students’ attitudes toward older adults. This research combined my interests in gerontology, education, and social attitudes, and was part of a growing body of work aimed at addressing bias through curriculum design.&lt;/p&gt;
+&lt;p&gt;This was my first formal presentation focused on aging and intergenerational attitudes, and it helped solidify my interest in aging research and its relevance to real-world social issues. The experience also helped me adapt to presenting in virtual formats — a skill that became essential during the pandemic years.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

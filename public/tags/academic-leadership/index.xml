@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Leadership | Liam W. Hart</title>
+    <link>//localhost:1313/tags/academic-leadership/</link>
+      <atom:link href="//localhost:1313/tags/academic-leadership/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic Leadership</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Apr 2025 09:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Academic Leadership</title>
+      <link>//localhost:1313/tags/academic-leadership/</link>
+    </image>
+    
+    <item>
+      <title>Organizing the Cognitive Brain Sciences and Aging Brownbag (2025)</title>
+      <link>//localhost:1313/post/organizing-brownbag-2025/</link>
+      <pubDate>Sat, 05 Apr 2025 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/organizing-brownbag-2025/</guid>
+      <description>&lt;p&gt;In 2025, I organized the &lt;strong&gt;Cognitive Brain Sciences and Aging Brownbag&lt;/strong&gt; at &lt;strong&gt;Georgia Institute of Technology&lt;/strong&gt;, a research-focused event series highlighting work across aging, cognition, and neuroscience.&lt;/p&gt;
+&lt;p&gt;This student-led forum brought together graduate students and faculty from across labs and departments to share in-progress work, receive feedback, and foster interdisciplinary dialogue. I was responsible for scheduling speakers, coordinating logistics, and promoting engagement within the Georgia Tech psychology community.&lt;/p&gt;
+&lt;p&gt;Organizing the brownbag helped me build leadership and project management skills while creating space for open and collaborative scientific exchange. It was a rewarding opportunity to support both early-stage researchers and faculty in sharing their ideas and building a research culture grounded in feedback and conversation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

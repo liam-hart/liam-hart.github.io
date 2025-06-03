@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduation | Liam W. Hart</title>
+    <link>//localhost:1313/tags/graduation/</link>
+      <atom:link href="//localhost:1313/tags/graduation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graduation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Graduation</title>
+      <link>//localhost:1313/tags/graduation/</link>
+    </image>
+    
+    <item>
+      <title>Graduating from Grand Valley State University (2021)</title>
+      <link>//localhost:1313/post/gvsu-graduation-2021/</link>
+      <pubDate>Fri, 30 Apr 2021 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/gvsu-graduation-2021/</guid>
+      <description>&lt;p&gt;In Spring 2021, I graduated from &lt;strong&gt;Grand Valley State University&lt;/strong&gt; with a &lt;strong&gt;Bachelor of Science in Psychology&lt;/strong&gt; and a &lt;strong&gt;minor in Applied Statistics&lt;/strong&gt;. My time at GVSU was foundational to my academic and research development — both in and out of the classroom.&lt;/p&gt;
+&lt;p&gt;While at GVSU, I was involved in multiple research projects across psychology and exercise science, earned the &lt;strong&gt;Undergraduate Research Scholar designation&lt;/strong&gt;, and completed a &lt;strong&gt;Student Summer Scholars Grant&lt;/strong&gt;. I was also honored to receive several awards, including the &lt;strong&gt;Excellence-in-a-Discipline Award&lt;/strong&gt;, the &lt;strong&gt;Robert Hendersen Leadership Award&lt;/strong&gt;, and &lt;strong&gt;Outstanding Creative Achievement&lt;/strong&gt; from the Honors College.&lt;/p&gt;
+&lt;p&gt;Through these experiences, I discovered my passion for research on belief, cognition, aging, and emotional memory — and developed a long-term interest in combining psychological science with computational methods.&lt;/p&gt;
+&lt;p&gt;GVSU was where I first learned to design studies, analyze data, present at conferences, and write for publication — and it laid the groundwork for everything that followed in graduate school.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“Grant” | Liam W. Hart</title>
+    <link>//localhost:1313/tags/grant/</link>
+      <atom:link href="//localhost:1313/tags/grant/index.xml" rel="self" type="application/rss+xml" />
+    <description>“Grant”</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>“Grant”</title>
+      <link>//localhost:1313/tags/grant/</link>
+    </image>
+    
+    <item>
+      <title>“Undergraduate Conference Travel Support from Psi Chi and GVSU (2021–2022)”</title>
+      <link>//localhost:1313/post/travel-grants-2021/</link>
+      <pubDate>Sun, 01 May 2022 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/travel-grants-2021/</guid>
+      <description>&lt;p&gt;During the 2021–2022 academic year, I received two undergraduate conference travel grants to support the presentation of my research at academic conferences:
+•	🧠 Psi Chi Regional Conference Travel Grant – Awarded $320 to support my poster presentation at the Midwestern Psychological Association Conference in Chicago, where I shared findings on belief change and persuasive reading.
+	•	🎓 GVSU Office of Undergraduate Research Conference Travel Grant – Awarded $500 to attend multiple research events, including GVSU Student Scholars Day and the Society for Text and Discourse virtual conference.&lt;/p&gt;
+&lt;p&gt;These grants enabled me to attend high-impact academic events, develop presentation skills, network with researchers, and gain experience sharing my work in professional environments. They were important in reinforcing my commitment to research and helped lay the foundation for my academic career.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

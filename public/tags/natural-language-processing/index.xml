@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Processing | Liam W. Hart</title>
+    <link>//localhost:1313/tags/natural-language-processing/</link>
+      <atom:link href="//localhost:1313/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural Language Processing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Natural Language Processing</title>
+      <link>//localhost:1313/tags/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>In Preparation: Manuscript on Emotional Autobiographical Memory and NLP</title>
+      <link>//localhost:1313/post/forthcoming-paper-memory-nlp/</link>
+      <pubDate>Tue, 20 May 2025 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/forthcoming-paper-memory-nlp/</guid>
+      <description>&lt;p&gt;I’m currently preparing a first-author manuscript with &lt;strong&gt;Dr. Hsiao-Wen Liao&lt;/strong&gt; that examines the narrative structure of &lt;strong&gt;emotional autobiographical memories&lt;/strong&gt; in older adults using &lt;strong&gt;natural language processing (NLP)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This project is part of my ongoing graduate research in the &lt;strong&gt;Janus Laboratory&lt;/strong&gt; at Georgia Tech and focuses on the &lt;strong&gt;semantic and structural properties of high and low point life narratives&lt;/strong&gt;. The study uses techniques such as topic modeling, entropy scoring, and classification of internal and external details to assess age-related differences in memory representation.&lt;/p&gt;
+&lt;p&gt;The manuscript builds on prior work by Sheldon et al. (2024) and others, extending their methods to investigate &lt;strong&gt;gist-level representations&lt;/strong&gt; and &lt;strong&gt;emotional valence&lt;/strong&gt; in autobiographical recall. It contributes to ongoing discussions about how aging affects memory specificity, coherence, and emotional processing.&lt;/p&gt;
+&lt;p&gt;I look forward to sharing more about this work as it progresses through peer review. This paper will also serve as the foundation for my &lt;strong&gt;master’s thesis&lt;/strong&gt; and an important step toward my dissertation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

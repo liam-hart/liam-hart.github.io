@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduate School | Liam W. Hart</title>
+    <link>//localhost:1313/tags/graduate-school/</link>
+      <atom:link href="//localhost:1313/tags/graduate-school/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graduate School</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Graduate School</title>
+      <link>//localhost:1313/tags/graduate-school/</link>
+    </image>
+    
+    <item>
+      <title>Becoming a Psych Friends Peer Mentor at Georgia Tech (2024)</title>
+      <link>//localhost:1313/post/psych-friends-peer-mentor-2024/</link>
+      <pubDate>Sun, 01 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/psych-friends-peer-mentor-2024/</guid>
+      <description>&lt;p&gt;In Fall 2024, I joined &lt;strong&gt;Psych Friends&lt;/strong&gt;, a peer mentoring program in the &lt;strong&gt;Georgia Tech School of Psychology&lt;/strong&gt;, as a &lt;strong&gt;graduate student mentor&lt;/strong&gt;. This program pairs first-year students with second- or third-year mentors to provide guidance, encouragement, and a sense of community during the critical first year of graduate training.&lt;/p&gt;
+&lt;p&gt;As a mentor, I’ve helped new students navigate course planning, lab dynamics, work-life balance, and professional development. I’ve also shared strategies for finding research direction, building faculty relationships, and adjusting to the culture of graduate school.&lt;/p&gt;
+&lt;p&gt;Psych Friends has been a rewarding experience that aligns with my broader values around community building and mentorship. I benefited from supportive peers when I was starting out, and I’m grateful for the opportunity to pass that support forward.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting My First Year as a Ph.D. Student at Georgia Tech</title>
+      <link>//localhost:1313/post/starting-first-year-gt/</link>
+      <pubDate>Mon, 19 Aug 2024 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/starting-first-year-gt/</guid>
+      <description>&lt;p&gt;In August 2024, I officially began my first year as a Ph.D. student in the Psychology program at Georgia Tech, with a concentration in Adult Development and Aging.&lt;/p&gt;
+&lt;p&gt;This first year is focused on building a strong foundation in cognitive aging, emotion, and memory research while also strengthening my skills in natural language processing. I joined the &lt;strong&gt;Janus Laboratory&lt;/strong&gt;, where I&amp;rsquo;m working with Dr. Hsiao-Wen Liao on projects involving autobiographical memory narratives — particularly how older adults recall emotional high and low points in their lives.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve also started exploring how large language models like BERT can be used to examine internal vs. external detail, topic diversity, and gist representation in personal narratives.&lt;/p&gt;
+&lt;p&gt;Beyond research, I&amp;rsquo;ve enjoyed engaging with a new cohort of talented peers, diving into coursework, and beginning to define the focus of my thesis work. It’s been a challenging and inspiring start to what I hope will be a transformative journey.&lt;/p&gt;
+&lt;p&gt;Looking forward to what’s ahead!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awarded the President’s Fellowship at Georgia Tech (2024–2028)</title>
+      <link>//localhost:1313/post/presidents-fellowship-gt-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 12:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/presidents-fellowship-gt-2024/</guid>
+      <description>&lt;p&gt;In 2024, I was honored to receive the &lt;strong&gt;President’s Fellowship&lt;/strong&gt; from &lt;strong&gt;Georgia Institute of Technology&lt;/strong&gt;, awarded to the &lt;strong&gt;top 10 percent of incoming doctoral students&lt;/strong&gt; across the Institute.&lt;/p&gt;
+&lt;p&gt;The fellowship provides four years of supplemental funding and professional development support. It recognizes not only academic and research potential but also leadership and service contributions. For me, it marked a tremendous vote of confidence in my graduate research goals and my commitment to the study of aging, memory, and emotion.&lt;/p&gt;
+&lt;p&gt;This support has given me the flexibility to pursue interdisciplinary work at the intersection of cognitive psychology and natural language processing, and has allowed me to focus deeply on developing both technical and theoretical expertise.&lt;/p&gt;
+&lt;p&gt;I’m grateful to Georgia Tech for this opportunity and am working hard to make the most of it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accepted to Georgia Tech&#39;s Psychology Ph.D. Program</title>
+      <link>//localhost:1313/post/accepted-to-gradschool/</link>
+      <pubDate>Fri, 15 Mar 2024 09:00:00 -0500</pubDate>
+      <guid>//localhost:1313/post/accepted-to-gradschool/</guid>
+      <description>&lt;p&gt;In early 2024, I received an offer of admission to the Psychology Ph.D. program at the Georgia Institute of Technology. I&amp;rsquo;ll be specializing in Adult Development and Aging, with a focus on cognitive aging, autobiographical memory, and natural language processing.&lt;/p&gt;
+&lt;p&gt;I’m deeply grateful to be joining the Janus Laboratory, under the mentorship of Dr. Hsiao-Wen Liao. Her work on emotional memory, aging, and narrative structure aligns perfectly with my research interests, and I’m excited to begin contributing to ongoing projects.&lt;/p&gt;
+&lt;p&gt;This opportunity represents a major turning point in my academic journey and a chance to grow not only as a researcher but also as a teacher and leader in the field of cognitive science.&lt;/p&gt;
+&lt;p&gt;Stay tuned for future updates as I begin this new chapter in Atlanta!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

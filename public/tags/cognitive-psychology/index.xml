@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cognitive Psychology | Liam W. Hart</title>
+    <link>//localhost:1313/tags/cognitive-psychology/</link>
+      <atom:link href="//localhost:1313/tags/cognitive-psychology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Psychology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Cognitive Psychology</title>
+      <link>//localhost:1313/tags/cognitive-psychology/</link>
+    </image>
+    
+    <item>
+      <title>Third Publication: Belief Verification and Current Beliefs in The Open Psychology Journal (2024)</title>
+      <link>//localhost:1313/post/open-psychology-journal-2024/</link>
+      <pubDate>Wed, 20 Mar 2024 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/open-psychology-journal-2024/</guid>
+      <description>&lt;p&gt;In Spring 2024, I co-authored a publication in &lt;em&gt;The Open Psychology Journal&lt;/em&gt; titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Verification of Past Beliefs Influences Current Beliefs.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project built on a series of studies investigating the cognitive mechanisms involved in belief revision. Specifically, we examined how the process of retrieving and verifying one’s past beliefs can affect present-day belief strength, even in light of conflicting evidence.&lt;/p&gt;
+&lt;p&gt;The work was done in collaboration with Dr. Michael Wolfe, along with G. Russell, T. Williams, and myself. It was part of our broader effort to understand how metacognitive processes—like reflecting on prior knowledge—affect reasoning and writing.&lt;/p&gt;
+&lt;p&gt;This paper contributed to the growing literature on belief change and belief coherence, and it offered implications for educational practice, persuasive communication, and critical thinking training.&lt;/p&gt;
+&lt;p&gt;It was rewarding to see this collaborative work published and to contribute to a line of research that bridges cognition, memory, and communication.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

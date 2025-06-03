@@ -5,7 +5,7 @@
     <link>//localhost:1313/post/</link>
       <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Aug 2025 09:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
@@ -13,10 +13,168 @@
     </image>
     
     <item>
+      <title>In Preparation: Manuscript on Emotional Autobiographical Memory and NLP</title>
+      <link>//localhost:1313/post/forthcoming-paper-memory-nlp/</link>
+      <pubDate>Tue, 20 May 2025 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/forthcoming-paper-memory-nlp/</guid>
+      <description>&lt;p&gt;I’m currently preparing a first-author manuscript with &lt;strong&gt;Dr. Hsiao-Wen Liao&lt;/strong&gt; that examines the narrative structure of &lt;strong&gt;emotional autobiographical memories&lt;/strong&gt; in older adults using &lt;strong&gt;natural language processing (NLP)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This project is part of my ongoing graduate research in the &lt;strong&gt;Janus Laboratory&lt;/strong&gt; at Georgia Tech and focuses on the &lt;strong&gt;semantic and structural properties of high and low point life narratives&lt;/strong&gt;. The study uses techniques such as topic modeling, entropy scoring, and classification of internal and external details to assess age-related differences in memory representation.&lt;/p&gt;
+&lt;p&gt;The manuscript builds on prior work by Sheldon et al. (2024) and others, extending their methods to investigate &lt;strong&gt;gist-level representations&lt;/strong&gt; and &lt;strong&gt;emotional valence&lt;/strong&gt; in autobiographical recall. It contributes to ongoing discussions about how aging affects memory specificity, coherence, and emotional processing.&lt;/p&gt;
+&lt;p&gt;I look forward to sharing more about this work as it progresses through peer review. This paper will also serve as the foundation for my &lt;strong&gt;master’s thesis&lt;/strong&gt; and an important step toward my dissertation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organizing the Cognitive Brain Sciences and Aging Brownbag (2025)</title>
+      <link>//localhost:1313/post/organizing-brownbag-2025/</link>
+      <pubDate>Sat, 05 Apr 2025 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/organizing-brownbag-2025/</guid>
+      <description>&lt;p&gt;In 2025, I organized the &lt;strong&gt;Cognitive Brain Sciences and Aging Brownbag&lt;/strong&gt; at &lt;strong&gt;Georgia Institute of Technology&lt;/strong&gt;, a research-focused event series highlighting work across aging, cognition, and neuroscience.&lt;/p&gt;
+&lt;p&gt;This student-led forum brought together graduate students and faculty from across labs and departments to share in-progress work, receive feedback, and foster interdisciplinary dialogue. I was responsible for scheduling speakers, coordinating logistics, and promoting engagement within the Georgia Tech psychology community.&lt;/p&gt;
+&lt;p&gt;Organizing the brownbag helped me build leadership and project management skills while creating space for open and collaborative scientific exchange. It was a rewarding opportunity to support both early-stage researchers and faculty in sharing their ideas and building a research culture grounded in feedback and conversation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Completed the Neuromatch Academy Deep Learning Program (2025)</title>
+      <link>//localhost:1313/post/neuromatch-deep-learning-2025/</link>
+      <pubDate>Sat, 15 Mar 2025 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/neuromatch-deep-learning-2025/</guid>
+      <description>&lt;p&gt;In Spring 2025, I completed the &lt;strong&gt;Neuromatch Academy Deep Learning Program&lt;/strong&gt;, an intensive, project-based online course designed to provide a deep understanding of modern machine learning methods, especially in the context of neuroscience and cognitive science.&lt;/p&gt;
+&lt;p&gt;The program covered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamentals of neural networks and backpropagation&lt;/li&gt;
+&lt;li&gt;Regularization and optimization strategies&lt;/li&gt;
+&lt;li&gt;Convolutional and recurrent networks&lt;/li&gt;
+&lt;li&gt;Transformer architectures and attention mechanisms&lt;/li&gt;
+&lt;li&gt;Generative models and reinforcement learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This training helped solidify my technical foundation in &lt;strong&gt;deep learning&lt;/strong&gt; and equipped me to apply these methods in my research on autobiographical memory narratives. I especially valued the balance of theoretical depth, coding implementation, and collaborative problem-solving with peers across disciplines.&lt;/p&gt;
+&lt;p&gt;Neuromatch’s emphasis on accessible, open science aligned with my own goals as a researcher working at the intersection of psychology and artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Trip Leader for Outdoor Recreation at Georgia Tech (2025)</title>
+      <link>//localhost:1313/post/trip-leader-outdoor-rec-gt-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 12:00:00 -0500</pubDate>
+      <guid>//localhost:1313/post/trip-leader-outdoor-rec-gt-2025/</guid>
+      <description>&lt;p&gt;In early 2025, I became a &lt;strong&gt;Trip Leader for Outdoor Recreation at Georgia Tech&lt;/strong&gt;, a role that combines outdoor education, leadership development, and community engagement.&lt;/p&gt;
+&lt;p&gt;As a trip leader, I help plan and guide excursions such as &lt;strong&gt;rock climbing trips&lt;/strong&gt;, &lt;strong&gt;day hikes&lt;/strong&gt;, and &lt;strong&gt;overnight adventures&lt;/strong&gt; across Georgia and the southeastern U.S. The position involves risk management, technical instruction, group facilitation, and logistics — all while fostering inclusivity and confidence in outdoor spaces.&lt;/p&gt;
+&lt;p&gt;This experience has been both personally meaningful and professionally relevant. It has improved my leadership, adaptability, and communication — qualities that translate well to academic teamwork, teaching, and research coordination. It’s also provided balance and renewal alongside the demands of graduate school.&lt;/p&gt;
+&lt;p&gt;Outdoor leadership has become a core part of my identity, and I value the opportunity to help others connect with nature, challenge themselves, and grow through shared adventure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Psych Friends Peer Mentor at Georgia Tech (2024)</title>
+      <link>//localhost:1313/post/psych-friends-peer-mentor-2024/</link>
+      <pubDate>Sun, 01 Sep 2024 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/psych-friends-peer-mentor-2024/</guid>
+      <description>&lt;p&gt;In Fall 2024, I joined &lt;strong&gt;Psych Friends&lt;/strong&gt;, a peer mentoring program in the &lt;strong&gt;Georgia Tech School of Psychology&lt;/strong&gt;, as a &lt;strong&gt;graduate student mentor&lt;/strong&gt;. This program pairs first-year students with second- or third-year mentors to provide guidance, encouragement, and a sense of community during the critical first year of graduate training.&lt;/p&gt;
+&lt;p&gt;As a mentor, I’ve helped new students navigate course planning, lab dynamics, work-life balance, and professional development. I’ve also shared strategies for finding research direction, building faculty relationships, and adjusting to the culture of graduate school.&lt;/p&gt;
+&lt;p&gt;Psych Friends has been a rewarding experience that aligns with my broader values around community building and mentorship. I benefited from supportive peers when I was starting out, and I’m grateful for the opportunity to pass that support forward.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting My First Year as a Ph.D. Student at Georgia Tech</title>
+      <link>//localhost:1313/post/starting-first-year-gt/</link>
+      <pubDate>Mon, 19 Aug 2024 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/starting-first-year-gt/</guid>
+      <description>&lt;p&gt;In August 2024, I officially began my first year as a Ph.D. student in the Psychology program at Georgia Tech, with a concentration in Adult Development and Aging.&lt;/p&gt;
+&lt;p&gt;This first year is focused on building a strong foundation in cognitive aging, emotion, and memory research while also strengthening my skills in natural language processing. I joined the &lt;strong&gt;Janus Laboratory&lt;/strong&gt;, where I&amp;rsquo;m working with Dr. Hsiao-Wen Liao on projects involving autobiographical memory narratives — particularly how older adults recall emotional high and low points in their lives.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve also started exploring how large language models like BERT can be used to examine internal vs. external detail, topic diversity, and gist representation in personal narratives.&lt;/p&gt;
+&lt;p&gt;Beyond research, I&amp;rsquo;ve enjoyed engaging with a new cohort of talented peers, diving into coursework, and beginning to define the focus of my thesis work. It’s been a challenging and inspiring start to what I hope will be a transformative journey.&lt;/p&gt;
+&lt;p&gt;Looking forward to what’s ahead!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AHNS at COSM 2024: Socioeconomic Factors and Equity in PROM Completion</title>
+      <link>//localhost:1313/post/ahns-cosm-equity-proms-2024/</link>
+      <pubDate>Fri, 17 May 2024 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/ahns-cosm-equity-proms-2024/</guid>
+      <description>&lt;p&gt;In May 2024, I presented a second clinical research poster at the &lt;strong&gt;American Head and Neck Society (AHNS)&lt;/strong&gt; track at &lt;strong&gt;COSM – Combined Otolaryngology Spring Meetings&lt;/strong&gt;. This work was conducted with the research team at &lt;strong&gt;Henry Ford Health&lt;/strong&gt; and focused on equity in cancer care.&lt;/p&gt;
+&lt;p&gt;The poster, titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Socioeconomic Factors Impacting Equity in Completion of Patient-Reported Outcome Measures Among Patients with Head and Neck Cancer,&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+investigated how variables like income, insurance status, and digital access affected PROM completion rates.&lt;/p&gt;
+&lt;p&gt;I contributed to the data analysis and presentation development alongside collaborators including Dr. Samantha Tam and colleagues across multiple institutions. This work reinforced the need to consider structural barriers in patient engagement and helped me appreciate the broader context of behavioral and psychosocial research within clinical trials.&lt;/p&gt;
+&lt;p&gt;COSM was a dynamic, interdisciplinary venue — and presenting our findings there gave me the opportunity to engage with experts in otolaryngology, behavioral medicine, and implementation science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting at AHNS 2024: Enhancing PROM Engagement in Head and Neck Cancer</title>
+      <link>//localhost:1313/post/midwest-cogsci-2023/</link>
+      <pubDate>Thu, 18 Apr 2024 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/midwest-cogsci-2023/</guid>
+      <description>&lt;p&gt;In Spring 2024, I co-presented a research poster at the &lt;strong&gt;American Head and Neck Society (AHNS) Annual Meeting&lt;/strong&gt;, based on work conducted during my time as a Clinical Research Coordinator at &lt;strong&gt;Henry Ford Health&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The poster was titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Enhancing PROM Engagement: A Mixed Methods Approach to Reminder Interventions and Patient Preferences in Head and Neck Cancer.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project was part of the &lt;strong&gt;BRIGHT Trial&lt;/strong&gt;, led by Dr. Samantha Tam, and aimed to identify strategies for improving completion rates and patient satisfaction with electronic patient-reported outcome measures (PROMs). My role involved coordinating study visits, managing REDCap data, and contributing to qualitative data synthesis.&lt;/p&gt;
+&lt;p&gt;This presentation marked my first experience disseminating clinical research at a national conference. It offered an important perspective on translational science, bridging patient-centered care and behavioral health research.&lt;/p&gt;
+&lt;p&gt;Participating in this work expanded my methodological skills and deepened my appreciation for research that directly impacts patient outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awarded the President’s Fellowship at Georgia Tech (2024–2028)</title>
+      <link>//localhost:1313/post/presidents-fellowship-gt-2024/</link>
+      <pubDate>Mon, 01 Apr 2024 12:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/presidents-fellowship-gt-2024/</guid>
+      <description>&lt;p&gt;In 2024, I was honored to receive the &lt;strong&gt;President’s Fellowship&lt;/strong&gt; from &lt;strong&gt;Georgia Institute of Technology&lt;/strong&gt;, awarded to the &lt;strong&gt;top 10 percent of incoming doctoral students&lt;/strong&gt; across the Institute.&lt;/p&gt;
+&lt;p&gt;The fellowship provides four years of supplemental funding and professional development support. It recognizes not only academic and research potential but also leadership and service contributions. For me, it marked a tremendous vote of confidence in my graduate research goals and my commitment to the study of aging, memory, and emotion.&lt;/p&gt;
+&lt;p&gt;This support has given me the flexibility to pursue interdisciplinary work at the intersection of cognitive psychology and natural language processing, and has allowed me to focus deeply on developing both technical and theoretical expertise.&lt;/p&gt;
+&lt;p&gt;I’m grateful to Georgia Tech for this opportunity and am working hard to make the most of it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Third Publication: Belief Verification and Current Beliefs in The Open Psychology Journal (2024)</title>
+      <link>//localhost:1313/post/open-psychology-journal-2024/</link>
+      <pubDate>Wed, 20 Mar 2024 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/open-psychology-journal-2024/</guid>
+      <description>&lt;p&gt;In Spring 2024, I co-authored a publication in &lt;em&gt;The Open Psychology Journal&lt;/em&gt; titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Verification of Past Beliefs Influences Current Beliefs.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project built on a series of studies investigating the cognitive mechanisms involved in belief revision. Specifically, we examined how the process of retrieving and verifying one’s past beliefs can affect present-day belief strength, even in light of conflicting evidence.&lt;/p&gt;
+&lt;p&gt;The work was done in collaboration with Dr. Michael Wolfe, along with G. Russell, T. Williams, and myself. It was part of our broader effort to understand how metacognitive processes—like reflecting on prior knowledge—affect reasoning and writing.&lt;/p&gt;
+&lt;p&gt;This paper contributed to the growing literature on belief change and belief coherence, and it offered implications for educational practice, persuasive communication, and critical thinking training.&lt;/p&gt;
+&lt;p&gt;It was rewarding to see this collaborative work published and to contribute to a line of research that bridges cognition, memory, and communication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accepted to Georgia Tech&#39;s Psychology Ph.D. Program</title>
+      <link>//localhost:1313/post/accepted-to-gradschool/</link>
+      <pubDate>Fri, 15 Mar 2024 09:00:00 -0500</pubDate>
+      <guid>//localhost:1313/post/accepted-to-gradschool/</guid>
+      <description>&lt;p&gt;In early 2024, I received an offer of admission to the Psychology Ph.D. program at the Georgia Institute of Technology. I&amp;rsquo;ll be specializing in Adult Development and Aging, with a focus on cognitive aging, autobiographical memory, and natural language processing.&lt;/p&gt;
+&lt;p&gt;I’m deeply grateful to be joining the Janus Laboratory, under the mentorship of Dr. Hsiao-Wen Liao. Her work on emotional memory, aging, and narrative structure aligns perfectly with my research interests, and I’m excited to begin contributing to ongoing projects.&lt;/p&gt;
+&lt;p&gt;This opportunity represents a major turning point in my academic journey and a chance to grow not only as a researcher but also as a teacher and leader in the field of cognitive science.&lt;/p&gt;
+&lt;p&gt;Stay tuned for future updates as I begin this new chapter in Atlanta!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second First-Author Publication: Argumentative Writing and Belief Change in Instructional Science (2024)</title>
+      <link>//localhost:1313/post/henry-ford-symposium-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 10:00:00 -0500</pubDate>
+      <guid>//localhost:1313/post/henry-ford-symposium-2024/</guid>
+      <description>&lt;p&gt;In early 2024, I published my second first-author paper — this time in &lt;em&gt;Instructional Science&lt;/em&gt;, a peer-reviewed journal that focuses on educational psychology and learning processes.&lt;/p&gt;
+&lt;p&gt;The paper, titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Beliefs Influence Argumentative Essay Writing,&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+was the culmination of a multi-year undergraduate research project I conducted in the &lt;strong&gt;Social Cognition Lab&lt;/strong&gt; at Grand Valley State University with Dr. Michael Wolfe.&lt;/p&gt;
+&lt;p&gt;In this study, we explored how reading persuasive texts influences students’ beliefs and how those belief changes shape the structure, content, and quality of their argumentative writing. The findings provided empirical evidence that shifts in belief can meaningfully influence written expression — an important insight for both cognitive and educational psychologists.&lt;/p&gt;
+&lt;p&gt;This publication marked a major step forward in translating undergraduate research into peer-reviewed work and solidified my commitment to research on cognition, communication, and belief formation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>//localhost:1313/post/get-started/</link>
+      <link>//localhost:1313/post/ahns-prom-engagement/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/get-started/</guid>
+      <guid>//localhost:1313/post/ahns-prom-engagement/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -99,513 +257,395 @@
     </item>
     
     <item>
-      <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>//localhost:1313/post/second-brain/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/second-brain/</guid>
-      <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
-&lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
-&lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
-&lt;p&gt;Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.&lt;/p&gt;
-&lt;h2 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;With this open format, can even edit your mindmaps in other popular tools such as Obsidian.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Anh here&amp;rsquo;s a more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
-
-&lt;pre&gt;- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;highlighting&#34;&gt;Highlighting&lt;/h2&gt;
-&lt;p&gt;&lt;mark&gt;Highlight&lt;/mark&gt; important text with &lt;code&gt;mark&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Highlighted text&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;callouts&#34;&gt;Callouts&lt;/h2&gt;
-&lt;p&gt;Use &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;callouts&lt;/a&gt; (aka &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;) to draw attention to notes, tips, and warnings.&lt;/p&gt;
-&lt;p&gt;By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Or use the &lt;code&gt;warning&lt;/code&gt; callout type so your readers don&amp;rsquo;t miss critical details:&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>//localhost:1313/post/data-visualization/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/data-visualization/</guid>
-      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
-&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
-&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
+      <title>🎉 Easily create your own simple yet highly customizable blog</title>
+      <link>//localhost:1313/post/instructional-science-2024/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/instructional-science-2024/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
 
-
-&lt;div id=&#34;chart-758362419&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  async function fetchChartJSON() {
-    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
-    const response = await fetch(&#39;.\/line-chart.json&#39;);
-    return await response.json();
-  }
-
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        console.debug(&#39;Plotly not loaded yet...&#39;)
-        return;
-      }
-      clearInterval( a );
-
-      fetchChartJSON().then(chart =&gt; {
-        console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-758362419&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;graph TD
-A[Hard] --&gt;|Text| B(Round)
-B --&gt; C{Decision}
-C --&gt;|One| D[Result 1]
-C --&gt;|Two| E[Result 2]
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice-&gt;&gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&gt;&gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&gt;&gt;Alice: Great!
-John-&gt;&gt;Bob: How about you?
-Bob--&gt;&gt;John: Jolly good!
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &amp;lt;--&amp;gt; C2: Cool label
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;classDiagram
-Class01 &lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &lt;--&gt; C2: Cool label
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
-[*] --&gt; Still
-Still --&gt; [*]
-Still --&gt; Moving
-Moving --&gt; Still
-Moving --&gt; Crash
-Crash --&gt; [*]
-&lt;/div&gt;
-&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;table class=&#34;table-auto w-full&#34;&gt;
-  
-    
-    
-    &lt;thead&gt;
-      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
-    &lt;/thead&gt;
-  
-  &lt;tbody&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  &lt;/tbody&gt;
-  
-    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>//localhost:1313/post/teach-courses/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/teach-courses/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
-&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
-&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube D2vj0WcvH5c &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
-  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
-  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
-  class=&#34;w-full h-full&#34;
-  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
-&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Try it out:&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-&lt;audio controls &gt;
-  &lt;source src=&#34;//localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
-&lt;/audio&gt;
-
-&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
-&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
-  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
-    You found me 🎉
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the &lt;code&gt;math: true&lt;/code&gt; option in your page&amp;rsquo;s front matter, or enable math for your entire site by toggling math in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;features&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;math&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
-$$&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
-    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; Python&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Hugo Blox community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn what other &lt;strong&gt;creators&lt;/strong&gt;&lt;/a&gt; are building with this template.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code &lt;a href=&#34;https://hugoblox.com/blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blocks&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>✅ Manage your projects</title>
-      <link>//localhost:1313/post/project-management/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/project-management/</guid>
-      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+      <title>🎉 Easily create your own simple yet highly customizable blog</title>
+      <link>//localhost:1313/post/society-text-discourse-2022/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/society-text-discourse-2022/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
-&lt;pre&gt;- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
 
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/div&gt;
-&lt;h2 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h2&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Hugo Blox community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn what other &lt;strong&gt;creators&lt;/strong&gt;&lt;/a&gt; are building with this template.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code &lt;a href=&#34;https://hugoblox.com/blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blocks&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Coordinator on the BRIGHT Study at Henry Ford Health (2023)</title>
+      <link>//localhost:1313/post/bright-study-henry-ford-health-2023/</link>
+      <pubDate>Mon, 03 Apr 2023 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/bright-study-henry-ford-health-2023/</guid>
+      <description>&lt;p&gt;In April 2023, I began working as a &lt;strong&gt;Research Coordinator&lt;/strong&gt; at &lt;strong&gt;Henry Ford Health&lt;/strong&gt; on the &lt;strong&gt;BRIGHT Study (Building Resilience in Girls&amp;rsquo; Health Today)&lt;/strong&gt; — a large, longitudinal research project examining &lt;strong&gt;mental health, trauma exposure, and resilience&lt;/strong&gt; in youth populations.&lt;/p&gt;
+&lt;p&gt;The BRIGHT Study involves multi-wave data collection, including clinical interviews, cognitive assessments, and biological sampling, with a focus on trauma-exposed girls aged 11–17. As a coordinator, I was responsible for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Participant scheduling and informed consent&lt;/li&gt;
+&lt;li&gt;Administering and scoring assessments&lt;/li&gt;
+&lt;li&gt;Managing REDCap data and IRB documentation&lt;/li&gt;
+&lt;li&gt;Coordinating with clinicians, research staff, and school partners&lt;/li&gt;
+&lt;li&gt;Ensuring ethical and culturally sensitive practices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This experience offered firsthand insight into &lt;strong&gt;community-based clinical research&lt;/strong&gt; and strengthened my skills in data management, participant rapport, and trauma-informed care. It also affirmed my interest in &lt;strong&gt;lifespan development&lt;/strong&gt;, &lt;strong&gt;emotional memory&lt;/strong&gt;, and the ways research can inform interventions and public health.&lt;/p&gt;
+&lt;p&gt;My time on the BRIGHT Study was foundational in preparing for graduate-level work and deepening my commitment to research that supports vulnerable populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting at the Society for Text and Discourse: Beliefs and Argumentative Writing (2022)</title>
+      <link>//localhost:1313/post/first-publication-educational-gerontology/</link>
+      <pubDate>Wed, 20 Jul 2022 14:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/first-publication-educational-gerontology/</guid>
+      <description>&lt;p&gt;In Summer 2022, I delivered my first oral presentation at an academic conference — the &lt;strong&gt;Annual Meeting of the Society for Text and Discourse&lt;/strong&gt;. This event, held virtually that year, brought together scholars interested in reading, discourse, and communication processes.&lt;/p&gt;
+&lt;p&gt;My talk was titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Belief Change After Reading Predicts Argumentative Essay Content.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This research emerged from my work as an undergraduate researcher in the Social Cognition Lab at Grand Valley State University, under the mentorship of Dr. Michael Wolfe. We examined how changes in students&amp;rsquo; beliefs after reading persuasive texts influenced the structure and content of their argumentative essays.&lt;/p&gt;
+&lt;p&gt;Presenting at this conference was an incredibly formative experience. It helped me build confidence in communicating my research, fielding questions from experts, and engaging with a broader academic community. It also affirmed my interest in pursuing graduate research in cognition, memory, and language.&lt;/p&gt;
+&lt;p&gt;This presentation was an early but pivotal step on my academic path.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>“Undergraduate Conference Travel Support from Psi Chi and GVSU (2021–2022)”</title>
+      <link>//localhost:1313/post/travel-grants-2021/</link>
+      <pubDate>Sun, 01 May 2022 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/travel-grants-2021/</guid>
+      <description>&lt;p&gt;During the 2021–2022 academic year, I received two undergraduate conference travel grants to support the presentation of my research at academic conferences:
+•	🧠 Psi Chi Regional Conference Travel Grant – Awarded $320 to support my poster presentation at the Midwestern Psychological Association Conference in Chicago, where I shared findings on belief change and persuasive reading.
+	•	🎓 GVSU Office of Undergraduate Research Conference Travel Grant – Awarded $500 to attend multiple research events, including GVSU Student Scholars Day and the Society for Text and Discourse virtual conference.&lt;/p&gt;
+&lt;p&gt;These grants enabled me to attend high-impact academic events, develop presentation skills, network with researchers, and gain experience sharing my work in professional environments. They were important in reinforcing my commitment to research and helped lay the foundation for my academic career.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excellence-in-a-Discipline Award: Psychology at GVSU (2022)</title>
+      <link>//localhost:1313/post/excellence-in-discipline-award-gvsu-2022/</link>
+      <pubDate>Mon, 25 Apr 2022 14:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/excellence-in-discipline-award-gvsu-2022/</guid>
+      <description>&lt;p&gt;In Spring 2022, I was honored to receive the &lt;strong&gt;Excellence-in-a-Discipline Award&lt;/strong&gt; from &lt;strong&gt;Grand Valley State University&lt;/strong&gt;, which recognizes one undergraduate student in each major who has demonstrated outstanding academic achievement and disciplinary engagement.&lt;/p&gt;
+&lt;p&gt;I was selected for this award within the &lt;strong&gt;Psychology Department&lt;/strong&gt;, based on my coursework, research contributions, and professional development activities. At the time, I was actively engaged in multiple research projects and had recently presented at both campus and regional conferences.&lt;/p&gt;
+&lt;p&gt;This recognition was a meaningful capstone to my undergraduate work. It reflected not only academic success but also the mentorship, collaboration, and hands-on experiences that shaped my growth as a student and emerging researcher.&lt;/p&gt;
+&lt;p&gt;Receiving this award gave me further confidence as I prepared to transition to graduate school and pursue more advanced research opportunities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Belief Change and Persuasion: Poster Presentation at MPA 2022</title>
+      <link>//localhost:1313/post/mpa-belief-poster-2022/</link>
+      <pubDate>Sat, 23 Apr 2022 13:00:00 -0500</pubDate>
+      <guid>//localhost:1313/post/mpa-belief-poster-2022/</guid>
+      <description>&lt;p&gt;In Spring 2022, I presented a poster at the &lt;strong&gt;Midwestern Psychological Association (MPA) Conference&lt;/strong&gt;, held in Chicago. The project was titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Information About Past Beliefs Influences Current Beliefs.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study explored how explicitly reminding individuals of their past beliefs affects their current evaluations of persuasive information. The poster was based on research I conducted in the &lt;strong&gt;Social Cognition Lab&lt;/strong&gt; at Grand Valley State University with Dr. Michael Wolfe, and it contributed to our broader line of work on belief change, reading comprehension, and persuasive writing.&lt;/p&gt;
+&lt;p&gt;This was one of my first in-person academic conferences, and I gained valuable experience discussing research with a broad audience of psychologists and students from across the Midwest. It also reinforced the importance of clear visual communication and thoughtful responses to audience questions — skills I’ve continued to develop in subsequent presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outstanding Creative Achievement Award for Honors College Capstone (2022)</title>
+      <link>//localhost:1313/post/creative-achievement-award-podcast-2022/</link>
+      <pubDate>Wed, 20 Apr 2022 13:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/creative-achievement-award-podcast-2022/</guid>
+      <description>&lt;p&gt;In 2022, I was honored to receive the &lt;strong&gt;Outstanding Creative Achievement Award&lt;/strong&gt; from the &lt;strong&gt;Frederik Meijer Honors College&lt;/strong&gt; at Grand Valley State University. This award recognized the top five senior capstone projects across the college.&lt;/p&gt;
+&lt;p&gt;My project was a podcast series titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Perspectives on Psilocybin: The Science and Mysticism of Magic Mushrooms.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The series explored the historical, cultural, and scientific dimensions of psilocybin — from indigenous use and psychedelic therapy to neuroscience and public perception. It blended interviews, academic research, and narrative storytelling to bridge science communication and experiential knowledge.&lt;/p&gt;
+&lt;p&gt;This capstone project allowed me to combine academic inquiry with creative storytelling, sparking what would later become a deeper interest in &lt;strong&gt;transformative experiences&lt;/strong&gt;, &lt;strong&gt;self-defining memory&lt;/strong&gt;, and &lt;strong&gt;interdisciplinary communication&lt;/strong&gt; — all of which continue to influence my graduate research trajectory.&lt;/p&gt;
+&lt;p&gt;The award was a meaningful affirmation of the value of creative, public-facing scholarship in psychology and cognitive science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Hendersen Leadership Award in Psychology (2022)</title>
+      <link>//localhost:1313/post/henderson-leadership-award-2022/</link>
+      <pubDate>Fri, 15 Apr 2022 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/henderson-leadership-award-2022/</guid>
+      <description>&lt;p&gt;In Spring 2022, I was awarded the &lt;strong&gt;Robert Hendersen Leadership Award&lt;/strong&gt; by the &lt;strong&gt;Psychology Department at Grand Valley State University&lt;/strong&gt;. This departmental honor is presented annually to a student who has demonstrated outstanding leadership, service, and engagement within the academic and campus community.&lt;/p&gt;
+&lt;p&gt;This recognition reflected my roles as a &lt;strong&gt;Psi Chi chapter president&lt;/strong&gt;, research mentor, and active member of the undergraduate psychology program. I worked to support student scholarship, promote research engagement, and foster an inclusive and collaborative academic environment.&lt;/p&gt;
+&lt;p&gt;Receiving this award affirmed the importance of leadership beyond academics — emphasizing mentorship, communication, and the ability to build community in research settings. I’m grateful to the faculty and peers who contributed to my growth and success at GVSU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Scholars Day 2022 at GVSU: Belief Change and Persuasion Poster</title>
+      <link>//localhost:1313/post/gvsu-scholars-day-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 11:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/gvsu-scholars-day-2022/</guid>
+      <description>&lt;p&gt;In April 2022, I presented a research poster at &lt;strong&gt;Grand Valley State University’s Student Scholars Day&lt;/strong&gt;, a campus-wide event that showcases undergraduate research and creative work.&lt;/p&gt;
+&lt;p&gt;My presentation was titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Information About Past Beliefs Influences Current Beliefs.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This project examined how prompting individuals to recall their past beliefs before reading persuasive material could influence how strongly they endorse those beliefs afterward. It was part of my work in the &lt;strong&gt;Social Cognition Lab&lt;/strong&gt; with Dr. Michael Wolfe and complemented our studies on belief revision and argumentative writing.&lt;/p&gt;
+&lt;p&gt;Student Scholars Day offered a supportive environment to share work with students, faculty, and staff outside the psychology department. It also gave me an early chance to practice tailoring my research communication for diverse audiences — a skill that has been invaluable throughout my academic path.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working at Planet Rock Climbing Gym (2022)</title>
+      <link>//localhost:1313/post/planet-rock-2022/</link>
+      <pubDate>Sat, 15 Jan 2022 12:00:00 -0500</pubDate>
+      <guid>//localhost:1313/post/planet-rock-2022/</guid>
+      <description>&lt;p&gt;After graduating from &lt;strong&gt;Grand Valley State University&lt;/strong&gt; in December 2021, I began working at &lt;strong&gt;Planet Rock&lt;/strong&gt;, a premier climbing gym in Michigan, starting in &lt;strong&gt;January 2022&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;At Planet Rock, I served as a &lt;strong&gt;staff member and instructor&lt;/strong&gt;, where I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcomed and oriented new climbers&lt;/li&gt;
+&lt;li&gt;Taught belay and safety classes&lt;/li&gt;
+&lt;li&gt;Maintained equipment and facility standards&lt;/li&gt;
+&lt;li&gt;Fostered a supportive, inclusive climbing community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This experience deepened my appreciation for &lt;strong&gt;movement, problem-solving, and community building through climbing&lt;/strong&gt;. It also helped me grow in confidence as an educator and communicator — skills that continue to benefit my work in academia and leadership roles.&lt;/p&gt;
+&lt;p&gt;Planet Rock was more than a job; it was a bridge between undergraduate life and my next chapter in research and graduate training.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Serving as President of the Psi Chi Chapter at GVSU (2021–2022)</title>
+      <link>//localhost:1313/post/psi-chi-president-gvsu-2021-2022/</link>
+      <pubDate>Wed, 01 Sep 2021 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/psi-chi-president-gvsu-2021-2022/</guid>
+      <description>&lt;p&gt;During the 2021–2022 academic year, I served as &lt;strong&gt;President of the Grand Valley State University chapter of Psi Chi&lt;/strong&gt;, the &lt;strong&gt;International Honor Society in Psychology&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In this role, I led a team of officers in organizing academic and professional development events, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Graduate school Q&amp;amp;A panels&lt;/li&gt;
+&lt;li&gt;Faculty research spotlights&lt;/li&gt;
+&lt;li&gt;Community service activities&lt;/li&gt;
+&lt;li&gt;Peer mentorship pairings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also worked closely with our faculty advisor and departmental leadership to support psychology majors and create an inclusive, engaging chapter culture.&lt;/p&gt;
+&lt;p&gt;This leadership experience helped me grow in confidence, communication, and organizational skill — all of which have continued to shape my professional identity. Psi Chi gave me a valuable platform to support others and stay deeply engaged in the broader psychology community.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer Scholars Showcase 2021: Belief Change and Persuasion Talk at GVSU</title>
+      <link>//localhost:1313/post/gvsu-summer-scholars-2021/</link>
+      <pubDate>Thu, 05 Aug 2021 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/gvsu-summer-scholars-2021/</guid>
+      <description>&lt;p&gt;In Summer 2021, I presented at &lt;strong&gt;Grand Valley State University’s Student Summer Scholars Showcase&lt;/strong&gt;, where I shared the results of my research project funded by a competitive undergraduate research grant.&lt;/p&gt;
+&lt;p&gt;My talk, titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Information About Past Beliefs Influences Current Beliefs,&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+explored how reflecting on previously held beliefs shapes the way individuals respond to persuasive texts and influences their reasoning and writing. This was part of my extended work in the &lt;strong&gt;Social Cognition Lab&lt;/strong&gt; with Dr. Michael Wolfe, supported by the &lt;strong&gt;Student Summer Scholars Grant&lt;/strong&gt; from the Office of Undergraduate Research.&lt;/p&gt;
+&lt;p&gt;The presentation was a major milestone in my development as a researcher. It gave me the chance to formally communicate my findings to faculty, administrators, and peers, and marked my first time delivering an academic talk based on independently developed research.&lt;/p&gt;
+&lt;p&gt;This experience affirmed my desire to pursue graduate study and helped build the skills I continue to use in my current academic and professional presentations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Summer Scholars Grant Awarded for Belief Change Research (2021)</title>
+      <link>//localhost:1313/post/student-summer-scholars-grant-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/student-summer-scholars-grant-2021/</guid>
+      <description>&lt;p&gt;In Summer 2021, I was awarded a &lt;strong&gt;Student Summer Scholars Grant&lt;/strong&gt; from the &lt;strong&gt;Office of Undergraduate Research&lt;/strong&gt; at &lt;strong&gt;Grand Valley State University&lt;/strong&gt;. This competitive award provided funding and mentorship for students conducting independent research.&lt;/p&gt;
+&lt;p&gt;My funded project, titled&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Do Changes in Past Beliefs Influence Current Beliefs?&amp;rdquo;&lt;/strong&gt;,&lt;br&gt;
+was conducted in collaboration with Dr. Michael Wolfe in the &lt;strong&gt;Social Cognition Lab&lt;/strong&gt;. It explored how prompting participants to reflect on their prior beliefs before reading persuasive texts impacted their current belief endorsement and argumentative writing.&lt;/p&gt;
+&lt;p&gt;The grant provided $7,750 in support and included faculty mentorship, presentation opportunities, and professional development workshops. The project culminated in a formal talk at the GVSU Summer Scholars Showcase and served as the foundation for multiple future conference presentations and publications.&lt;/p&gt;
+&lt;p&gt;This experience was a major stepping stone in my development as a researcher and gave me the confidence and skills that ultimately shaped my path toward graduate school.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graduating from Grand Valley State University (2021)</title>
+      <link>//localhost:1313/post/gvsu-graduation-2021/</link>
+      <pubDate>Fri, 30 Apr 2021 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/gvsu-graduation-2021/</guid>
+      <description>&lt;p&gt;In Spring 2021, I graduated from &lt;strong&gt;Grand Valley State University&lt;/strong&gt; with a &lt;strong&gt;Bachelor of Science in Psychology&lt;/strong&gt; and a &lt;strong&gt;minor in Applied Statistics&lt;/strong&gt;. My time at GVSU was foundational to my academic and research development — both in and out of the classroom.&lt;/p&gt;
+&lt;p&gt;While at GVSU, I was involved in multiple research projects across psychology and exercise science, earned the &lt;strong&gt;Undergraduate Research Scholar designation&lt;/strong&gt;, and completed a &lt;strong&gt;Student Summer Scholars Grant&lt;/strong&gt;. I was also honored to receive several awards, including the &lt;strong&gt;Excellence-in-a-Discipline Award&lt;/strong&gt;, the &lt;strong&gt;Robert Hendersen Leadership Award&lt;/strong&gt;, and &lt;strong&gt;Outstanding Creative Achievement&lt;/strong&gt; from the Honors College.&lt;/p&gt;
+&lt;p&gt;Through these experiences, I discovered my passion for research on belief, cognition, aging, and emotional memory — and developed a long-term interest in combining psychological science with computational methods.&lt;/p&gt;
+&lt;p&gt;GVSU was where I first learned to design studies, analyze data, present at conferences, and write for publication — and it laid the groundwork for everything that followed in graduate school.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reducing Ageism Through Service Learning: Virtual Talk at GVSU Student Scholars Day (2021)</title>
+      <link>//localhost:1313/post/gvsu-ageism-virtual-talk-2021/</link>
+      <pubDate>Wed, 14 Apr 2021 13:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/gvsu-ageism-virtual-talk-2021/</guid>
+      <description>&lt;p&gt;In Spring 2021, I delivered a &lt;strong&gt;virtual talk&lt;/strong&gt; at &lt;strong&gt;Grand Valley State University’s Student Scholars Day&lt;/strong&gt;, presenting findings from an independent study on educational interventions for reducing ageism in college students.&lt;/p&gt;
+&lt;p&gt;The presentation was titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Can Ageism Be Reduced by Service Learning Built Into a Lecture-Based Aging Course?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The project, conducted under the guidance of Dr. Jing Chen, investigated how a lecture course on aging—when paired with service-learning opportunities—impacted students’ attitudes toward older adults. This research combined my interests in gerontology, education, and social attitudes, and was part of a growing body of work aimed at addressing bias through curriculum design.&lt;/p&gt;
+&lt;p&gt;This was my first formal presentation focused on aging and intergenerational attitudes, and it helped solidify my interest in aging research and its relevance to real-world social issues. The experience also helped me adapt to presenting in virtual formats — a skill that became essential during the pandemic years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Research Experience: Exercise Science Poster at GVSU Student Scholars Day (2019)</title>
+      <link>//localhost:1313/post/gvsu-exercise-science-poster-2019/</link>
+      <pubDate>Wed, 10 Apr 2019 11:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/gvsu-exercise-science-poster-2019/</guid>
+      <description>&lt;p&gt;In Spring 2019, during my first year as an undergraduate at Grand Valley State University, I participated in &lt;strong&gt;Student Scholars Day&lt;/strong&gt; as a co-author on a research poster in the &lt;strong&gt;Exercise Science Lab&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The project was titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;The Effect of Different Pre-Exercise Treatments on Power Output.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Working under the mentorship of faculty in the Exercise Science program, I helped collect and analyze data examining how various warm-up interventions influenced athletic performance. This early exposure to the research process gave me foundational skills in study design, teamwork, and public presentation — all of which proved valuable as I transitioned into cognitive psychology research later in my undergraduate career.&lt;/p&gt;
+&lt;p&gt;Although outside my current academic focus, this project introduced me to the world of empirical inquiry and shaped my confidence in pursuing more complex research in later years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Starting Undergraduate Research at GVSU (2018–2019)</title>
+      <link>//localhost:1313/post/starting-undergrad-research-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/starting-undergrad-research-2018/</guid>
+      <description>&lt;p&gt;In Fall 2018, I began my first research experience as an undergraduate student at &lt;strong&gt;Grand Valley State University&lt;/strong&gt;, joining the &lt;strong&gt;Exercise Science Lab&lt;/strong&gt; during my first year on campus.&lt;/p&gt;
+&lt;p&gt;The project, titled &lt;em&gt;“The Effect of Different Pre-Exercise Treatments on Power Output,”&lt;/em&gt; investigated how warm-up interventions influence athletic performance. I contributed to data collection, participant coordination, and experimental setup — all of which gave me early exposure to the scientific method and the collaborative nature of research.&lt;/p&gt;
+&lt;p&gt;Although my academic interests would later shift toward psychology and cognitive science, this experience was a formative milestone. It helped me build confidence in asking research questions, thinking critically about experimental design, and presenting findings — skills that would become central to my later work in psychology, aging, and memory.&lt;/p&gt;
+&lt;p&gt;It was also my first experience presenting research publicly at GVSU’s Student Scholars Day in 2019 — an event that helped launch my passion for research communication.&lt;/p&gt;
 </description>
     </item>
     

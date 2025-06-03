@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Liam W. Hart</title>
+    <link>//localhost:1313/tags/deep-learning/</link>
+      <atom:link href="//localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Mar 2025 10:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Deep Learning</title>
+      <link>//localhost:1313/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Completed the Neuromatch Academy Deep Learning Program (2025)</title>
+      <link>//localhost:1313/post/neuromatch-deep-learning-2025/</link>
+      <pubDate>Sat, 15 Mar 2025 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/neuromatch-deep-learning-2025/</guid>
+      <description>&lt;p&gt;In Spring 2025, I completed the &lt;strong&gt;Neuromatch Academy Deep Learning Program&lt;/strong&gt;, an intensive, project-based online course designed to provide a deep understanding of modern machine learning methods, especially in the context of neuroscience and cognitive science.&lt;/p&gt;
+&lt;p&gt;The program covered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamentals of neural networks and backpropagation&lt;/li&gt;
+&lt;li&gt;Regularization and optimization strategies&lt;/li&gt;
+&lt;li&gt;Convolutional and recurrent networks&lt;/li&gt;
+&lt;li&gt;Transformer architectures and attention mechanisms&lt;/li&gt;
+&lt;li&gt;Generative models and reinforcement learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This training helped solidify my technical foundation in &lt;strong&gt;deep learning&lt;/strong&gt; and equipped me to apply these methods in my research on autobiographical memory narratives. I especially valued the balance of theoretical depth, coding implementation, and collaborative problem-solving with peers across disciplines.&lt;/p&gt;
+&lt;p&gt;Neuromatch’s emphasis on accessible, open science aligned with my own goals as a researcher working at the intersection of psychology and artificial intelligence.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

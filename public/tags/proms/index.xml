@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROMs | Liam W. Hart</title>
+    <link>//localhost:1313/tags/proms/</link>
+      <atom:link href="//localhost:1313/tags/proms/index.xml" rel="self" type="application/rss+xml" />
+    <description>PROMs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2024 09:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>PROMs</title>
+      <link>//localhost:1313/tags/proms/</link>
+    </image>
+    
+    <item>
+      <title>AHNS at COSM 2024: Socioeconomic Factors and Equity in PROM Completion</title>
+      <link>//localhost:1313/post/ahns-cosm-equity-proms-2024/</link>
+      <pubDate>Fri, 17 May 2024 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/ahns-cosm-equity-proms-2024/</guid>
+      <description>&lt;p&gt;In May 2024, I presented a second clinical research poster at the &lt;strong&gt;American Head and Neck Society (AHNS)&lt;/strong&gt; track at &lt;strong&gt;COSM – Combined Otolaryngology Spring Meetings&lt;/strong&gt;. This work was conducted with the research team at &lt;strong&gt;Henry Ford Health&lt;/strong&gt; and focused on equity in cancer care.&lt;/p&gt;
+&lt;p&gt;The poster, titled:&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Socioeconomic Factors Impacting Equity in Completion of Patient-Reported Outcome Measures Among Patients with Head and Neck Cancer,&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+investigated how variables like income, insurance status, and digital access affected PROM completion rates.&lt;/p&gt;
+&lt;p&gt;I contributed to the data analysis and presentation development alongside collaborators including Dr. Samantha Tam and colleagues across multiple institutions. This work reinforced the need to consider structural barriers in patient engagement and helped me appreciate the broader context of behavioral and psychosocial research within clinical trials.&lt;/p&gt;
+&lt;p&gt;COSM was a dynamic, interdisciplinary venue — and presenting our findings there gave me the opportunity to engage with experts in otolaryngology, behavioral medicine, and implementation science.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
