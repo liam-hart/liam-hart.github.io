@@ -161,8 +161,8 @@ awards:
 
 ## About Me
 
-I am a PhD student in the Janus Lab at Georgia Tech. I am fascinated by the human mind, how it might work, and how we can apply what we understand about it to solve real-world problems. 
+I am a PhD student in the [Janus Lab](https://sites.gatech.edu/liaolab/) at Georgia Tech, supervised by [Hsiao-Wen Liao](https://psychology.gatech.edu/people/hsiao-wen-liao). I am fascinated by the human mind, how it might work, and how we can apply what we understand about it to solve real-world problems. 
 
 My research focuses on autobiographical memory and how it develops across the lifespan. Using natural language processing, I integrate qualitative and quantitative methods to examine how people represent meaningful life experiences in memory at different ages. 
 
-Outside of work, I find my greatest joy in climbing and exploring the natural world. 
+Outside of work, I find my greatest joy in [climbing](https://www.mountainproject.com/user/201318969/liam-hart) and exploring the natural world. 

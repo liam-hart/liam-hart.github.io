@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-08-19T09:00:00-04:00</lastmod>
+    <loc>//localhost:1313/experience/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/</loc>
@@ -15,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/autobiographical-memory/</loc>
+    <lastmod>2025-05-20T10:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2025-05-20T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -264,10 +268,6 @@
   </url><url>
     <loc>//localhost:1313/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>//localhost:1313/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/javascript/</loc>

@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Experience</title>
+      <link>//localhost:1313/experience/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>In Preparation: Manuscript on Emotional Autobiographical Memory and NLP</title>
       <link>//localhost:1313/post/forthcoming-paper-memory-nlp/</link>
       <pubDate>Tue, 20 May 2025 10:00:00 -0400</pubDate>
@@ -203,14 +211,6 @@ was the culmination of a multi-year undergraduate research project I conducted i
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/project/example-1/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>//localhost:1313/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/experience/</guid>
-      <description></description>
     </item>
     
     <item>
