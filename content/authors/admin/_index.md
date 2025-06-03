@@ -6,6 +6,7 @@ summary: "PhD student at Georgia Tech studying autobiographical memory and aging
 superuser: true # primary user of site?
 highlight_name: true # highlight name in author list
 role: PhD Student in Psychology
+
 organizations:
   - name: Georgia Institute of Technology
     url: https://sites.gatech.edu/liaolab/
@@ -29,8 +30,9 @@ interests:
  - Autobiographical Memory
  - Cognitive Aging
  - Natural Language Processing
-education:
-  - area: PhD Psychology
+
+ducation:
+  - area: PhD Psychology (in progress)
     institution: Georgia Institute of Technology
     date_start: 2024-08-19
     date_end: 2029-05-01
@@ -67,6 +69,7 @@ education:
     button:
       text: 'Paper on argumentative writing and beliefs'
       url: 'https://link.springer.com/article/10.1007/s11251-024-09663-x'
+
 work:
   - position: Research Coordinator
     company_name: Henry Ford Health
@@ -116,6 +119,7 @@ skills:
         description: 'Send me recommendations!'
         percent: 40
         icon: film
+
 awards:
   - title: Neuromatch Academy Deep Learning Course
     url: https://neuromatch.io/deep-learning-course/

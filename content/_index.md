@@ -30,11 +30,9 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My research focuses on how our memory for meaningful life experiences is affected by aging. 
-        
-        I apply natural language processing to reveal how people narrate memories differently across different stages of the lifespan. This hybrid approach deals with the shortcomings and leverages the strengths of qualitative and quantitative methods.
+        I study how memory for meaningful life experiences changes with age. I am particulary focused on highly emotional events recalled in natural, narrative form.
 
-        Please don't hesitate to reach out! I am always looking for more friends and collaborators.
+        My research uses natural language processing (NLP) to examine how people narrate memories differently across the lifespan. By integrating qualitative depth with quantitative rigor, this mixed-methods approach leverages ecological validity and advancements in NLP to provide a more nuanced understanding of how we remember our lives.
     design:
       spacing:
         padding: ['100px', '0', '0px', '0']
@@ -49,6 +47,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: ['100px', '0', '0px', '0']
   - block: collection
     id: talks
     content:
@@ -57,8 +57,9 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
-      columns: 1
+      view: card # card is only view available now, more may be added
+      spacing:
+        padding: ['100px', '0', '0px', '0']
   - block: collection
     id: news
     content:
@@ -78,9 +79,12 @@ sections:
       offset: 0 # offset by how many pages?
       order: desc # page order
     design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']
+    design:
       view: date-title-summary
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ['100px', '0', '0px', '0']
 
 
 # For showcasing featured publications, enabled with publications that have 'featured: true'
