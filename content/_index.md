@@ -102,17 +102,6 @@ sections:
       view: card # card is only view available now, more may be added
       spacing:
         padding: ['100px', '0', '0px', '0']
-  - block: markdown
-    content:
-      title: 'Teaching Philosophy'
-      subtitle: ''
-      text: |-
-        I love learning about psychology. Presumably, outside of a Psych 101, most of the students chose these classes because they are interested in them. The obstacle is not making the students interested. It is making the learning accessible, and the assignments clear pathways for learning.
-
-        See the courses I have had the pleasure of teaching, and the associated materials, below.
-    design:
-      spacing:
-        padding: ['100px', '0', '0px', '0']
 
 # For showcasing featured publications, enabled with publications that have 'featured: true'
   # - block: collection

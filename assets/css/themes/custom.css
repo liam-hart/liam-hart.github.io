@@ -1,0 +1,14 @@
+:root {
+  /* Natural Forest Green Base */
+  --color-primary-50: 239 246 240;   /* Pale eucalyptus */
+  --color-primary-100: 219 234 219;  /* Soft mint */
+  --color-primary-200: 187 222 191;  /* Muted sage */
+  --color-primary-300: 139 193 150;  /* Sage green */
+  --color-primary-400: 98 164 110;   /* Mellow forest green */
+  --color-primary-500: 72 138 89;    /* Forest green (base) */
+  --color-primary-600: 58 110 71;    /* Deeper green */
+  --color-primary-700: 44 89 58;     /* Mossy pine */
+  --color-primary-800: 35 70 47;     /* Dark fir */
+  --color-primary-900: 24 49 33;     /* Deep woodland */
+  --color-primary-950: 13 30 18;     /* Near black with green undertone */
+}

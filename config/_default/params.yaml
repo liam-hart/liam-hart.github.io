@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: light
+  color: custom
 
 # SEO
 marketing:
@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'I am a psychology PhD student specializing in autobiographical memory and aging, leveraging NLP and quantitative methods to explore how we remember significant life experiences.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''

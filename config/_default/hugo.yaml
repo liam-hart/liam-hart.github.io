@@ -7,6 +7,11 @@
 title: Liam W. Hart
 # Website URL
 baseURL: 'liam-hart.github.io'
+description: 'I am a psychology PhD student specializing in autobiographical memory and aging, leveraging NLP and quantitative methods to explore how we remember significant life experiences.'
+twitter: 'Liam_Hartt'
+github: 'liam-hart'
+email: 'lhart39@gatech.edu'
+
 
 ############################
 ## LANGUAGE
