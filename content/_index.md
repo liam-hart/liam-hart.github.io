@@ -18,8 +18,8 @@ sections:
       css_class: dark
       background:
         color: black
-        image:          # background image
-          filename: banner.png
+        image:          
+          filename: banner.png # background image
           filters:
             brightness: .4
           size: cover
@@ -33,6 +33,26 @@ sections:
         I study how memory for meaningful life experiences changes with age. I am particulary focused on highly emotional events recalled in natural, narrative form.
 
         My research uses natural language processing (NLP) to examine how people narrate memories differently across the lifespan. By integrating qualitative depth with quantitative rigor, this mixed-methods approach leverages ecological validity and advancements in NLP to provide a more nuanced understanding of how we remember our lives.
+    design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      spacing:
+        padding: ['100px', '0', '0px', '0']
+    design:
+      date_format: 'January 2006' # Hugo date format
+      is_education_first: false # Education or Experience section first?
+      spacing:
+        padding: ['100px', '0', '0px', '0']
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: true
     design:
       spacing:
         padding: ['100px', '0', '0px', '0']

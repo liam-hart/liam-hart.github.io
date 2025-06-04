@@ -32,7 +32,7 @@ profiles:
 - icon: brands/x
   url: https://x.com/Liam_hartt
   label: X (Twitter)
-- icon: mountain-project
+- icon: mountain-project # this is in hero folder
   url: https://www.mountainproject.com/user/201318969/liam-hart
   label: Mountain Project
 
@@ -41,7 +41,7 @@ interests:
  - Cognitive Aging
  - Natural Language Processing
 
-ducation:
+education:
   - area: PhD Psychology (in progress)
     institution: Georgia Institute of Technology
     date_start: 2024-08-19
@@ -120,7 +120,7 @@ skills:
       - name: Climbing & Mountaineering
         description: 'Sport, trad, and some ice'
         percent: 70
-        icon: mountain-project
+        icon: mountain-project # this is in hero folder
       - name: Music
         description: 'Rap, Rock, and Indie'
         percent: 50
@@ -136,14 +136,14 @@ awards:
     certificate_url: https://example.com
     date: '2025-07-25'
     awarder: Neuromatch Academy
-    icon: neuromatch-academy
+    icon: neuromatch-academy # this is in brands folder
     summary: |
       Completed an intensive, hands-on deep learning course with a focus on Natural Language Processing (NLP). Gained practical experience with modern NLP architectures, including BERT and GPT, and explored topics such as tokenization, fine-tuning, and prompt engineering. Collaborated on a group project applying deep learning techniques to NLP tasks, enhancing skills in PyTorch.
   - title: President's Fellowship
     url: https://grad.gatech.edu/presidents-fellowship
     awarder: Georgia Institute of Technology
     date: '2024-08-01'
-    icon: georgia-tech
+    icon: georgia-tech # this is in brands folder
     summary: |
       Awarded to top 10 percent of incoming doctoral students at Georgia Tech. 
       
@@ -152,7 +152,7 @@ awards:
     url: https://www.gvsu.edu/ours/student-summer-scholars-898.htm
     awarder: Office of Undergraduate Research, Grand Valley State University
     date: '2021-05-01'
-    icon: grand-valley
+    icon: grand-valley # this is in brands folder
     summary: |
       Funded independent undergraduate research project on argumentative writing and beliefs. 
       
@@ -161,14 +161,14 @@ awards:
     url: https://www.gvsu.edu/provost/student-awards-158.htm
     awarder: Grand Valley State University
     date: '2022-04-01'
-    icon: grand-valley
+    icon: grand-valley # this is in brands folder
     summary: |
       Recognized as the top undergraduate in Psychology for outstanding academic performance.
   - title: Robert Hendersen Leadership Award
     url: https://www.gvsu.edu/psychology/the-robert-hendersen-leadership-award-ii-520.htm
     awarder: Department of Psychology, Grand Valley State University
     date: '2022-04-01'
-    icon: grand-valley
+    icon: grand-valley # this is in brands folder
     summary: |
       Recognized for outstanding leadership and service to the psychology department.
 ---
