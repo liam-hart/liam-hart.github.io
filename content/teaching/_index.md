@@ -37,7 +37,7 @@ sections:
       spacing:
         padding: ['100px', '0', '0px', '0']
   - block: collection
-    id: teaching
+    # id: teaching
     content:
       title: Teaching
       filters:
@@ -45,5 +45,5 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 ---

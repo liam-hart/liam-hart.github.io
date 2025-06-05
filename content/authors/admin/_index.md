@@ -9,6 +9,7 @@ role: PhD Student in Psychology
 
 organizations:
   - name: Georgia Institute of Technology
+  - name: Janus Laboratory
     url: https://sites.gatech.edu/liaolab/
 profiles:
 - icon: envelope
@@ -57,9 +58,10 @@ education:
     date_end: 2029-05-01
     summary: |
       **Selected courses:**
-      *- Multivariate Statistics*
-      *- Multilevel Modeling*
-      *- Lifespan Development*
+
+      - *Multivariate Statistics*
+      - *Multilevel Modeling*
+      - *Lifespan Development*
 
       Thesis focused on age-related changes in autobiographical memory. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao).
     button:
@@ -71,9 +73,10 @@ education:
     date_end: 2021-12-18
     summary: |
       **Selected courses:**
-      *- Computing and Graphics with R*
-      *- Multivariate Data Analysis*
-      *- Philosophy of Mind*
+
+      - *Computing and Graphics with R*
+      - *Multivariate Data Analysis*
+      - *Philosophy of Mind*
 
       Undergraduate research focused on the malleability of beliefs and how beliefs shape argumentative writing
     button:
@@ -101,7 +104,9 @@ work:
       Working at Planet Rock was more than just a job–it was a formative chapter in my life. I gained confidence, leadership, and hands-on teaching experience, all while finding a lifelong sport and community that continue to energize me. Climbing challenges me physically, sparks creativity, and connects me socially, all of which fuel my well-being and give me the focus and energy I bring to my academic work.
 
 skills:
-  - name: Technical Skills
+  - name: '<span style="color: rgb(44 89 58)">Technical Skills</span>'
+    color: rgb(72 138 89)
+    color_border: rgb(13 30 18)
     items:
       - name: Deep Learning in Python
         description: 'seaborn, pandas, sklearn, pytorch, transformers'
@@ -116,6 +121,8 @@ skills:
         percent: 30
         icon: devicon/vscode
   - name: Hobbies
+    color: rgb(72 138 89)
+    color_border: rgb(13 30 18)
     items:
       - name: Climbing & Mountaineering
         description: 'Sport, trad, and some ice'
@@ -174,9 +181,14 @@ awards:
 ---
 
 ## About Me
+{style="color: rgb(139 193 150);"}
 
-I am a PhD student in the [Janus Lab](https://sites.gatech.edu/liaolab/) at Georgia Tech, supervised by [Hsiao-Wen Liao](https://psychology.gatech.edu/people/hsiao-wen-liao). I am fascinated by the human mind, how it might work, and how we can apply what we understand about it to solve real-world problems. 
+I am a PhD student in the <a href="https://sites.gatech.edu/liaolab/" style="color: rgb(139 193 150);">Janus Lab</a> at Georgia Tech, supervised by <a href="https://psychology.gatech.edu/people/hsiao-wen-liao" style="color: rgb(139 193 150);">Hsiao-Wen Liao</a>. I am fascinated by the human mind, how it might work, and how we can apply what we understand about it to solve real-world problems.
+{style="color: rgb(230 240 230);"}
 
-My research focuses on autobiographical memory and how it develops across the lifespan. Using natural language processing, I integrate qualitative and quantitative methods to examine how people represent meaningful life experiences in memory at different ages. 
+My research focuses on autobiographical memory and how it develops across the lifespan. Using natural language processing, I integrate qualitative and quantitative methods to examine how people represent meaningful life experiences in memory at different ages.
+{style="color: rgb(230 240 230);"}
 
-Outside of work, I find my greatest joy in climbing and exploring the natural world. 
+Outside of work, I find my greatest joy in climbing and exploring the natural world.
+{style="color: rgb(230 240 230);"}
+

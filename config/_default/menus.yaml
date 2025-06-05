@@ -3,12 +3,16 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+
+# Use /#page to link to a section on the homepage.
+# Use page/ to link to a page in the corresponding "page" content folder.
+
 main:
   - name: Bio
     url: /
     weight: 1
   - name: Updates
-    url: /#news
+    url: /#news # doing news/ would bring you to a new page, linked to whatever is in the news/ folder
     weight: 2
   - name: Papers
     url: /#papers
@@ -17,14 +21,11 @@ main:
     url: /#talks
     weight: 4
   - name: Teaching
-    url: teaching/
+    url: /#teaching
     weight: 5
-  - name: Recognitions
-    url: experience/
-    weight: 6
-  # - name: Contact
-  #   url: /#contact
-  #   weight: 7
+  - name: Recognition
+    url: /#recognition
+    weight: 
   # - name: Projects
   #   url: projects/
-  #   weight: 8
+  #   weight: 7

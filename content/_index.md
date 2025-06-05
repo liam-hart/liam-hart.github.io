@@ -15,11 +15,10 @@ sections:
         text: Download CV
         url: uploads/LWH_CV_20250520.pdf
     design:
-      css_class: dark
+      css_class: custom  # I tried making my own but it wasn't
       background:
-        color: black
         image:          
-          filename: banner.png # background image
+          filename: banner.png # background image. you can do this for any of the blocks below, too
           filters:
             brightness: .4
           size: cover
@@ -27,35 +26,27 @@ sections:
           parallax: true
   - block: markdown
     content:
-      title: 'My Research'
+      title: '<span style="color: rgb(44 89 58)">My Research</span>'
       subtitle: ''
       text: |-
+        <span style="color: rgb(45 45 45)">
         I study how memory for meaningful life experiences changes with age. I am particulary focused on highly emotional events recalled in natural, narrative form.
 
         My research uses natural language processing (NLP) to examine how people narrate memories differently across the lifespan. By integrating qualitative depth with quantitative rigor, this mixed-methods approach leverages ecological validity and advancements in NLP to provide a more nuanced understanding of how we remember our lives.
-    design:
-      spacing:
-        padding: ['100px', '0', '0px', '0']
   - block: resume-experience
     content:
       username: admin
     design:
-      spacing:
-        padding: ['100px', '0', '0px', '0']
-    design:
+      css_class: custom
       date_format: 'January 2006' # Hugo date format
       is_education_first: false # Education or Experience section first?
-      spacing:
-        padding: ['100px', '0', '0px', '0']
   - block: resume-skills
     content:
       title: Skills & Hobbies
       username: admin
     design:
+      css_class: custom
       show_skill_percentage: true
-    design:
-      spacing:
-        padding: ['100px', '0', '0px', '0']
   - block: collection
     id: news
     content:
@@ -76,8 +67,6 @@ sections:
       order: desc # page order
     design:
       view: date-title-summary
-      spacing:
-        padding: ['100px', '0', '0px', '0']
   - block: collection
     id: papers
     content:
@@ -89,8 +78,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      spacing:
-        padding: ['100px', '0', '0px', '0']
   - block: collection
     id: talks
     content:
@@ -99,9 +86,44 @@ sections:
         folders:
           - event
     design:
-      view: card # card is only view available now, more may be added
-      spacing:
-        padding: ['100px', '0', '0px', '0']
+      view: article-grid
+      columns: 3
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: ''
+      text: |-
+        #### Philosophy
+        
+        I love learning about psychology, and this passion deeply informs my teaching. Beyond introductory courses, most students enroll in psychology classes because of genuine interest. The key challenge isn’t fostering interest but making the learning accessible and ensuring assignments clearly facilitate learning.
+
+        Intrinsic motivation is essential yet challenging to cultivate. Thus, I strive to minimize barriers to learning by structuring both coursework and in-class activities optimally. Effective teaching requires more than clearly communicating course content; it demands creating engaging conditions that motivate students beyond the classroom. My approach emphasizes this often-overlooked element, leading to consistent positive outcomes, enthusiastic feedback, and enhanced student learning.
+
+        #### Commitment to Diversity Equity & Inclusion
+
+        I still distinctly recall my father, then a manager at General Motors Design, impressing upon me the importance of diversity for effective teamwork, problem-solving, and creativity. He emphasized that individual and team ideas are shaped and limited by upbringing and culture, and that diversity inherently broadens this scope, generating ideas that non-diverse teams might never consider. As psychologists, we recognize how deeply culture influences cognition at both individual and collective levels. Thus, the profound benefits of diversity in ideas, efficiency, and outcomes cannot be overstated.
+
+        Beyond cognitive and creative advantages, I firmly believe in the importance of equity and inclusion to uplift and create opportunities for individuals from disadvantaged backgrounds—those who rarely encounter open doors of opportunity. As a white man from a privileged background, I’ve reflected deeply on the advantages that have brought me to where I am today, and I view it as my responsibility to leverage my position to empower and support those whose paths differ from mine.
+
+        As an instructor and mentor, I am committed to fostering a safe, inclusive learning environment for students from all backgrounds. I actively strive to cultivate a sense of belonging and encourage the inclusion of diverse perspectives across race, ethnicity, gender identity, sexual orientation, age, socioeconomic status, disability, neurodiversity, religion, and national origin in psychology courses and research. Moreover, I am dedicated to making psychological knowledge and research accessible and beneficial to people of all backgrounds.
+  - block: collection
+    content:
+      title: Courses
+      filters:
+        folders:
+          - teaching
+    design:
+      view: article-grid
+      columns: 3
+  - block: resume-awards
+    id: recognition
+    content:
+      title: Funding & Recognition
+      username: admin
+
+
+
 
 # For showcasing featured publications, enabled with publications that have 'featured: true'
   # - block: collection

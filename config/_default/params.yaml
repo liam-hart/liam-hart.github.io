@@ -15,9 +15,9 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'I am a psychology PhD student specializing in autobiographical memory and aging, leveraging NLP and quantitative methods to explore how we remember significant life experiences.'
-    twitter: 'GetResearchDev'
+    twitter: 'Liam_Hartt'
   analytics:
-    google_analytics: ''
+    google_analytics: '' # Look in static/SEO
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -34,6 +34,7 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
     logo:
       text: "Liam W. Hart"
 
