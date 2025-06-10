@@ -9,8 +9,6 @@ role: PhD Student in Psychology
 
 organizations:
   - name: Georgia Institute of Technology
-  - name: Janus Laboratory
-    url: https://sites.gatech.edu/liaolab/
 profiles:
 - icon: envelope
   url: 'mailto:lhart39@gatech.edu'
@@ -104,9 +102,9 @@ work:
       Working at Planet Rock was more than just a job–it was a formative chapter in my life. I gained confidence, leadership, and hands-on teaching experience, all while finding a lifelong sport and community that continue to energize me. Climbing challenges me physically, sparks creativity, and connects me socially, all of which fuel my well-being and give me the focus and energy I bring to my academic work.
 
 skills:
-  - name: '<span style="color: rgb(44 89 58)">Technical Skills</span>'
-    color: rgb(72 138 89)
-    color_border: rgb(13 30 18)
+  - name: 'Technical Skills'
+    # color: rgb(72 138 89)
+    # color_border: rgb(13 30 18)
     items:
       - name: Deep Learning in Python
         description: 'seaborn, pandas, sklearn, pytorch, transformers'
@@ -121,8 +119,8 @@ skills:
         percent: 30
         icon: devicon/vscode
   - name: Hobbies
-    color: rgb(72 138 89)
-    color_border: rgb(13 30 18)
+    # color: rgb(72 138 89)
+    # color_border: rgb(13 30 18)
     items:
       - name: Climbing & Mountaineering
         description: 'Sport, trad, and some ice'
@@ -140,7 +138,6 @@ skills:
 awards:
   - title: Neuromatch Academy Deep Learning Course
     url: https://neuromatch.io/deep-learning-course/
-    certificate_url: https://example.com
     date: '2025-07-25'
     awarder: Neuromatch Academy
     icon: neuromatch-academy # this is in brands folder
@@ -181,14 +178,9 @@ awards:
 ---
 
 ## About Me
-{style="color: rgb(139 193 150);"}
-
-I am a PhD student in the <a href="https://sites.gatech.edu/liaolab/" style="color: rgb(139 193 150);">Janus Lab</a> at Georgia Tech, supervised by <a href="https://psychology.gatech.edu/people/hsiao-wen-liao" style="color: rgb(139 193 150);">Hsiao-Wen Liao</a>. I am fascinated by the human mind, how it might work, and how we can apply what we understand about it to solve real-world problems.
-{style="color: rgb(230 240 230);"}
+I am a PhD student in the <a href="https://sites.gatech.edu/liaolab/">Janus Lab</a> at Georgia Tech, supervised by <a href="https://psychology.gatech.edu/people/hsiao-wen-liao" >Hsiao-Wen Liao</a>. I am fascinated by the human mind, how it might work, and how we can apply what we understand about it to solve real-world problems.
 
 My research focuses on autobiographical memory and how it develops across the lifespan. Using natural language processing, I integrate qualitative and quantitative methods to examine how people represent meaningful life experiences in memory at different ages.
-{style="color: rgb(230 240 230);"}
 
 Outside of work, I find my greatest joy in climbing and exploring the natural world.
-{style="color: rgb(230 240 230);"}
 

@@ -1,99 +1,429 @@
+/* 🌿 Font and Base Setup */
 :root {
-  /* Font stack */
   --font-main: 'Georgia', serif;
   --font-heading: 'Georgia', serif;
 
-  /* Color variables */
-  --bg-color: 235, 243, 235;                    /* Deep earthy charcoal */
-  --font-color-body: 245, 243, 235;          /* homepage text */
-  --font-color-subheading: 200, 180, 160;    /* Muted beige-tan */
-  --font-color-heading: 174, 219, 174;       /* Soft sage green */
-  --font-color-link: 142, 202, 160;          /* Mellow mint green */
-  --accent-color: 203, 164, 98;              /* Warm tan/goldenrod for buttons etc. */
+  /* Earthy tone palette */
+  --forest-light: 103, 132, 93;    /* lighter moss green */
+  --taupe-dark: 180, 175, 165;
+
+  --sage-light: 222 232 218;     /* background for light mode */
+  --forest-dark: 45 45 40;       /* general text */
+  --moss-green: 85 109 75;       /* headings */
+  --bark-brown: 137 160 121;     /* accent */
+  --taupe-light: 224 221 214;    /* light text for dark background */
+  --pine-dark: 23 33 20;         /* dark background */
+  --linen: 249, 246, 241;
+  --gold: 179, 163, 105
 }
 
-/* Base styling */
+/* 🌞 Light theme default */
 body {
-  font-family: var(--font-main, 'Georgia', serif);
-  background-color: rgb(var(--bg-color));
-  color: rgb(var(--font-color-body));
+  font-family: var(--font-main);
+  background-color: rgb(var(--sage-light));
+  color: rgb(var(--forest-dark));
   line-height: 1.6;
 }
 
-/* Headings */
-h1, h2 {
-  font-family: var(--font-heading, 'Georgia', serif);
-  color: rgb(var(--font-color-heading));
-}
-h3, h4, h5, h6 {
-  font-family: var(--font-heading, 'Georgia', serif);
-  color: rgb(var(--font-color-subheading));
+/* 🌑 Custom landing section override */
+.blox-resume-biography-3 * {
+  color: rgb(var(--taupe-light)); /* Body text for landing page */
 }
 
-/* Navbar */
-nav, .navbar, .nav-container {
-  background-color: rgb(var(--card-bg)); /* Using card-bg as a test color */
-  color: rgb(var(--card-text));
-}
-.navbar a {
-  color: rgb(var(--font-color-link));
-}
-.navbar a:hover {
-  color: rgb(var(--accent-color));
+.blox-resume-biography-3 h1,
+.blox-resume-biography-3 h2 {
+  color: rgb(var(--moss-green)) !important; /* Liam W. Hart and About Me */
 }
 
-/* Buttons */
-button, .btn, .accent {
-  background-color: rgb(var(--button-bg));
-  color: rgb(var(--button-text));
-  border: none;
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-}
-button:hover, .btn:hover {
-  opacity: 0.85;
+.blox-resume-biography-3 h3,
+.blox-resume-biography-3 h4,
+.blox-resume-biography-3 h5,
+.blox-resume-biography-3 h6 {
+  color: rgb(var(--gold)) !important; /* PhD Student in Psychology */
 }
 
-/* Cards / Boxed content */
-.card, .widget, .box {
-  background-color: rgb(var(--card-bg));
-  color: rgb(var(--card-text));
-  padding: 1rem;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+.blox-resume-biography-3 .section-subheading { /* Interests and Education headings */
+  color: rgb(var(--bark-brown)) !important;
 }
 
-/* Links */
-a {
-  color: rgb(var(--font-color-link));
-  text-decoration: underline;
-}
-a:hover {
-  color: rgb(var(--accent-color));
+/* 🎯 Force styling of Liam W. Hart */
+.blox-resume-biography-3 .portrait-title .text-3xl {
+  color: rgb(var(--moss-green)) !important;
 }
 
-/* Footer */
-footer {
-  background-color: rgb(var(--footer-bg));
-  color: rgb(var(--footer-text));
-  padding: 2rem;
-  text-align: center;
+/* 🎯 Force styling of Georgia Institute of Technology */
+.blox-resume-biography-3 .portrait-title .mb-2 > div {
+  color: rgb(var(--gold)) !important;
 }
 
-/* Blockquotes */
-blockquote {
-  background-color: rgb(var(--blockquote-bg));
-  border-left: 5px solid rgb(var(--blockquote-border));
-  margin: 1em 0;
-  padding: 1em;
-  font-style: italic;
+/* 🌿 Base link style for landing page */
+.blox-resume-biography-3 a {
+  color: rgb(var(--moss-green));
+  text-decoration: none;
+  font-weight: normal;
+  transition: color 0.3s ease, font-weight 0.3s ease;
 }
 
-/* Code blocks */
-code, pre {
-  background-color: rgb(var(--code-bg));
-  color: rgb(var(--code-text));
-  padding: 0.2em 0.4em;
-  border-radius: 4px;
-  font-family: 'Courier New', Courier, monospace;
+/* 🌿 Hover: bold + lighter green */
+.blox-resume-biography-3 a:hover {
+  color: rgb(var(--forest-light));
 }
+
+/* custom fonts for each section */
+
+/* 🧠 FORCE override of markdown section text */
+#section-markdown .prose,
+#section-markdown .prose * {
+  color: rgb(var(--forest-dark)) !important;
+  font-family: var(--font-main) !important;
+}
+
+/* 🟩 Override the heading color specifically */
+#section-markdown .text-3xl {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading) !important;
+}
+
+/* 🧩 Resume: Experience Section - General Text */
+#section-resume-experience * {
+  color: rgb(var(--forest-dark)) !important;
+  font-family: var(--font-main) !important;
+}
+
+/* 🟩 Headings (e.g., section title like “Experience”) */
+#section-resume-experience h1,
+#section-resume-experience h2 {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading) !important;
+}
+
+#section-resume-experience h3,
+#section-resume-experience h4,
+#section-resume-experience h5,
+#section-resume-experience h6 {
+  color: rgb(var(--bark-brown)) !important;
+  font-family: var(--font-heading) !important;
+}
+
+/* 🎓 Subheadings like “Research Assistant” or “Graduate Instructor” */
+#section-resume-experience .section-subheading {
+  color: rgb(var(--bark-brown)) !important;
+}
+
+/* 🌿 Headings: "Skills and Hobbies", "Technical Skills", etc. */
+#section-resume-skills h1,
+#section-resume-skills h2,
+#section-resume-skills .text-3xl,
+#section-resume-skills .text-xl,
+#section-resume-skills .font-bold {
+  font-family: var(--font-heading) !important;
+  color: rgb(var(--moss-green)) !important;
+}
+
+/* 🌱 General text labels (e.g., Python, R) */
+#section-resume-skills span,
+#section-resume-skills p,
+#section-resume-skills .text-sm,
+#section-resume-skills .text-base {
+  color: rgb(var(--forest-dark)) !important;
+  font-family: var(--font-main) !important;
+}
+
+/* 📰 News Section Overrides */
+#news,
+#news * {
+  color: rgb(var(--forest-dark)) !important;
+  font-family: var(--font-main) !important;
+}
+
+/* Headline: "What I've been up to" */
+#news .text-3xl,
+#news .font-bold {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading) !important;
+}
+
+/* Article title inside <h2> */
+#news h2,
+#news .text-base {
+  color: rgb(var(--bark-brown)) !important;
+  font-family: var(--font-heading) !important;
+}
+
+/* Date */
+#news time,
+#news .text-sm {
+  color: rgb(var(--forest-light)) !important;
+}
+
+/* Article body paragraph */
+#news p {
+  color: rgb(var(--forest-dark)) !important;
+}
+
+/* 🔕 Hide "Read more" links in the news section */
+#news .text-primary-500 {
+  display: none !important;
+}
+
+/* 🎯 General text color override */
+#papers * {
+  color: rgb(var(--taupe-dark));
+  font-family: var(--font-main);
+}
+
+/* 📚 Section title */
+#papers .text-3xl {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading);
+}
+
+/* 🧠 Author name (bolded) */
+#papers .font-bold {
+  color: rgb(var(--bark-brown)) !important;
+  font-family: var(--font-heading);
+}
+
+/* 📖 Publication title link (slide-in underline effect) */
+#papers a[href*="/publication/"]:not(.hb-attachment-link) {
+  color: rgb(var(--bark-brown));
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+#papers a[href*="/publication/"]:not(.hb-attachment-link)::after {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: rgb(var(--moss-green));
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+#papers a[href*="/publication/"]:not(.hb-attachment-link):hover {
+  color: rgb(var(--moss-green));
+}
+
+#papers a[href*="/publication/"]:not(.hb-attachment-link):hover::after {
+  transform: scaleX(1);
+}
+
+/* 📎 Attachment icons: PDF, Cite, DOI, URL, etc. */
+#papers a.hb-attachment-link {
+  color: rgb(var(--bark-brown));
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+#papers a.hb-attachment-link:hover {
+  color: rgb(var(--moss-green));
+  transform: scale(1.05);
+}
+
+/* 🎤 Talks Section Styling */
+#talks * {
+  color: rgb(var(--forest-dark)) !important;
+  font-family: var(--font-main);
+}
+
+#talks .text-3xl {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading);
+}
+
+#talks .text-xs {
+  color: rgb(var(--bark-brown)) !important;
+  font-family: var(--font-heading);
+}
+
+#talks .section-subheading {
+  color: rgb(var(--bark-brown)) !important;
+}
+
+#talks a span.bg-gradient-to-r {
+  background-image: none !important;
+  color: rgb(var(--moss-green)) !important;
+  font-weight: 600;
+}
+
+#talks a span.bg-gradient-to-r:hover {
+  color: rgb(var(--bark-brown)) !important;
+  transform: scale(1.02);
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+/* 📅 Events Section Styling */
+#teaching * {
+  color: rgb(var(--forest-dark)) !important;
+  font-family: var(--font-main);
+}
+
+#teaching .text-3xl {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading);
+}
+
+#teaching h1,
+#teaching h2 {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading);
+}
+
+#teaching h3,
+#teaching h4,
+#teaching h5,
+#teaching h6 {
+  color: rgb(var(--bark-brown)) !important;
+  font-family: var(--font-heading);
+}
+
+#teaching .section-subheading {
+  color: rgb(var(--bark-brown)) !important;
+  font-family: var(--font-heading);
+}
+
+/* 🎓 Courses Section Styling */
+#section-collection * {
+  color: rgb(var(--forest-dark)) !important;
+  font-family: var(--font-main);
+}
+
+#section-collection .text-3xl {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading);
+}
+
+#section-collection .text-xs {
+  color: rgb(var(--bark-brown)) !important;
+  font-family: var(--font-heading);
+}
+
+#section-collection .section-subheading {
+  color: rgb(var(--bark-brown)) !important;
+}
+
+#section-collection a span.bg-gradient-to-r {
+  background-image: none !important;
+  color: rgb(var(--moss-green)) !important;
+  font-weight: 600;
+}
+
+#section-collection a span.bg-gradient-to-r:hover {
+  color: rgb(var(--bark-brown)) !important;
+  transform: scale(1.02);
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#section-collection a {
+  color: rgb(var(--moss-green)) !important;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* 🏆 Recognition Section Styling */
+#recognition * {
+  color: rgb(var(--forest-dark));
+}
+
+#recognition .text-3xl {
+  color: rgb(var(--moss-green)) !important;
+  font-family: var(--font-heading);
+}
+
+#recognition h1,
+#recognition h2 {
+  color: rgb(var(--moss-green)) !important;
+}
+
+#recognition h3,
+#recognition h4,
+#recognition h5,
+#recognition h6 {
+  color: rgb(var(--bark-brown)) !important;
+}
+
+#recognition .section-subheading {
+  color: rgb(var(--bark-brown)) !important;
+}
+
+/* Optional: Highlight certificate links with zoom + color effect (reuse same style) */
+#recognition a:not(.btn):not([role="button"]) {
+  color: rgb(var(--bark-brown));
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+#recognition a:not(.btn):not([role="button"]):hover {
+  color: rgb(var(--bark-brown));
+  transform: scale(1.05);
+}
+
+/* 🌟 General button hover effect */
+a.inline-flex {
+  font-family: var(--font-main);
+  font-weight: bold;
+  color: rgb(var(--forest-dark));
+  transition: transform 0.2s ease, background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* ✨ Hover effect: slight zoom, color shift, and soft glow */
+a.inline-flex:hover {
+  transform: scale(1.04);
+  background-color: rgb(var(--moss-green));
+  color: rgb(var(--sage-light));
+  box-shadow: 0 0 8px rgba(var(--moss-green), 0.3);
+}
+
+/* 🌿 Landing Section Button */
+.blox-resume-biography-3 a[href*="CV"] {
+  background-color: rgb(var(--moss-green)) !important;
+  border: 2px solid rgb(var(--moss-green)) !important;
+  color: rgb(var(--sage-light));
+  font-family: var(--font-main);
+  font-weight: bold;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+}
+
+.blox-resume-biography-3 a[href*="CV"]:hover {
+  background-color: rgb(var(--bark-brown)) !important;
+  transform: scale(1.05);
+}
+
+.blox-resume-biography-3 a[href*="CV"] svg {
+  color: rgb(var(--linen)) !important;
+  fill: currentColor !important;
+  stroke: currentColor !important;
+  transition: color 0.3s ease;
+}
+
+/* 🧭 Navbar link base style */
+nav a {
+  color: rgb(var(--moss-green));
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+/* ✨ Hover: lighter green + slight zoom */
+nav a:hover {
+  color: rgb(var(--forest-light));
+  transform: scale(1.05);
+}
+
+/* 🌿 Navbar brand override (e.g., Liam W. Hart) */
+nav .navbar-brand {
+  color: rgb(var(--moss-green)) !important;
+  font-weight: 600;
+}
+
+/* ✨ Optional: slightly lighter on hover */
+nav .navbar-brand:hover {
+  color: rgb(var(--forest-light)) !important;
+  transform: scale(1.05);
+}
+

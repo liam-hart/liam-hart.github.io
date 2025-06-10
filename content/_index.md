@@ -15,7 +15,7 @@ sections:
         text: Download CV
         url: uploads/LWH_CV_20250520.pdf
     design:
-      css_class: custom  # I tried making my own but it wasn't
+      css_style: custom  # I tried making my own but it wasn't
       background:
         image:          
           filename: banner.png # background image. you can do this for any of the blocks below, too
@@ -26,18 +26,18 @@ sections:
           parallax: true
   - block: markdown
     content:
-      title: '<span style="color: rgb(44 89 58)">My Research</span>'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        <span style="color: rgb(45 45 45)">
         I study how memory for meaningful life experiences changes with age. I am particulary focused on highly emotional events recalled in natural, narrative form.
 
         My research uses natural language processing (NLP) to examine how people narrate memories differently across the lifespan. By integrating qualitative depth with quantitative rigor, this mixed-methods approach leverages ecological validity and advancements in NLP to provide a more nuanced understanding of how we remember our lives.
+    design:
+      css_style: custom
   - block: resume-experience
     content:
       username: admin
     design:
-      css_class: custom
       date_format: 'January 2006' # Hugo date format
       is_education_first: false # Education or Experience section first?
   - block: resume-skills
@@ -45,7 +45,6 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      css_class: custom
       show_skill_percentage: true
   - block: collection
     id: news
