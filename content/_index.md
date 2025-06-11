@@ -84,6 +84,7 @@ sections:
       filters:
         folders:
           - event
+        featured_only: true
     design:
       view: article-grid
       columns: 3

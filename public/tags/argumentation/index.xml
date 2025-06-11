@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argumentation | Liam W. Hart</title>
+    <link>//localhost:1313/tags/argumentation/</link>
+      <atom:link href="//localhost:1313/tags/argumentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Argumentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu2517494180984873850.png</url>
+      <title>Argumentation</title>
+      <link>//localhost:1313/tags/argumentation/</link>
+    </image>
+    
+    <item>
+      <title>Beliefs Influence Argumentative Writing</title>
+      <link>//localhost:1313/event/2023-cogsci-poster-beliefs/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/event/2023-cogsci-poster-beliefs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

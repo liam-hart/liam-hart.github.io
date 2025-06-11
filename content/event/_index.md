@@ -1,11 +1,7 @@
 ---
-title: Recent & Upcoming Talks
+title: Presentations
 cms_exclude: true
 
-view: card
-
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
+view: article-grid
+columns: 3
 ---

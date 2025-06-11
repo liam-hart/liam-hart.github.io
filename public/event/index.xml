@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Liam W. Hart</title>
+    <title>Presentations | Liam W. Hart</title>
     <link>//localhost:1313/event/</link>
       <atom:link href="//localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Jul 2022 11:45:00 -0500</lastBuildDate>
+    <description>Presentations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu2517494180984873850.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Presentations</title>
       <link>//localhost:1313/event/</link>
     </image>
     
     <item>
+      <title>Beliefs Influence Argumentative Writing</title>
+      <link>//localhost:1313/event/2023-cogsci-poster-beliefs/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/event/2023-cogsci-poster-beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research, Student Scholarship and Beyond: My Academic Journey</title>
+      <link>//localhost:1313/event/2023-ssd-talk-research-journey/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/event/2023-ssd-talk-research-journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Belief Change After Reading Predicts Argumentative Essay Content</title>
-      <link>//localhost:1313/event/hart-beliefs-2022/</link>
+      <link>//localhost:1313/event/2022-mpa-poster-beliefs/</link>
       <pubDate>Fri, 22 Jul 2022 11:45:00 -0500</pubDate>
-      <guid>//localhost:1313/event/hart-beliefs-2022/</guid>
+      <guid>//localhost:1313/event/2022-mpa-poster-beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belief Change After Reading Predicts Argumentative Essay Content</title>
+      <link>//localhost:1313/event/2022-std-talk-beliefs/</link>
+      <pubDate>Fri, 22 Jul 2022 11:45:00 -0500</pubDate>
+      <guid>//localhost:1313/event/2022-std-talk-beliefs/</guid>
       <description>
 
     
@@ -29,10 +53,26 @@
     </item>
     
     <item>
+      <title>Information About Past Beliefs Influences Current Beliefs</title>
+      <link>//localhost:1313/event/2021-sss-talk-beliefs/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 -0500</pubDate>
+      <guid>//localhost:1313/event/2021-sss-talk-beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mindfulness Meditation Effect on Life Satisfaction and Self-Esteem in Retirement Home Residents</title>
-      <link>//localhost:1313/event/hart-meditation-2020/</link>
+      <link>//localhost:1313/event/2020-aasa-poster-mindfulness/</link>
       <pubDate>Wed, 14 Apr 2021 12:00:00 -0500</pubDate>
-      <guid>//localhost:1313/event/hart-meditation-2020/</guid>
+      <guid>//localhost:1313/event/2020-aasa-poster-mindfulness/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/posters/2020-aasa-poster-mindfulness.jpg&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mindfulness Meditation Effect on Life Satisfaction and Self-Esteem in Retirement Home Residents</title>
+      <link>//localhost:1313/event/2020-aasa-talk-mindfulness/</link>
+      <pubDate>Wed, 14 Apr 2021 12:00:00 -0500</pubDate>
+      <guid>//localhost:1313/event/2020-aasa-talk-mindfulness/</guid>
       <description>
 
     
@@ -46,9 +86,9 @@
     
     <item>
       <title>Can Ageism Be Reduced by Service Learning Built in a Lecture-Based Aging Course?</title>
-      <link>//localhost:1313/event/hart-ageism-2021/</link>
+      <link>//localhost:1313/event/2021-ssd-talk-ageism/</link>
       <pubDate>Fri, 28 Feb 2020 11:30:00 -0500</pubDate>
-      <guid>//localhost:1313/event/hart-ageism-2021/</guid>
+      <guid>//localhost:1313/event/2021-ssd-talk-ageism/</guid>
       <description>
 
     

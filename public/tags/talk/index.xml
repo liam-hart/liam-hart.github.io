@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk | Liam W. Hart</title>
+    <link>//localhost:1313/tags/talk/</link>
+      <atom:link href="//localhost:1313/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talk</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 12:00:00 -0500</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu2517494180984873850.png</url>
+      <title>Talk</title>
+      <link>//localhost:1313/tags/talk/</link>
+    </image>
+    
+    <item>
+      <title>Mindfulness Meditation Effect on Life Satisfaction and Self-Esteem in Retirement Home Residents</title>
+      <link>//localhost:1313/event/2020-aasa-poster-mindfulness/</link>
+      <pubDate>Wed, 14 Apr 2021 12:00:00 -0500</pubDate>
+      <guid>//localhost:1313/event/2020-aasa-poster-mindfulness/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/posters/2020-aasa-poster-mindfulness.jpg&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

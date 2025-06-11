@@ -290,6 +290,22 @@
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/tags/argumentation/</loc>
+    <lastmod>2023-05-08T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/belief-updating/</loc>
+    <lastmod>2023-05-08T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/event/2023-cogsci-poster-beliefs/</loc>
+    <lastmod>2023-05-08T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/event/</loc>
+    <lastmod>2023-05-08T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/tags/cognitive-science/</loc>
     <lastmod>2023-04-15T11:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -300,6 +316,14 @@
   </url><url>
     <loc>//localhost:1313/tags/undergraduate-research/</loc>
     <lastmod>2023-04-15T11:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/academic-journey/</loc>
+    <lastmod>2023-04-12T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/event/2023-ssd-talk-research-journey/</loc>
+    <lastmod>2023-04-12T00:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/bright-study/</loc>
@@ -322,11 +346,11 @@
     <lastmod>2023-04-01T10:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/event/hart-beliefs-2022/</loc>
+    <loc>//localhost:1313/event/2022-mpa-poster-beliefs/</loc>
     <lastmod>2022-07-22T11:45:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/event/</loc>
+    <loc>//localhost:1313/event/2022-std-talk-beliefs/</loc>
     <lastmod>2022-07-22T11:45:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -380,6 +404,10 @@
   </url><url>
     <loc>//localhost:1313/tags/mpa/</loc>
     <lastmod>2022-04-23T13:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/event/2021-sss-talk-beliefs/</loc>
+    <lastmod>2022-04-21T00:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>//localhost:1313/tags/creative-scholarship/</loc>
@@ -486,7 +514,11 @@
     <lastmod>2021-04-14T13:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/event/hart-meditation-2020/</loc>
+    <loc>//localhost:1313/event/2020-aasa-poster-mindfulness/</loc>
+    <lastmod>2021-04-14T12:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/event/2020-aasa-talk-mindfulness/</loc>
     <lastmod>2021-04-14T12:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -494,11 +526,19 @@
     <lastmod>2021-04-14T13:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>//localhost:1313/tags/talk/</loc>
+    <lastmod>2021-04-14T12:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>//localhost:1313/tags/virtual-presentation/</loc>
     <lastmod>2021-04-14T13:00:00-04:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>//localhost:1313/event/hart-ageism-2021/</loc>
+    <loc>//localhost:1313/event/2021-ssd-talk-ageism/</loc>
+    <lastmod>2020-02-28T11:30:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>//localhost:1313/tags/poster/</loc>
     <lastmod>2020-02-28T11:30:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

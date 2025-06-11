@@ -17,8 +17,8 @@ main:
   - name: Papers
     url: /#papers
     weight: 3
-  - name: Talks
-    url: /#talks
+  - name: Presentations
+    url: event/
     weight: 4
   - name: Teaching
     url: /#teaching

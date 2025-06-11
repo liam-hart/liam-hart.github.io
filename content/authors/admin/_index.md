@@ -61,7 +61,7 @@ education:
       - *Multilevel Modeling*
       - *Lifespan Development*
 
-      Thesis focused on age-related changes in autobiographical memory. Supervised by [Hsiao-Wen Liao, PhD](https://psychology.gatech.edu/people/hsiao-wen-liao).
+      Thesis focused on age-related changes in autobiographical memory.
     button:
       text: 'My Thesis on high and low points'
       url: 'https://example.com'
@@ -103,8 +103,8 @@ work:
 
 skills:
   - name: 'Technical Skills'
-    # color: rgb(72 138 89)
-    # color_border: rgb(13 30 18)
+    color: rgb(130, 150, 120)
+    color_border: rgb(130, 150, 120)
     items:
       - name: Deep Learning in Python
         description: 'seaborn, pandas, sklearn, pytorch, transformers'
@@ -119,8 +119,8 @@ skills:
         percent: 30
         icon: devicon/vscode
   - name: Hobbies
-    # color: rgb(72 138 89)
-    # color_border: rgb(13 30 18)
+    color: rgb(88, 70, 50)
+    color_border: rgb(88, 70, 50)
     items:
       - name: Climbing & Mountaineering
         description: 'Sport, trad, and some ice'

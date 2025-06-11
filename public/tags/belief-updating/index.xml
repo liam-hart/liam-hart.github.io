@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belief Updating | Liam W. Hart</title>
+    <link>//localhost:1313/tags/belief-updating/</link>
+      <atom:link href="//localhost:1313/tags/belief-updating/index.xml" rel="self" type="application/rss+xml" />
+    <description>Belief Updating</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu2517494180984873850.png</url>
+      <title>Belief Updating</title>
+      <link>//localhost:1313/tags/belief-updating/</link>
+    </image>
+    
+    <item>
+      <title>Beliefs Influence Argumentative Writing</title>
+      <link>//localhost:1313/event/2023-cogsci-poster-beliefs/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/event/2023-cogsci-poster-beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information About Past Beliefs Influences Current Beliefs</title>
+      <link>//localhost:1313/event/2021-sss-talk-beliefs/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 -0500</pubDate>
+      <guid>//localhost:1313/event/2021-sss-talk-beliefs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
