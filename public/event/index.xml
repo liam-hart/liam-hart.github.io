@@ -5,7 +5,7 @@
     <link>//localhost:1313/event/</link>
       <atom:link href="//localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 May 2023 00:00:00 -0400</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 11:30:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu2517494180984873850.png</url>
       <title>Presentations</title>
@@ -13,34 +13,42 @@
     </image>
     
     <item>
+      <title>Effects of a Brief Cognitive Behavioral Treatment vs Attention Control for Body Image-Related Distress Among Head and Neck Cancer Survivors: A Masked RCT</title>
+      <link>//localhost:1313/event/2024-hfh-bright-poster/</link>
+      <pubDate>Tue, 14 May 2024 11:30:00 +0000</pubDate>
+      <guid>//localhost:1313/event/2024-hfh-bright-poster/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/pictures/2024-hfh-bright-poster-pic.pdf&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
+    </item>
+    
+    <item>
       <title>Beliefs Influence Argumentative Writing</title>
-      <link>//localhost:1313/event/2023-cogsci-poster-beliefs/</link>
+      <link>//localhost:1313/event/2023-cogsci-beliefs-poster/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/event/2023-cogsci-poster-beliefs/</guid>
+      <guid>//localhost:1313/event/2023-cogsci-beliefs-poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research, Student Scholarship and Beyond: My Academic Journey</title>
-      <link>//localhost:1313/event/2023-ssd-talk-research-journey/</link>
+      <link>//localhost:1313/event/2023-ssd-research-talk/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1313/event/2023-ssd-talk-research-journey/</guid>
-      <description></description>
+      <guid>//localhost:1313/event/2023-ssd-research-talk/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/pictures/2023-ssd-research-talk-pic2.jpg&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
     </item>
     
     <item>
       <title>Belief Change After Reading Predicts Argumentative Essay Content</title>
-      <link>//localhost:1313/event/2022-mpa-poster-beliefs/</link>
+      <link>//localhost:1313/event/2022-mpa-beliefs-poster/</link>
       <pubDate>Fri, 22 Jul 2022 11:45:00 -0500</pubDate>
-      <guid>//localhost:1313/event/2022-mpa-poster-beliefs/</guid>
-      <description></description>
+      <guid>//localhost:1313/event/2022-mpa-beliefs-poster/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/pictures/2022-mpa-beliefs-poster-pic.jpg&#34; alt=&#34;Liam at MPA&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
     </item>
     
     <item>
       <title>Belief Change After Reading Predicts Argumentative Essay Content</title>
-      <link>//localhost:1313/event/2022-std-talk-beliefs/</link>
+      <link>//localhost:1313/event/2022-std-beliefs-talk/</link>
       <pubDate>Fri, 22 Jul 2022 11:45:00 -0500</pubDate>
-      <guid>//localhost:1313/event/2022-std-talk-beliefs/</guid>
+      <guid>//localhost:1313/event/2022-std-beliefs-talk/</guid>
       <description>
 
     
@@ -54,25 +62,25 @@
     
     <item>
       <title>Information About Past Beliefs Influences Current Beliefs</title>
-      <link>//localhost:1313/event/2021-sss-talk-beliefs/</link>
+      <link>//localhost:1313/event/2021-sss-beliefs-talk/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>//localhost:1313/event/2021-sss-talk-beliefs/</guid>
-      <description></description>
+      <guid>//localhost:1313/event/2021-sss-beliefs-talk/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/pictures/2021-sss-beliefs-talk-pic2.jpg&#34; alt=&#34;Liam at student summer scholars showcase&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
     </item>
     
     <item>
       <title>Mindfulness Meditation Effect on Life Satisfaction and Self-Esteem in Retirement Home Residents</title>
-      <link>//localhost:1313/event/2020-aasa-poster-mindfulness/</link>
+      <link>//localhost:1313/event/2020-aasa-mindfulness-poster/</link>
       <pubDate>Wed, 14 Apr 2021 12:00:00 -0500</pubDate>
-      <guid>//localhost:1313/event/2020-aasa-poster-mindfulness/</guid>
-      <description>&lt;img src=&#34;//localhost:1313/posters/2020-aasa-poster-mindfulness.jpg&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
+      <guid>//localhost:1313/event/2020-aasa-mindfulness-poster/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/pictures/2020-aasa-poster-mindfulness-pic.jpg&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
     </item>
     
     <item>
       <title>Mindfulness Meditation Effect on Life Satisfaction and Self-Esteem in Retirement Home Residents</title>
-      <link>//localhost:1313/event/2020-aasa-talk-mindfulness/</link>
+      <link>//localhost:1313/event/2020-aasa-mindfulness-talk/</link>
       <pubDate>Wed, 14 Apr 2021 12:00:00 -0500</pubDate>
-      <guid>//localhost:1313/event/2020-aasa-talk-mindfulness/</guid>
+      <guid>//localhost:1313/event/2020-aasa-mindfulness-talk/</guid>
       <description>
 
     
@@ -86,9 +94,9 @@
     
     <item>
       <title>Can Ageism Be Reduced by Service Learning Built in a Lecture-Based Aging Course?</title>
-      <link>//localhost:1313/event/2021-ssd-talk-ageism/</link>
+      <link>//localhost:1313/event/2021-ssd-ageism-talk/</link>
       <pubDate>Fri, 28 Feb 2020 11:30:00 -0500</pubDate>
-      <guid>//localhost:1313/event/2021-ssd-talk-ageism/</guid>
+      <guid>//localhost:1313/event/2021-ssd-ageism-talk/</guid>
       <description>
 
     
