@@ -15,8 +15,7 @@ address:
 abstract: |
   This poster presents a randomized controlled trial investigating the efficacy of a brief cognitive behavioral treatment (CBT) compared to an attention control group in reducing body image-related distress (BID) among head and neck cancer survivors. The BRIGHT intervention was evaluated as a potential standard of care to improve psychosocial morbidity and quality of life in this population. Study outcomes included changes in BID, treatment response profiles, and clinical implementation implications.
 
-date: '2024-05-14T11:30:00-00:00'
-date_end: '2024-05-14T12:30:00-00:00'
+date: '2024-05-17T11:30:00-00:00'
 all_day: false
 
 authors:

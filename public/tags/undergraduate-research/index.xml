@@ -1,27 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>“Undergraduate Research” | Liam W. Hart</title>
+    <title>Undergraduate Research | Liam W. Hart</title>
     <link>//localhost:1313/tags/undergraduate-research/</link>
       <atom:link href="//localhost:1313/tags/undergraduate-research/index.xml" rel="self" type="application/rss+xml" />
-    <description>“Undergraduate Research”</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 10:00:00 -0400</lastBuildDate>
+    <description>Undergraduate Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 11:00:00 -0400</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu2517494180984873850.png</url>
-      <title>“Undergraduate Research”</title>
+      <title>Undergraduate Research</title>
       <link>//localhost:1313/tags/undergraduate-research/</link>
     </image>
     
     <item>
-      <title>“Undergraduate Conference Travel Support from Psi Chi and GVSU (2021–2022)”</title>
-      <link>//localhost:1313/post/travel-grants-2021/</link>
-      <pubDate>Sun, 01 May 2022 10:00:00 -0400</pubDate>
-      <guid>//localhost:1313/post/travel-grants-2021/</guid>
-      <description>&lt;p&gt;During the 2021–2022 academic year, I received two undergraduate conference travel grants to support the presentation of my research at academic conferences:
-•	🧠 Psi Chi Regional Conference Travel Grant – Awarded $320 to support my poster presentation at the Midwestern Psychological Association Conference in Chicago, where I shared findings on belief change and persuasive reading.
-	•	🎓 GVSU Office of Undergraduate Research Conference Travel Grant – Awarded $500 to attend multiple research events, including GVSU Student Scholars Day and the Society for Text and Discourse virtual conference.&lt;/p&gt;
-&lt;p&gt;These grants enabled me to attend high-impact academic events, develop presentation skills, network with researchers, and gain experience sharing my work in professional environments. They were important in reinforcing my commitment to research and helped lay the foundation for my academic career.&lt;/p&gt;
-</description>
+      <title>Presenting at the Midwest Cognitive Science Conference: Argumentative Writing and Belief Change (2023)</title>
+      <link>//localhost:1313/post/2023-midwest_cogsci/</link>
+      <pubDate>Sat, 15 Apr 2023 11:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2023-midwest_cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First First-Author Publication: Educational Gerontology (2023)</title>
+      <link>//localhost:1313/post/2023-first_publication_educational_gerontology/</link>
+      <pubDate>Sat, 01 Apr 2023 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2023-first_publication_educational_gerontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting at the Society for Text and Discourse: Beliefs and Argumentative Writing (2022)</title>
+      <link>//localhost:1313/post/2022-society_text_discourse/</link>
+      <pubDate>Wed, 20 Jul 2022 14:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2022-society_text_discourse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belief Change and Persuasion: Poster Presentation at MPA 2022</title>
+      <link>//localhost:1313/post/2022-mpa_belief_poster/</link>
+      <pubDate>Sat, 23 Apr 2022 13:00:00 -0500</pubDate>
+      <guid>//localhost:1313/post/2022-mpa_belief_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Scholars Day 2022 at GVSU: Belief Change and Persuasion Poster</title>
+      <link>//localhost:1313/post/2022-gvsu_scholars_day/</link>
+      <pubDate>Wed, 13 Apr 2022 11:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2022-gvsu_scholars_day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer Scholars Showcase 2021: Belief Change and Persuasion Talk at GVSU</title>
+      <link>//localhost:1313/post/2021-gvsu_summer_scholars_2021/</link>
+      <pubDate>Thu, 05 Aug 2021 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2021-gvsu_summer_scholars_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Summer Scholars Grant Awarded for Belief Change Research (2021)</title>
+      <link>//localhost:1313/post/2021-sss_grant/</link>
+      <pubDate>Tue, 01 Jun 2021 10:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2021-sss_grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Ageism Through Service Learning: Virtual Talk at GVSU Student Scholars Day (2021)</title>
+      <link>//localhost:1313/post/2021-gvsu_ageism_virtual_talk/</link>
+      <pubDate>Wed, 14 Apr 2021 13:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2021-gvsu_ageism_virtual_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starting Undergraduate Research at GVSU (2018–2019)</title>
+      <link>//localhost:1313/post/2018-starting_undergrad_research/</link>
+      <pubDate>Mon, 01 Oct 2018 09:00:00 -0400</pubDate>
+      <guid>//localhost:1313/post/2018-starting_undergrad_research/</guid>
+      <description></description>
     </item>
     
   </channel>

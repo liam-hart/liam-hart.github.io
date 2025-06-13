@@ -4,7 +4,7 @@ date: 2025-06-01
 type: landing
 
 design:
-  spacing: "5rem"   
+  spacing: "3rem"   
 
 sections:
   - block: resume-biography-3
@@ -34,6 +34,8 @@ sections:
         My research uses natural language processing (NLP) to examine how people narrate memories differently across the lifespan. By integrating qualitative depth with quantitative rigor, this mixed-methods approach leverages ecological validity and advancements in NLP to provide a more nuanced understanding of how we remember our lives.
     design:
       css_style: custom
+      spacing:
+        padding: ['3rem', '0', '0', '0']
   - block: resume-experience
     content:
       username: admin
@@ -80,7 +82,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Selected Presentations
       filters:
         folders:
           - event

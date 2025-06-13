@@ -5,7 +5,7 @@
     <link>//localhost:1313/tags/poster/</link>
       <atom:link href="//localhost:1313/tags/poster/index.xml" rel="self" type="application/rss+xml" />
     <description>Poster</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 11:30:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 May 2024 11:30:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu2517494180984873850.png</url>
       <title>Poster</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Effects of a Brief Cognitive Behavioral Treatment vs Attention Control for Body Image-Related Distress Among Head and Neck Cancer Survivors: A Masked RCT</title>
       <link>//localhost:1313/event/2024-hfh-bright-poster/</link>
-      <pubDate>Tue, 14 May 2024 11:30:00 +0000</pubDate>
+      <pubDate>Fri, 17 May 2024 11:30:00 +0000</pubDate>
       <guid>//localhost:1313/event/2024-hfh-bright-poster/</guid>
       <description>&lt;img src=&#34;//localhost:1313/pictures/2024-hfh-bright-poster-pic.pdf&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Belief Change After Reading Predicts Argumentative Essay Content</title>
       <link>//localhost:1313/event/2022-mpa-beliefs-poster/</link>
-      <pubDate>Fri, 22 Jul 2022 11:45:00 -0500</pubDate>
+      <pubDate>Sun, 22 May 2022 12:00:00 -0500</pubDate>
       <guid>//localhost:1313/event/2022-mpa-beliefs-poster/</guid>
       <description>&lt;img src=&#34;//localhost:1313/pictures/2022-mpa-beliefs-poster-pic.jpg&#34; alt=&#34;Liam at MPA&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Mindfulness Meditation Effect on Life Satisfaction and Self-Esteem in Retirement Home Residents</title>
       <link>//localhost:1313/event/2020-aasa-mindfulness-poster/</link>
-      <pubDate>Wed, 14 Apr 2021 12:00:00 -0500</pubDate>
+      <pubDate>Fri, 28 Feb 2020 12:00:00 -0500</pubDate>
       <guid>//localhost:1313/event/2020-aasa-mindfulness-poster/</guid>
       <description>&lt;img src=&#34;//localhost:1313/pictures/2020-aasa-poster-mindfulness-pic.jpg&#34; alt=&#34;Poster&#34; style=&#34;max-width: 100%; height: auto;&#34; /&gt;</description>
     </item>

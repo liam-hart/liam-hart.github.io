@@ -89,7 +89,7 @@ work:
     date_start: 2023-04-01
     date_end: 2024-07-01
     summary: |2-
-      - Coordinated the BRIGHT Trial under Dr. Samantha Tam, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
+      - Coordinated the BRIGHT Trial, managing operational and regulatory duties such as participant recruitment, IRB communication, and tracking patient appointments and compensation.
       - Contributed to research projects, including a scoping review of care fragmentation in cancer patients, by reading and summarizing research articles.
       - Data management, cleaning, and analysis for studies on the uses and benefits of Patient Reported Outcome Measures (PROMs) in cancer patient care.
   - position: Climbing Instructor
@@ -103,8 +103,8 @@ work:
 
 skills:
   - name: 'Technical Skills'
-    color: rgb(130, 150, 120)
-    color_border: rgb(130, 150, 120)
+    color: rgb(88, 70, 50)
+    color_border: rgb(88, 70, 50)
     items:
       - name: Deep Learning in Python
         description: 'seaborn, pandas, sklearn, pytorch, transformers'
