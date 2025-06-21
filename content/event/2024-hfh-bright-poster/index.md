@@ -27,11 +27,12 @@ featured: false
 
 url_code: ''
 url_pdf: ''
-url_slides: 'posters/2024-hfh-bright-poster.jpg'
+url_slides: 'posters/2024-hfmg-bright-poster.pdf'
 url_video: ''
 
 slides: ""
 projects: []
 ---
 
-<img src="/pictures/2024-hfh-bright-poster-pic.pdf" alt="Poster" style="max-width: 100%; height: auto;" />
+<img src="/pictures/2024-hfmg-bright-poster-pic.jpg" alt="Poster" style="max-width: 100%; height: auto;" />
+

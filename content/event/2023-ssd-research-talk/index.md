@@ -35,4 +35,4 @@ slides: ""
 projects: []
 ---
 
-<img src="/pictures/2023-ssd-research-talk-pic2.jpg" alt="Poster" style="max-width: 100%; height: auto;" />
+<img src="/pictures/2023-ssd-research-talk-pic1.jpg" alt="Poster" style="max-width: 100%; height: auto;" />
