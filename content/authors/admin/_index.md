@@ -138,6 +138,7 @@ skills:
 awards:
   - title: Neuromatch Academy Deep Learning Course
     url: https://neuromatch.io/deep-learning-course/
+    certificate_url: https://portal.neuromatchacademy.org/certificate/13792688-29a9-4087-8ffc-ca601a227d45
     date: '2025-07-25'
     awarder: Neuromatch Academy
     icon: neuromatch-academy # this is in brands folder
